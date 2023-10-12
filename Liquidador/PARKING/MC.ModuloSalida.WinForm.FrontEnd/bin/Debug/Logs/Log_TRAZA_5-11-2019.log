@@ -1,0 +1,42 @@
+2019/11/05 02:45:50.641 - INICIO REGISTRO
+2019/11/05 02:45:58.538 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/05 02:45:59.824 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/05 02:51:54.459 - INICIO REGISTRO
+2019/11/05 02:52:12.531 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/05 02:52:13.022 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/05 02:52:53.000 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/11/05 02:52:54.801 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/11/05 02:52:56.440 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/11/05 03:51:55.248 - MENSAJE: (Presenter Liquidacion) 
+2019/11/05 03:51:55.259 - INICIO REGISTRO
+2019/11/05 04:44:18.324 - INICIO REGISTRO
+2019/11/05 04:44:51.253 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/05 04:44:52.054 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/05 04:45:06.816 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2019/11/05 04:45:22.310 - INICIO REGISTRO
+2019/11/05 04:45:22.514 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/05 04:45:23.748 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/05 04:45:27.880 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2019/11/05 04:45:38.494 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2019/11/05 04:45:58.649 - INICIO REGISTRO
+2019/11/05 04:45:58.659 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/05 04:45:58.773 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/05 04:46:24.290 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2019/11/05 04:47:17.351 - INICIO REGISTRO
+2019/11/05 04:47:17.360 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/05 04:47:17.468 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/05 04:47:28.080 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/11/05 04:47:29.398 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/11/05 04:47:31.268 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/11/05 04:58:18.004 - INICIO REGISTRO
+2019/11/05 04:58:18.015 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/05 04:58:18.157 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/05 04:58:27.948 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/11/05 04:58:30.472 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/11/05 04:58:30.625 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/11/05 05:00:43.242 - INICIO REGISTRO
+2019/11/05 05:00:43.251 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/05 05:00:43.357 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/05 05:00:49.108 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/11/05 05:00:49.926 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/11/05 05:00:50.563 - MENSAJE: (Presenter ObtenerInfoParametros) OK

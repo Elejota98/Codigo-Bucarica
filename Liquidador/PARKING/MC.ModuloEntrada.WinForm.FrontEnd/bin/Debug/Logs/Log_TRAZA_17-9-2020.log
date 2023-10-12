@@ -1,0 +1,19 @@
+2020/09/17 03:45:49.371 - INICIO REGISTRO
+2020/09/17 03:45:49.385 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/17 03:45:50.411 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/17 03:48:41.704 - INICIO REGISTRO
+2020/09/17 03:48:41.719 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/17 03:48:42.531 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/17 03:48:57.193 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/17 03:48:57.243 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/17 03:48:57.300 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/17 03:48:57.516 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/17 03:48:58.041 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/17 03:48:58.509 - MENSAJE: Error_AlistarTarjeta
+2020/09/17 03:48:58.761 - MENSAJE: Error_AlistarTarjeta
+2020/09/17 03:48:59.764 - MENSAJE: Error_AlistarTarjeta
+2020/09/17 03:49:00.771 - MENSAJE: Error_AlistarTarjeta
+2020/09/17 03:49:01.757 - MENSAJE: Error_AlistarTarjeta
+2020/09/17 03:49:03.016 - MENSAJE: Error_AlistarTarjeta
+2020/09/17 03:49:03.762 - MENSAJE: Error_AlistarTarjeta
+2020/09/17 03:49:04.753 - MENSAJE: Error_AlistarTarjeta

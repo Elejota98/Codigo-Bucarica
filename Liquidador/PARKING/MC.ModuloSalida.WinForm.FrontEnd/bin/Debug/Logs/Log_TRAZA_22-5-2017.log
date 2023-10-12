@@ -1,0 +1,17 @@
+2017/05/22 09:18:45.304 - INICIO REGISTRO
+2017/05/22 09:18:45.321 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/05/22 09:18:45.411 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/05/22 09:18:54.783 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/05/22 09:18:55.117 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/05/22 09:18:55.379 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/05/22 09:19:27.148 - MENSAJE: Error (Presenter Liquidacion): 
+2017/05/22 09:19:27.410 - MENSAJE: TestReceptor_ERROR
+2017/05/22 09:19:28.405 - MENSAJE: Error_Conexion_Receptor
+2017/05/22 09:19:28.407 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/05/22 09:19:29.313 - MENSAJE: Error_Conexion_Receptor
+2017/05/22 09:19:29.314 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/05/22 09:22:22.531 - MENSAJE: Error (Presenter Liquidacion): 
+2017/05/22 09:22:22.532 - INICIO REGISTRO
+2017/05/22 09:22:22.546 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/05/22 09:22:47.349 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/05/22 09:30:19.335 - MENSAJE: (Presenter Liquidacion) 

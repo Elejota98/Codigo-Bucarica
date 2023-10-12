@@ -1,0 +1,93 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\GS.Apdu.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.CRT603Device.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.CRT603Device.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\GS.Apdu.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\GS.HexLibrary.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.BusinessObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+C:\Proyecto\Desarrollo ParkingMC\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\GS.Apdu.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\bin\Debug\GS.Apdu.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\bin\Debug\GS.Apdu.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\bin\Debug\GS.Apdu.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\bin\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\bin\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\bin\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\bin\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\bin\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\bin\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb

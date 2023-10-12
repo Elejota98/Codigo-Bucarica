@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E6EE6D3C-0BCF-498C-BD3C-1DDBC53D8DF4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MC.ModuloEntrada.WinForm.Presenter</RootNamespace>
+    <AssemblyName>MC.ModuloEntrada.WinForm.Presenter</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\Presenter.cs" />
+    <Compile Include="frmPrincipal_Presenter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MC.BusinessObjects\MC.BusinessObjects.csproj">
+      <Project>{5104b5cb-e665-4851-89a7-6e3ccd8b399b}</Project>
+      <Name>MC.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.CRT603Device\MC.CRT603Device.csproj">
+      <Project>{ad7011f1-de65-4b9e-9716-c277fdabc969}</Project>
+      <Name>MC.CRT603Device</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.KytsDevice\MC.KytsDevice.csproj">
+      <Project>{d7e3c6f6-1b39-424c-87f9-a5d706a96ee7}</Project>
+      <Name>MC.KytsDevice</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.ModuloEntrada.WinForm.Model\MC.ModuloEntrada.WinForm.Model.csproj">
+      <Project>{011110ad-5392-479c-8e9e-1799e95569d2}</Project>
+      <Name>MC.ModuloEntrada.WinForm.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.ModuloEntrada.WinForm.View\MC.ModuloEntrada.WinForm.View.csproj">
+      <Project>{af8cdcb3-8fd6-4f1a-97c0-6e18838eadb3}</Project>
+      <Name>MC.ModuloEntrada.WinForm.View</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.PLCDevice\MC.PLCDevice.csproj">
+      <Project>{de9c5c84-4b00-4fba-9831-54a23db0651f}</Project>
+      <Name>MC.PLCDevice</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.Utilidades\MC.Utilidades.csproj">
+      <Project>{92337c15-a11e-4456-a77e-0b29bb31ead4}</Project>
+      <Name>MC.Utilidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

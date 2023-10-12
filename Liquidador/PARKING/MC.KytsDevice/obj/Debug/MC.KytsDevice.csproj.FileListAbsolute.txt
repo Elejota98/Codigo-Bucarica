@@ -1,0 +1,154 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb

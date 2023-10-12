@@ -1,0 +1,75 @@
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\MC.ModuloManual.WinForm.FrontEnd.exe.config
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Ico\Imagen_Parquearse.ico
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Imagen_Login.PNG
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_IconoCancelar.png
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\MC.ModuloManual.WinForm.FrontEnd.exe
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\MC.ModuloManual.WinForm.FrontEnd.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\CustomButton.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\TransparentControl.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.frmLogin.resources
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.Properties.Resources.resources
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.exe
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.frmPrincipal.resources
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Imagen_Fondo.png
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_Tarjeta.png
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Title.png
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_Pay.png
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_LeerTI.png
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Ico\Imagen_Parquearse.ico
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Imagen_Fondo.png
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Imagen_Login.PNG
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_IconoCancelar.png
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_LeerTI.png
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_Pay.png
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_Tarjeta.png
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Title.png
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\MC.ModuloManual.WinForm.FrontEnd.exe.config
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\MC.ModuloManual.WinForm.FrontEnd.exe
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\MC.ModuloManual.WinForm.FrontEnd.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\CustomButton.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\TransparentControl.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.frmLogin.resources
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.frmPrincipal.resources
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.Properties.Resources.resources
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.exe
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Ico\Imagen_Parquearse.ico
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Imagen_Fondo.png
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Imagen_Login.PNG
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_IconoCancelar.png
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_LeerTI.png
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_Pay.png
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Img_Tarjeta.png
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\Medios\Png\Title.png
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\MC.ModuloManual.WinForm.FrontEnd.exe.config
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\MC.ModuloManual.WinForm.FrontEnd.exe
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\MC.ModuloManual.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\CustomButton.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\bin\Debug\TransparentControl.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.frmLogin.resources
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.frmPrincipal.resources
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.Properties.Resources.resources
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.exe
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloManual.WinForm.FrontEnd\obj\Debug\MC.ModuloManual.WinForm.FrontEnd.pdb

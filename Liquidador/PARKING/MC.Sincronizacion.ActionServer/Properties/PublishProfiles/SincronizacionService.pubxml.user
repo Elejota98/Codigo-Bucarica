@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MC.BaseService.dll">
+      <publishTime>06/28/2019 16:44:45</publishTime>
+    </File>
+    <File Include="bin/MC.BaseService.pdb">
+      <publishTime>06/28/2019 16:44:45</publishTime>
+    </File>
+    <File Include="bin/MC.BusinessService.dll">
+      <publishTime>06/28/2019 16:44:45</publishTime>
+    </File>
+    <File Include="bin/MC.BusinessService.pdb">
+      <publishTime>06/28/2019 16:44:45</publishTime>
+    </File>
+    <File Include="bin/MC.DataService.dll">
+      <publishTime>06/28/2019 16:44:46</publishTime>
+    </File>
+    <File Include="bin/MC.DataService.pdb">
+      <publishTime>06/28/2019 16:44:46</publishTime>
+    </File>
+    <File Include="bin/MC.Sincronizacion.ActionServer.dll">
+      <publishTime>06/28/2019 16:44:47</publishTime>
+    </File>
+    <File Include="bin/MC.Sincronizacion.ActionServer.pdb">
+      <publishTime>06/28/2019 16:44:46</publishTime>
+    </File>
+    <File Include="bin/MC.SincronizacionService.dll">
+      <publishTime>06/28/2019 16:44:46</publishTime>
+    </File>
+    <File Include="bin/MC.SincronizacionService.pdb">
+      <publishTime>06/28/2019 16:44:46</publishTime>
+    </File>
+    <File Include="MC_SincronizacionService.svc">
+      <publishTime>08/11/2018 09:29:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/28/2019 16:44:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

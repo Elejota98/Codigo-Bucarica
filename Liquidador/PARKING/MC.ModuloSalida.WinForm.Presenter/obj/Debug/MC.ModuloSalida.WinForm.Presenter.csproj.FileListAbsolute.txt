@@ -1,0 +1,184 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Model.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.View.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\GS.Apdu.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\Modbus.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\log4net.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\Unme.Common.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Model.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.View.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Model.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.View.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\GS.Apdu.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\Modbus.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\log4net.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\Unme.Common.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Model.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.View.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Model.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.View.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\GS.Apdu.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\Modbus.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\log4net.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\Unme.Common.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Model.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.View.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Model.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.View.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.PLCDevice.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\Modbus.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\log4net.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\Unme.Common.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Model.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.View.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Presenter.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Model.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.View.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.PLCDevice.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\Modbus.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\log4net.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\Unme.Common.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.Model.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ModuloSalida.WinForm.View.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloSalida.WinForm.Presenter\obj\Debug\MC.ModuloSalida.WinForm.Presenter.pdb

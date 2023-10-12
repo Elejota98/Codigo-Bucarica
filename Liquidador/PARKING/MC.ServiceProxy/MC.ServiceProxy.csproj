@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE1192A6-FE34-485D-8ACD-6E8023C81303}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MC.ServiceProxy</RootNamespace>
+    <AssemblyName>MC.ServiceProxy</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\IProxyService.cs" />
+    <Compile Include="Base\ProxyService.cs" />
+    <Compile Include="DataTransferObjectMapper\Mapper_LiquidacionService.cs" />
+    <Compile Include="DataTransferObjectMapper\Mapper_ModuloSalidaService.cs" />
+    <Compile Include="DataTransferObjectMapper\Mapper_ModuloService.cs" />
+    <Compile Include="EntradaService\IProxyService_Entrada.cs" />
+    <Compile Include="EntradaService\ProxyService_Entrada.cs" />
+    <Compile Include="EnvioImagenes\IProxyService_EnvioImagenes.cs" />
+    <Compile Include="EnvioImagenes\ProxyService_EnvioImagenes.cs" />
+    <Compile Include="Liquidacion\IProxyService_Liquidacion.cs" />
+    <Compile Include="Liquidacion\ProxyService_Liquidacion.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Salida\IProxyService_Salida.cs" />
+    <Compile Include="Salida\ProxyService_Salida.cs" />
+    <Compile Include="Service References\MC_EntradaService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\MC_EnvioImagenesService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\MC_LiquidacionService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\MC_SalidaService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\MC_SincronizacionService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Sincronizacion\IProxyService_Sincronizacion.cs" />
+    <Compile Include="Sincronizacion\ProxyService_Sincronizacion.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MC.BusinessObjects\MC.BusinessObjects.csproj">
+      <Project>{5104b5cb-e665-4851-89a7-6e3ccd8b399b}</Project>
+      <Name>MC.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.Utilidades\MC.Utilidades.csproj">
+      <Project>{92337c15-a11e-4456-a77e-0b29bb31ead4}</Project>
+      <Name>MC.Utilidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.WCFProxy\MC.WCFProxy.csproj">
+      <Project>{9fa9885a-c301-4ec3-9d1c-66fc44beb3c5}</Project>
+      <Name>MC.WCFProxy</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Service References\MC_EntradaService\EntradaService.wsdl" />
+    <None Include="Service References\MC_EntradaService\MC.ServiceProxy.MC_EntradaService.getEventosDispositivo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC.ServiceProxy.MC_EntradaService.getInfoAutorizado_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC.ServiceProxy.MC_EntradaService.getInformacionModulo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC.ServiceProxy.MC_EntradaService.getParametros_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC.ServiceProxy.MC_EntradaService.getPartesModulo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC.ServiceProxy.MC_EntradaService.getTarjetas_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC.ServiceProxy.MC_EntradaService.getValidarIngresoAutorizado_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC.ServiceProxy.MC_EntradaService.setRegistrarAlarma_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC.ServiceProxy.MC_EntradaService.setRegistrarTransaccion_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC.ServiceProxy.MC_EntradaService.setSolucionarAlarmas_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC_EntradaService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC_EntradaService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC_EntradaService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_EntradaService\MC_EntradaService3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_EnvioImagenesService\EnvioImagenesService.wsdl" />
+    <None Include="Service References\MC_EnvioImagenesService\MC.ServiceProxy.MC_EnvioImagenesService.setAlmacenaImagenesServidorCloud_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EnvioImagenesService\MC.ServiceProxy.MC_EnvioImagenesService.setAlmacenaImagenesServidor_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_EnvioImagenesService\MC_EnvioImagenesService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_EnvioImagenesService\MC_EnvioImagenesService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_EnvioImagenesService\MC_EnvioImagenesService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_EnvioImagenesService\MC_EnvioImagenesService3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_EnvioImagenesService\MC_EnvioImagenesService4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_EnvioImagenesService\MC_EnvioImagenesService5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_LiquidacionService\LiquidacionService.wsdl" />
+    <None Include="Service References\MC_LiquidacionService\MC.ServiceProxy.MC_LiquidacionService.Liquidacion_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_LiquidacionService\MC_LiquidacionService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_LiquidacionService\MC_LiquidacionService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_LiquidacionService\MC_LiquidacionService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_LiquidacionService\MC_LiquidacionService3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getEventosDispositivo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getInfoEvento_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getInformacionModulo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getParametros_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getPartesModulo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getTarjetas_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.setRegistrarAlarma_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.setRegistrarTransaccion_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.setSolucionarAlarmas_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC_SalidaService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC_SalidaService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC_SalidaService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_SalidaService\MC_SalidaService3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_SalidaService\SalidaService.wsdl" />
+    <None Include="Service References\MC_SincronizacionService\MC.ServiceProxy.MC_SincronizacionService.Sincronizacion_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MC_SincronizacionService\MC_SincronizacionService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_SincronizacionService\MC_SincronizacionService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_SincronizacionService\MC_SincronizacionService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_SincronizacionService\MC_SincronizacionService3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_SincronizacionService\SincronizacionService.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\MC_EntradaService\" />
+    <WCFMetadataStorage Include="Service References\MC_EnvioImagenesService\" />
+    <WCFMetadataStorage Include="Service References\MC_LiquidacionService\" />
+    <WCFMetadataStorage Include="Service References\MC_SalidaService\" />
+    <WCFMetadataStorage Include="Service References\MC_SincronizacionService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_EntradaService\MC_EntradaService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_EntradaService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_EntradaService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_EntradaService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_EnvioImagenesService\MC_EnvioImagenesService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_EnvioImagenesService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_EnvioImagenesService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_EnvioImagenesService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_SalidaService\MC_SalidaService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_SalidaService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_SalidaService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_SalidaService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_LiquidacionService\MC_LiquidacionService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_LiquidacionService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_LiquidacionService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_LiquidacionService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Service References\MC_SincronizacionService\MC_SincronizacionService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_SincronizacionService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_SincronizacionService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_SincronizacionService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

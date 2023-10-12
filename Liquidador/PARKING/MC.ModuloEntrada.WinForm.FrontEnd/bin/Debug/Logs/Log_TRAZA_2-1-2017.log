@@ -1,0 +1,2633 @@
+2017/01/02 07:44:58.992 - INICIO REGISTRO
+2017/01/02 07:44:59.023 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 07:44:59.117 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 07:45:04.889 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 07:45:08.103 - MENSAJE: Error_AlistarTarjeta
+2017/01/02 07:45:15.263 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:15.405 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:16.295 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:17.309 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:18.323 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:19.337 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:20.351 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:21.365 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:22.379 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:23.393 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:24.407 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:25.421 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:26.435 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:27.449 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:28.463 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:29.477 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:30.491 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:31.505 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:32.519 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:33.533 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:34.547 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:35.561 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:36.575 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:37.589 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:38.603 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:39.617 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:40.631 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:41.645 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:45:42.659 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:35.608 - INICIO REGISTRO
+2017/01/02 07:46:35.608 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 07:46:35.640 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 07:46:37.714 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 07:46:39.352 - MENSAJE: Tarjeta_Alistada
+2017/01/02 07:46:40.008 - MENSAJE: Tarjeta_Borrada
+2017/01/02 07:46:40.023 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 07:46:40.228 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:40.696 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:41.710 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:42.724 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:43.738 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:44.752 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:45.766 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:46.780 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:47.794 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:48.808 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:49.822 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:50.836 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:46:52.755 - MENSAJE: Tarjeta_Escrita
+2017/01/02 07:46:53.192 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 07:46:53.363 - MENSAJE: Sin_Tarjeta
+2017/01/02 07:46:53.894 - MENSAJE: Sin_Tarjeta
+2017/01/02 07:46:54.908 - MENSAJE: Sin_Tarjeta
+2017/01/02 07:46:55.922 - MENSAJE: Sin_Tarjeta
+2017/01/02 07:46:55.922 - MENSAJE: Sin_Tarjeta
+2017/01/02 07:47:00.430 - MENSAJE: Tarjeta_Alistada
+2017/01/02 07:47:01.085 - MENSAJE: Tarjeta_Borrada
+2017/01/02 07:47:04.034 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:05.048 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:06.062 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:07.076 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:08.090 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:09.104 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:10.118 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:11.132 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:12.146 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:13.160 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:14.174 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:15.188 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:16.202 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:17.216 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:18.230 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:19.244 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:20.258 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:21.272 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:22.286 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:23.300 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:24.314 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:25.328 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:26.342 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:27.356 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:28.370 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:29.384 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:30.398 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:31.412 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:32.426 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:33.440 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:34.452 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:35.466 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:36.480 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:37.494 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 07:47:38.508 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:12:47.940 - INICIO REGISTRO
+2017/01/02 08:12:47.971 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 08:12:47.987 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 08:12:48.299 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 08:12:49.095 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:12:49.765 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:12:49.765 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 08:12:49.970 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:12:50.033 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:12:51.047 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:12:53.043 - MENSAJE: Tarjeta_Escrita
+2017/01/02 08:12:53.480 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 08:13:14.051 - INICIO REGISTRO
+2017/01/02 08:13:14.051 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 08:13:14.083 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 08:13:14.317 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 08:13:15.533 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:13:16.189 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:13:16.189 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 08:13:16.511 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:13:17.119 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:13:18.695 - MENSAJE: Tarjeta_Escrita
+2017/01/02 08:13:19.163 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 08:13:48.270 - INICIO REGISTRO
+2017/01/02 08:13:48.282 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 08:13:48.312 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 08:13:48.520 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 08:13:49.665 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:13:50.279 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:13:50.298 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 08:13:50.479 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:13:51.344 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:13:52.674 - MENSAJE: Tarjeta_Escrita
+2017/01/02 08:13:53.118 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 08:15:51.107 - INICIO REGISTRO
+2017/01/02 08:15:51.123 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 08:15:51.154 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 08:15:51.388 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 08:15:52.605 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:15:53.260 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:15:53.260 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 08:15:53.433 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:15:54.197 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:15:55.211 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:15:56.459 - MENSAJE: Tarjeta_Escrita
+2017/01/02 08:15:56.912 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 08:15:58.316 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:15:59.267 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:16:00.281 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:16:00.281 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:16:04.337 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:16:04.977 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:16:10.296 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:10.421 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:11.437 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:12.451 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:13.465 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:14.479 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:15.493 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:16.507 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:17.521 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:18.535 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:19.549 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:20.563 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:21.577 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:22.591 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:23.605 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:24.619 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:25.633 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:26.647 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:27.661 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:28.675 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:29.689 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:30.703 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:16:31.717 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:20:55.760 - INICIO REGISTRO
+2017/01/02 08:20:55.772 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 08:20:55.805 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 08:20:56.026 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 08:20:56.766 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:20:57.390 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:20:57.414 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 08:20:57.800 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:20:57.837 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:20:58.832 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:00.226 - MENSAJE: Tarjeta_Escrita
+2017/01/02 08:21:00.661 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 08:21:02.377 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:21:02.391 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:21:05.691 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:21:06.304 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:21:11.293 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:12.014 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:13.030 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:14.043 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:15.057 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:16.070 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:17.085 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:18.099 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:19.113 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:20.128 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:21.141 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:22.156 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:23.169 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:24.183 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:25.197 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:26.212 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:27.226 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:28.241 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:29.253 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:30.274 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:31.288 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:32.302 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:33.316 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:34.330 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:35.344 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:36.358 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:37.372 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:38.386 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:39.400 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:40.414 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:41.428 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:42.442 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:43.456 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:44.470 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:45.484 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:46.498 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:47.512 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:48.526 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:49.540 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:50.554 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:21:51.568 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:10.244 - INICIO REGISTRO
+2017/01/02 08:23:10.244 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 08:23:10.275 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 08:23:10.493 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 08:23:11.289 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:23:11.944 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:23:11.944 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 08:23:12.118 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:12.305 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:13.319 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:15.534 - MENSAJE: Tarjeta_Escrita
+2017/01/02 08:23:15.971 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 08:23:17.391 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:23:18.389 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:23:19.403 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:23:19.403 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:23:21.369 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:23:22.024 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:23:30.261 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:30.557 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:31.571 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:32.585 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:33.601 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:34.615 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:35.629 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:36.643 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:37.657 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:38.662 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:39.676 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:40.690 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:41.704 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:42.718 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:43.726 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:44.740 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:45.754 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:46.768 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:47.782 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:48.796 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:23:49.810 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:24:57.063 - INICIO REGISTRO
+2017/01/02 08:24:57.074 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 08:24:57.103 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 08:24:57.329 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 08:24:58.069 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:24:58.693 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:24:58.705 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 08:24:58.836 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:24:59.120 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:25:00.933 - MENSAJE: Tarjeta_Escrita
+2017/01/02 08:25:01.359 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 08:25:03.372 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:04.193 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:05.207 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:06.222 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:07.236 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:08.249 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:27.195 - INICIO REGISTRO
+2017/01/02 08:25:27.204 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 08:25:27.231 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 08:25:27.448 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 08:25:28.597 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:25:29.221 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:25:29.234 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 08:25:29.356 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:25:30.273 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:25:31.566 - MENSAJE: Tarjeta_Escrita
+2017/01/02 08:25:32.010 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 08:25:34.326 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:34.362 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:35.346 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:36.359 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:36.370 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:39.600 - MENSAJE: Tarjeta_Alistada
+2017/01/02 08:25:40.223 - MENSAJE: Tarjeta_Borrada
+2017/01/02 08:25:48.277 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:25:48.526 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:25:49.541 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:25:50.554 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 08:25:51.920 - MENSAJE: Tarjeta_Escrita
+2017/01/02 08:25:52.353 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 08:25:54.247 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:54.613 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:55.626 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:56.641 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:57.655 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:58.669 - MENSAJE: Sin_Tarjeta
+2017/01/02 08:25:59.684 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:14:01.474 - INICIO REGISTRO
+2017/01/02 09:14:01.474 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 09:14:01.505 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 09:14:01.724 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 09:14:02.940 - MENSAJE: Tarjeta_Alistada
+2017/01/02 09:14:03.580 - MENSAJE: Tarjeta_Borrada
+2017/01/02 09:14:03.580 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 09:14:04.034 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:04.549 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:05.563 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:06.577 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:07.591 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:08.605 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:09.619 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:10.633 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:11.647 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:12.661 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:13.675 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:14.689 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:16.529 - MENSAJE: Tarjeta_Escrita
+2017/01/02 09:14:16.982 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 09:14:18.386 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:14:18.745 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:14:19.774 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:14:20.770 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:14:21.786 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:14:22.799 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:14:23.814 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:14:23.828 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:14:32.508 - MENSAJE: Tarjeta_Alistada
+2017/01/02 09:14:33.132 - MENSAJE: Tarjeta_Borrada
+2017/01/02 09:14:42.306 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:43.086 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:44.100 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:45.114 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:46.128 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:47.147 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:48.161 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:49.173 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:50.187 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:51.201 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:52.215 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:53.229 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:54.243 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:55.257 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:56.271 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:57.285 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:58.299 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:14:59.313 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:00.327 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:01.341 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:02.355 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:03.369 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:04.383 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:05.387 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:06.399 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:07.414 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:08.429 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:09.443 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:10.457 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:11.471 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:12.485 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:13.499 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:14.513 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:15.527 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:16.541 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:17.555 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:18.569 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:19.583 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:20.597 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:21.611 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:22.625 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:23.639 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:24.653 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:25.667 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:26.681 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:27.695 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:28.709 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:29.723 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:30.737 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:31.751 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:32.765 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:33.779 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:34.793 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:35.807 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:36.821 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:37.835 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:38.849 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:39.863 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:40.877 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:41.891 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:42.905 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:43.919 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:44.933 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:45.947 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:46.961 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:47.975 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:48.989 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:50.003 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:51.017 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:52.031 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:53.045 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:54.059 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:55.073 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:56.087 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:57.101 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:58.115 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:15:59.129 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:00.143 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:01.157 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:02.171 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:03.185 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:04.199 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:05.213 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:06.227 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:07.239 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:08.253 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:09.276 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:10.285 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:11.299 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:12.313 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:13.327 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:14.341 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:15.355 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:16.369 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:17.383 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:18.397 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:19.411 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:20.425 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:21.439 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:22.453 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:23.467 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:24.481 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:25.495 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:26.509 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:27.523 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:28.537 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:29.551 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:30.565 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:31.579 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:32.593 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:33.607 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:34.621 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:35.635 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:36.649 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:37.663 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:38.677 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:39.691 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:40.705 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:16:41.984 - MENSAJE: Tarjeta_Escrita
+2017/01/02 09:16:42.421 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 09:16:44.324 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:16:44.761 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:16:45.775 - MENSAJE: Sin_Tarjeta
+2017/01/02 09:16:46.929 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 09:16:47.849 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 09:16:48.839 - MENSAJE: ID Tarjeta OK
+2017/01/02 09:16:49.229 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 09:16:49.229 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 09:16:49.245 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 09:16:49.261 - MENSAJE: WriteCard_ok
+2017/01/02 09:16:53.408 - MENSAJE: Tarjeta_Alistada
+2017/01/02 09:16:54.079 - MENSAJE: Tarjeta_Borrada
+2017/01/02 09:17:03.329 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:04.031 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:05.045 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:06.059 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:07.073 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:08.087 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:09.101 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:10.115 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:11.129 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:12.143 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:13.157 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:14.171 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:15.185 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:16.199 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:17.213 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:18.227 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:19.241 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:20.255 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:21.269 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:22.283 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:23.297 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:24.313 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:25.327 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:26.341 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:27.355 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:28.369 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:29.383 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:30.397 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:31.411 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:32.425 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:33.439 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:34.453 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:35.467 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:36.481 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:37.495 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:38.509 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:39.523 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:40.537 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:41.551 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:42.565 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:43.579 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:44.593 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:45.607 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:46.621 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:47.635 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:48.649 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:49.663 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:50.677 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:51.691 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:52.705 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:53.719 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:54.733 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:55.747 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:56.761 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:57.775 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:58.789 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:17:59.803 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:00.817 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:01.831 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:02.845 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:03.859 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:04.873 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:05.887 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:06.901 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:07.915 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:08.929 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:09.943 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:10.957 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:11.971 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:12.985 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:13.999 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:15.013 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:16.027 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:17.041 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:18.055 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:19.069 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:20.083 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:21.097 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:22.111 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:23.125 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:24.139 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:25.153 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:26.167 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:27.181 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:28.195 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:29.209 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:30.223 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:31.237 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:32.251 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:33.265 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:34.279 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:35.293 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:36.307 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:37.321 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:38.335 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:39.349 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:40.363 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:41.377 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:42.391 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:43.405 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:44.419 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:45.433 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:46.447 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:47.461 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:48.475 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:49.489 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:50.503 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:51.517 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:52.531 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:53.545 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:54.559 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:55.573 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:56.587 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:57.601 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:58.615 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:18:59.629 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:00.643 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:01.657 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:02.671 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:03.685 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:04.699 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:05.713 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:06.727 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:07.741 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:08.755 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:09.769 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:10.783 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:11.797 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:12.811 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:13.825 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:14.839 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:15.853 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:16.867 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:17.872 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:18.896 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:19.910 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:20.924 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:21.938 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:22.952 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:23.966 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:24.980 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:25.994 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:27.008 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:28.022 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:29.036 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:30.050 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:31.064 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:32.078 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:33.092 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:34.106 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:35.120 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:36.134 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:37.148 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:38.162 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:39.176 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:40.190 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:41.204 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:42.218 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:43.232 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:44.246 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:45.260 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:46.274 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:47.288 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:48.302 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:49.316 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:50.330 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:51.344 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:52.358 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:53.372 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:54.386 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:55.400 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:56.414 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:57.428 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:58.442 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:19:59.456 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:00.470 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:01.484 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:02.498 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:03.512 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:04.526 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:05.540 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:06.554 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:07.568 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:08.582 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:09.596 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:10.610 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:11.624 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:12.638 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:13.652 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:14.666 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:15.680 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:16.695 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:17.711 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:18.725 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:19.739 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:20.753 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:21.755 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:22.768 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:23.782 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:24.796 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:25.810 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:26.824 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:27.839 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:28.858 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:29.874 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:30.888 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:31.902 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:32.916 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:33.922 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:34.937 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:35.962 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:36.977 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:37.991 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:39.005 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:40.019 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:41.033 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:42.047 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:43.061 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:44.075 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:45.089 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:46.103 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:47.117 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:48.131 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 09:20:49.145 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:11:51.753 - INICIO REGISTRO
+2017/01/02 10:11:51.761 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:11:51.795 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:11:52.021 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:11:52.749 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:11:53.370 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:11:53.378 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:11:53.485 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:11:53.820 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:11:54.834 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:11:56.691 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:11:57.134 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:12:23.351 - INICIO REGISTRO
+2017/01/02 10:12:23.361 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:12:23.401 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:12:23.628 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:12:24.738 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:12:25.363 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:12:25.378 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:12:25.513 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:12:26.423 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:12:27.438 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:12:28.453 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:12:30.263 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:12:30.703 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:12:50.778 - INICIO REGISTRO
+2017/01/02 10:12:50.788 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:12:50.823 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:12:51.053 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:12:52.183 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:12:52.808 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:12:52.818 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:12:52.948 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:12:53.851 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:12:58.231 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:12:59.951 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:13:22.606 - INICIO REGISTRO
+2017/01/02 10:13:22.621 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:13:22.656 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:13:22.871 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:13:24.006 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:13:24.630 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:13:24.640 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:13:25.765 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:13:27.065 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:13:27.105 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:13:27.720 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:13:28.730 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:14:34.178 - INICIO REGISTRO
+2017/01/02 10:14:34.193 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:14:34.228 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:14:34.448 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:14:35.183 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:14:35.808 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:14:35.818 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:14:35.958 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:14:36.248 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:14:37.263 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:14:38.383 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:14:38.818 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:14:46.178 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:14:46.228 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:14:46.388 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:14:47.403 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:14:48.498 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:14:49.493 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:14:50.463 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:15:02.113 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:16:21.297 - INICIO REGISTRO
+2017/01/02 10:16:21.312 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:16:21.343 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:16:21.577 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:16:22.373 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:16:23.044 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:16:23.044 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:16:23.233 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:16:23.373 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:16:24.387 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:16:25.823 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:16:26.275 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:16:28.414 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:16:28.461 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:16:29.444 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:16:30.551 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:16:31.487 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:16:31.871 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:16:40.605 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:16:41.619 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:16:43.632 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:16:44.084 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:16:45.301 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:16:45.675 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:16:51.759 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:16:53.257 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:16:53.709 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:16:55.831 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:16:56.237 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:17:01.900 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:02.914 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:03.928 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:04.942 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:05.956 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:06.970 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:07.984 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:08.998 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:10.012 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:11.026 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:12.040 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:13.054 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:15.036 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:17:15.488 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:17:17.320 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:17:34.674 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:17:40.430 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:41.444 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:42.458 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:43.472 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:44.486 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:45.500 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:46.514 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:47.528 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:48.542 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:49.556 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:50.570 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:51.584 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:52.598 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:53.612 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:17:55.234 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:17:55.687 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:17:57.387 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:17:57.777 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:17:57.824 - MENSAJE: Error_LoadKeyCRT
+2017/01/02 10:18:03.302 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:18:03.957 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:18:08.309 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:08.824 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:09.838 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:10.852 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:11.866 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:12.880 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:13.885 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:14.902 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:15.916 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:17.616 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:18:18.069 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:18:19.395 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:18:19.785 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:18:19.816 - MENSAJE: Error_LoadKeyCRT
+2017/01/02 10:18:44.684 - INICIO REGISTRO
+2017/01/02 10:18:44.700 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:18:44.731 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:18:44.949 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:18:45.714 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:18:46.369 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:18:46.369 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:18:46.593 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:46.765 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:47.779 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:18:49.557 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:18:50.010 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:18:51.446 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:18:51.867 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:18:52.847 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:18:53.237 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:18:59.948 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:19:01.336 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:19:01.788 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:19:03.286 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:19:04.004 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:19:05.283 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:19:06.046 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:19:06.436 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:19:06.466 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:19:06.486 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:19:06.496 - MENSAJE: WriteCard_ok
+2017/01/02 10:19:09.806 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:19:10.477 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:19:15.344 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:19:16.171 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:19:17.185 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:26:20.612 - INICIO REGISTRO
+2017/01/02 10:26:20.644 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:26:20.690 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:26:20.940 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:26:21.782 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:26:22.453 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:26:22.469 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:26:22.876 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:26:23.719 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:26:25.560 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:26:26.012 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:26:27.432 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:26:27.775 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:26:28.882 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:26:29.850 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:26:30.823 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:26:31.224 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:26:31.520 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:26:31.520 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:26:31.536 - MENSAJE: WriteCard_ok
+2017/01/02 10:27:04.127 - INICIO REGISTRO
+2017/01/02 10:27:04.142 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:27:04.205 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:27:04.423 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:27:05.234 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:27:05.905 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:27:05.905 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:27:06.157 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:27:06.219 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:27:08.403 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:27:08.856 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:27:10.525 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:27:11.320 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:27:12.284 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:27:12.681 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:27:21.210 - MENSAJE: Error_LoadKeyCRT
+2017/01/02 10:27:53.952 - INICIO REGISTRO
+2017/01/02 10:27:53.952 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:27:53.983 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:27:54.170 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:27:54.950 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:27:55.590 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:27:55.590 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:27:55.795 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:27:56.013 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:27:58.135 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:27:58.587 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:28:00.381 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:28:01.083 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:28:02.175 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:28:03.142 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:28:04.132 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:28:04.522 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:28:04.819 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:28:04.834 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:28:04.850 - MENSAJE: WriteCard_ok
+2017/01/02 10:29:18.522 - INICIO REGISTRO
+2017/01/02 10:29:18.538 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:29:18.569 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:29:18.787 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:29:19.569 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:29:20.224 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:29:20.224 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:29:20.414 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:29:20.601 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:29:21.615 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:29:23.175 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:29:23.627 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:29:25.359 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:29:25.671 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:29:26.763 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:29:27.746 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:29:28.720 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:29:29.126 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:29:29.422 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:29:29.438 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:29:29.453 - MENSAJE: WriteCard_ok
+2017/01/02 10:29:34.773 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:29:35.412 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:30:19.327 - INICIO REGISTRO
+2017/01/02 10:30:19.327 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:30:19.374 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:30:19.608 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:30:20.419 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:30:21.074 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:30:21.074 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:30:21.264 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:30:21.388 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:30:23.575 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:30:24.028 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:30:25.432 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:30:25.479 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:30:26.539 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:30:27.522 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:30:28.500 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:30:28.895 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:30:29.223 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:30:29.239 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:30:29.254 - MENSAJE: WriteCard_ok
+2017/01/02 10:30:35.633 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:30:36.275 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:30:41.360 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:30:41.672 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:30:42.686 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:32:13.701 - INICIO REGISTRO
+2017/01/02 10:32:13.717 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:32:13.764 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:32:13.998 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:32:14.809 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:32:15.495 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:32:15.495 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:32:15.747 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:32:15.809 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:32:16.792 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:32:18.118 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:32:18.571 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:32:20.380 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:32:20.848 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:32:21.863 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:32:22.924 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:32:23.938 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:32:24.918 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:32:25.324 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:32:25.620 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:32:25.636 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:32:25.651 - MENSAJE: WriteCard_ok
+2017/01/02 10:32:33.703 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:32:34.358 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:32:39.335 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:32:40.115 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:32:41.129 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:32:42.143 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:47:03.412 - INICIO REGISTRO
+2017/01/02 10:47:03.412 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:47:03.458 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:47:03.692 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:47:04.504 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:47:05.174 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:47:05.174 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:47:05.644 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:47:06.487 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:47:07.844 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:47:08.296 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:47:08.546 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IP
+2017/01/02 10:47:08.655 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:47:09.529 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:47:10.621 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:47:11.604 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:47:12.584 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:47:12.974 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:47:12.974 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:47:12.989 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:47:50.683 - INICIO REGISTRO
+2017/01/02 10:47:50.699 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:47:50.730 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:47:50.966 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:47:51.777 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:47:52.448 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:47:52.448 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:47:52.637 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:47:52.762 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:47:54.759 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:47:55.227 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:47:55.273 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IP
+2017/01/02 10:47:55.367 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:47:55.804 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:47:56.896 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:47:57.863 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:47:58.844 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:47:59.243 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:47:59.243 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:47:59.259 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:48:00.865 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:48:00.881 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:48:00.897 - MENSAJE: WriteCard_ok
+2017/01/02 10:48:05.140 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:48:05.779 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:48:05.811 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IP
+2017/01/02 10:48:06.918 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IP
+2017/01/02 10:48:06.965 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:48:07.963 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:48:09.976 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:48:10.428 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:48:10.522 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IP
+2017/01/02 10:48:10.631 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:48:11.021 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:48:11.037 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:48:11.052 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:48:38.345 - INICIO REGISTRO
+2017/01/02 10:48:38.361 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:48:38.408 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:48:38.642 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:48:39.437 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:48:40.108 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:48:40.108 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:48:40.281 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:48:40.421 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:48:42.433 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:48:42.886 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:48:42.995 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IP
+2017/01/02 10:48:43.182 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:48:43.572 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:48:43.588 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:48:43.603 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:48:43.619 - MENSAJE: 
+2017/01/02 10:48:52.105 - INICIO REGISTRO
+2017/01/02 10:48:52.105 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:48:52.152 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:48:52.386 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:48:53.182 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:48:53.837 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:48:53.837 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:48:54.010 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:48:54.166 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:48:55.993 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:48:56.445 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:48:56.554 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IP
+2017/01/02 10:48:56.664 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:48:57.054 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:48:57.054 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:48:57.069 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:48:59.799 - MENSAJE: 
+2017/01/02 10:49:35.442 - INICIO REGISTRO
+2017/01/02 10:49:35.453 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:49:35.498 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:49:35.716 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:49:36.512 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:49:37.183 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:49:37.183 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:49:37.371 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:37.511 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:39.508 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:49:39.961 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:49:40.007 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IP
+2017/01/02 10:49:40.179 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:49:40.585 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:49:40.585 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:49:40.600 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:49:40.616 - MENSAJE: Tarjeta leida Correctamente
+2017/01/02 10:49:50.692 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:51.706 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:52.720 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:53.734 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:54.748 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:55.762 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:56.776 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:57.790 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:58.804 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:49:59.818 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:00.834 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:01.848 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:02.862 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:03.876 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:04.890 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:05.904 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:06.918 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:07.932 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:08.946 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:09.960 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:10.974 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:11.988 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:13.002 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:50:14.016 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:51:27.029 - INICIO REGISTRO
+2017/01/02 10:51:27.029 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:51:27.076 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:51:27.310 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:51:28.995 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:51:29.634 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:51:29.665 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:51:29.933 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:51:30.104 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:51:31.118 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:51:32.132 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:51:33.146 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:51:34.160 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:51:35.174 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:51:36.188 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:54:32.531 - INICIO REGISTRO
+2017/01/02 10:54:32.531 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 10:54:32.578 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 10:54:32.796 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 10:54:33.592 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:54:34.231 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:54:34.231 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 10:54:34.452 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:54:34.576 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:54:35.590 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:54:36.870 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:54:37.322 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:54:40.458 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:54:40.660 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:54:41.674 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:54:42.688 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:54:43.702 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:54:43.718 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:54:47.306 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:54:47.977 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:54:56.403 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:54:56.886 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:54:57.900 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:54:58.914 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:54:59.928 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:00.942 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:01.956 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:02.970 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:03.984 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:04.998 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:06.012 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:07.026 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:08.040 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:09.054 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:10.068 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:11.082 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:12.096 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:13.110 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:14.124 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:15.138 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:16.152 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:17.166 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:18.180 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:19.194 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:20.208 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:21.222 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:22.236 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:23.250 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:24.264 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:25.278 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:26.294 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:27.308 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:28.322 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:29.336 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:30.350 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:31.364 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:32.378 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:33.392 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:34.406 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:35.420 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:36.434 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:37.448 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:38.462 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:39.476 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:40.490 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:41.504 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:42.518 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:43.532 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:44.546 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:45.560 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:46.574 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:47.588 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:48.602 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:49.616 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:50.630 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:51.644 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:52.658 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:53.672 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:54.686 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:55.700 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:56.714 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:57.728 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:58.744 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:55:59.758 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:00.772 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:01.786 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:02.800 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:03.814 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:04.828 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:05.842 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:06.856 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:07.870 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:08.884 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:09.898 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:10.912 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:11.926 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:12.940 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:13.954 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:14.968 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:15.982 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:16.996 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:18.010 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:19.024 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:20.038 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:21.052 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:22.066 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:23.080 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:24.094 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:25.108 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:26.122 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:27.136 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:28.150 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:29.164 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:30.178 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:31.194 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:32.208 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:33.222 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:34.236 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:35.250 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:36.264 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:37.278 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:39.369 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:56:39.806 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:56:41.412 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:56:42.348 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:56:43.362 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:56:43.362 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:56:47.543 - MENSAJE: Tarjeta_Alistada
+2017/01/02 10:56:48.214 - MENSAJE: Tarjeta_Borrada
+2017/01/02 10:56:53.393 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:53.502 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:54.516 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:55.530 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:56.544 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:57.558 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:58.572 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:56:59.586 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:00.600 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:01.614 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:02.628 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:03.642 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:04.657 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:05.671 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:06.685 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:07.699 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:08.713 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:09.727 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:10.741 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:11.755 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:12.769 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:13.783 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:14.797 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:15.811 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:16.841 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:17.839 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:18.853 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:19.867 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:20.881 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:21.895 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:22.909 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:23.923 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:24.937 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:25.951 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:26.965 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:27.979 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:28.993 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:30.007 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:31.021 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:32.035 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:33.049 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:34.063 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:35.077 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:36.091 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:37.106 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:38.120 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:39.134 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:40.148 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:41.162 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:42.176 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:43.190 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:44.207 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:45.225 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:46.239 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:47.253 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:48.267 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:49.281 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:50.295 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:51.309 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:52.323 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:53.337 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:54.351 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:55.365 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:56.379 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:57.393 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:58.407 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:57:59.421 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:00.435 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:01.449 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:02.463 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:03.477 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:04.491 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:05.505 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:06.519 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:07.533 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:08.547 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:09.556 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:10.572 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:11.586 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:12.600 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:13.614 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:14.628 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:15.642 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:16.656 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:17.670 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:18.684 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:19.698 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:20.712 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:22.647 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:58:23.083 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:58:25.361 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:58:25.782 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:58:26.859 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:58:27.873 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:58:28.835 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:58:29.229 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:58:29.245 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:58:29.276 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 10:58:29.292 - MENSAJE: Tarjeta leida Correctamente
+2017/01/02 10:58:35.922 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:36.936 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:37.950 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:38.964 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:39.978 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:40.992 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:42.006 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:43.022 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:44.036 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:45.050 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:58:46.938 - MENSAJE: Tarjeta_Escrita
+2017/01/02 10:58:47.390 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 10:58:49.387 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:58:50.120 - MENSAJE: Sin_Tarjeta
+2017/01/02 10:58:51.181 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 10:58:52.148 - MENSAJE: ID Tarjeta OK
+2017/01/02 10:58:52.533 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 10:58:52.533 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:58:52.543 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:58:52.563 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 10:58:59.246 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:00.260 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:01.274 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:02.288 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:03.302 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:04.316 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:05.330 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:06.344 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:07.358 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:08.372 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:09.386 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:10.400 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:11.414 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:12.428 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:13.442 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:14.456 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:15.456 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:16.470 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:17.484 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:18.498 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:19.512 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:20.526 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:21.540 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:22.554 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:23.568 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:24.582 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:25.596 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:26.610 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:27.624 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:28.638 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:29.653 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:30.667 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 10:59:31.681 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:00:06.481 - INICIO REGISTRO
+2017/01/02 11:00:06.481 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 11:00:06.544 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 11:00:06.762 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 11:00:08.416 - MENSAJE: Tarjeta_Alistada
+2017/01/02 11:00:09.071 - MENSAJE: Tarjeta_Borrada
+2017/01/02 11:00:09.071 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 11:00:09.243 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:00:09.555 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:00:10.569 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:00:12.176 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:00:12.613 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:00:14.454 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 11:00:14.657 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 11:00:15.639 - MENSAJE: ID Tarjeta OK
+2017/01/02 11:00:16.016 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:00:16.016 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 11:00:16.036 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 11:00:16.056 - MENSAJE: Tarjeta leida Correctamente
+2017/01/02 11:00:33.870 - INICIO REGISTRO
+2017/01/02 11:00:33.885 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 11:00:33.932 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 11:00:34.166 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 11:00:34.977 - MENSAJE: Tarjeta_Alistada
+2017/01/02 11:00:35.648 - MENSAJE: Tarjeta_Borrada
+2017/01/02 11:00:35.648 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 11:00:35.869 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:00:35.947 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:00:37.912 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:00:38.365 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:00:40.486 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 11:00:41.048 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 11:00:42.031 - MENSAJE: ID Tarjeta OK
+2017/01/02 11:00:45.439 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:00:47.233 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 11:00:47.981 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 11:01:02.147 - MENSAJE: Tarjeta leida Correctamente
+2017/01/02 11:01:55.877 - INICIO REGISTRO
+2017/01/02 11:01:55.877 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 11:01:55.939 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 11:01:56.173 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 11:01:57.827 - MENSAJE: Tarjeta_Alistada
+2017/01/02 11:01:58.482 - MENSAJE: Tarjeta_Borrada
+2017/01/02 11:01:58.482 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 11:01:58.671 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:01:58.952 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:02:00.920 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:02:01.372 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:02:03.484 - MENSAJE: ID Tarjeta OK
+2017/01/02 11:02:05.684 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:02:06.760 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 11:02:07.462 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 11:02:16.853 - MENSAJE: Tarjeta leida Correctamente
+2017/01/02 11:02:23.287 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:39.406 - INICIO REGISTRO
+2017/01/02 11:03:39.406 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 11:03:39.468 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 11:03:39.702 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 11:03:40.482 - MENSAJE: Tarjeta_Alistada
+2017/01/02 11:03:41.153 - MENSAJE: Tarjeta_Borrada
+2017/01/02 11:03:41.153 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 11:03:41.327 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:41.467 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:42.481 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:43.495 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:44.509 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:45.523 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:46.537 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:47.551 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:48.565 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:49.579 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:50.593 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:51.607 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:52.621 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:53.635 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:54.649 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:55.663 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:56.677 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:57.691 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:58.705 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:03:59.719 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:00.734 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:01.748 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:02.762 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:03.776 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:04.790 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:05.804 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:06.818 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:07.832 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:09.595 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:04:10.047 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:04:10.094 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IP
+2017/01/02 11:04:10.203 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:04:10.859 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:04:11.938 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 11:04:12.922 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 11:04:13.927 - MENSAJE: ID Tarjeta OK
+2017/01/02 11:04:14.320 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:04:21.012 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:22.026 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:23.040 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:24.054 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:25.068 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:26.082 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:27.096 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:28.110 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:29.124 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:30.138 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:31.152 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:32.166 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:33.180 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:34.194 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:35.208 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:36.222 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:37.236 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:38.250 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:39.264 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:40.278 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:41.292 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:42.306 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:43.320 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:44.334 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:45.348 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:46.364 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:47.378 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:48.392 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:49.406 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:50.420 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:04:52.448 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:04:52.901 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:04:54.445 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:04:54.492 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:04:55.490 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:04:57.160 - MENSAJE: ID Tarjeta OK
+2017/01/02 11:04:57.565 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:05:03.602 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:04.616 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:05.630 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:06.644 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:07.643 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:08.663 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:09.677 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:10.691 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:11.705 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:12.719 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:13.733 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:15.153 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:05:15.605 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:05:17.415 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:05:17.789 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:05:18.805 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:05:19.819 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:05:21.317 - MENSAJE: ID Tarjeta OK
+2017/01/02 11:05:21.707 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:05:27.931 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:28.945 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:31.145 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:05:31.597 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:05:33.391 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:05:34.015 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:05:35.279 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 11:05:36.046 - MENSAJE: ID Tarjeta OK
+2017/01/02 11:05:36.416 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:05:36.446 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 11:05:36.456 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 11:05:36.476 - MENSAJE: Tarjeta leida Correctamente
+2017/01/02 11:05:36.486 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 11:05:36.506 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 11:05:36.516 - MENSAJE: WriteCard_ok
+2017/01/02 11:05:40.723 - MENSAJE: Tarjeta_Alistada
+2017/01/02 11:05:41.362 - MENSAJE: Tarjeta_Borrada
+2017/01/02 11:05:46.370 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:47.197 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:48.211 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:05:49.630 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:05:50.083 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:05:51.393 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:05:52.269 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:05:53.548 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 11:05:54.311 - MENSAJE: ID Tarjeta OK
+2017/01/02 11:05:54.691 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:05:54.701 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 11:05:54.711 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 11:05:54.721 - MENSAJE: Tarjeta leida Correctamente
+2017/01/02 11:06:01.394 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:02.408 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:03.422 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:04.436 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:06.449 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:06:06.901 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:06:08.399 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:06:08.492 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:06:09.506 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:06:10.520 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:06:11.956 - MENSAJE: ID Tarjeta OK
+2017/01/02 11:06:12.346 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:06:12.346 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 11:06:12.361 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 11:06:12.377 - MENSAJE: Tarjeta leida Correctamente
+2017/01/02 11:06:18.632 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:19.646 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:20.660 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:21.674 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:22.688 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:23.702 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:24.716 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:25.732 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:26.746 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:27.760 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:28.774 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:29.788 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:30.802 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:31.816 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:32.830 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:33.844 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:34.858 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:35.872 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:36.886 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:37.900 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:38.914 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:39.928 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:40.942 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:41.956 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:06:42.970 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:14.819 - INICIO REGISTRO
+2017/01/02 11:07:14.835 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 11:07:14.866 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 11:07:15.100 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 11:07:16.254 - MENSAJE: Tarjeta_Alistada
+2017/01/02 11:07:16.909 - MENSAJE: Tarjeta_Borrada
+2017/01/02 11:07:16.909 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 11:07:17.099 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:17.910 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:18.924 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:19.938 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:20.952 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:23.089 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:07:23.526 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:07:25.429 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:07:26.022 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:07:27.129 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 11:07:28.097 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\Desarrollo ParkingMC\MC.CRT603Device\CRTDevice.cs:línea 74
+2017/01/02 11:07:29.087 - MENSAJE: ID Tarjeta OK
+2017/01/02 11:07:29.477 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:07:29.757 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 11:07:29.773 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 11:07:29.773 - MENSAJE: Tarjeta leida Correctamente
+2017/01/02 11:07:29.789 - MENSAJE: LoadKeyCRT_ok
+2017/01/02 11:07:29.789 - MENSAJE: CheckKeyCRT_ok
+2017/01/02 11:07:29.804 - MENSAJE: WriteCard_ok
+2017/01/02 11:07:34.274 - MENSAJE: Tarjeta_Alistada
+2017/01/02 11:07:34.945 - MENSAJE: Tarjeta_Borrada
+2017/01/02 11:07:40.373 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:41.231 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:42.245 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:43.259 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:44.273 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:45.287 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:46.301 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:47.315 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:48.329 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:49.343 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:50.357 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:51.371 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:52.385 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:53.399 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:54.413 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:55.427 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:56.441 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:57.455 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:58.469 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:07:59.483 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:00.497 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:01.511 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:02.525 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:03.539 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:04.553 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:05.569 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:06.583 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:07.597 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:08.611 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:09.625 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:10.639 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:11.653 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:12.667 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:13.681 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:14.695 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:15.709 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:16.723 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:17.737 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:18.751 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:19.765 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:20.779 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:21.793 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:22.807 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:23.821 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:24.835 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:25.849 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:26.863 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:27.877 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:28.891 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:29.905 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:30.920 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:31.934 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:32.948 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:33.962 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:34.976 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:35.990 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:37.004 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:38.018 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:39.034 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:40.048 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:41.062 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:42.076 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:43.090 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:44.104 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:45.118 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:46.132 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:47.146 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:48.160 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:49.174 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:50.188 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:51.202 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:52.216 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:53.230 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:54.244 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:55.258 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:56.272 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:57.286 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:58.300 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:08:59.314 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:00.328 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:01.342 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:02.356 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:03.370 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:04.384 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:05.398 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:06.412 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:07.426 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:08.440 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:09.454 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:10.468 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:11.482 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:12.498 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:13.512 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:14.526 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:15.540 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:16.554 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:17.568 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:18.582 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:19.596 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:20.610 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:21.624 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:22.638 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:23.652 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:24.666 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:25.680 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:26.694 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:27.708 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:28.722 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:29.736 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:30.750 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:31.764 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:32.778 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:33.792 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:34.806 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:35.820 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:36.834 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:37.848 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:38.862 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:39.876 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:40.890 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:41.904 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:42.918 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:43.932 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:44.946 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:45.962 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:46.976 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:47.990 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:49.004 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:50.018 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:51.032 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:52.046 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:53.060 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:54.074 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:55.088 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:56.102 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:57.116 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:58.130 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:09:59.144 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:00.158 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:01.172 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:02.186 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:03.200 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:04.214 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:05.228 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:06.242 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:07.256 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:08.270 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:09.284 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:10.298 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:11.312 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:12.326 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:13.340 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:14.354 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:15.368 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:16.382 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:17.396 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:18.412 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:19.426 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:20.440 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:21.454 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:22.468 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:23.482 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:24.496 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:25.510 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:26.524 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:27.538 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:28.552 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:29.566 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:30.580 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:31.594 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:32.608 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:33.622 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:34.636 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:35.650 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:36.664 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:37.678 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:38.692 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:39.706 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:40.720 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:41.734 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:42.748 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:43.762 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:44.776 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:45.790 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:46.804 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:47.818 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:48.832 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:49.846 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:50.860 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:51.875 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:52.889 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:53.903 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:54.917 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:55.931 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:56.945 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:57.959 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:58.973 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:10:59.987 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:01.001 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:02.015 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:03.029 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:04.043 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:05.057 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:06.071 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:07.085 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:08.099 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:09.113 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:10.127 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:11.141 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:12.155 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:13.169 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:14.183 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:15.197 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:16.211 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:17.225 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:18.239 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:19.253 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:20.267 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:21.281 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:22.295 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:23.309 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:24.323 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:25.339 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:26.338 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:27.352 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:28.366 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:29.380 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:30.394 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:31.408 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:32.422 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:33.436 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:34.450 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:35.464 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:36.478 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:37.492 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:38.506 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:39.520 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:40.534 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:41.548 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:42.562 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:43.576 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:44.590 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:45.604 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:46.618 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:47.632 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:48.646 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:49.660 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:50.674 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:51.688 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:52.702 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:53.716 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:54.730 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:55.744 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:56.758 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:57.772 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:58.786 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:11:59.802 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:00.816 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:01.830 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:02.844 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:03.858 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:04.872 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:05.886 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:06.900 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:07.914 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:08.928 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:09.942 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:10.956 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:11.970 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:12.984 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:13.998 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:15.012 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:16.026 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:17.040 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:18.054 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:19.068 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:20.082 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:21.096 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:22.110 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:23.124 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:24.138 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:25.152 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:26.166 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:27.180 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:28.194 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:29.208 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:30.222 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:31.236 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:32.250 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:33.266 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:34.280 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:35.294 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:36.308 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:37.322 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:38.336 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:39.350 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:40.364 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:41.378 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:42.392 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:43.406 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:44.420 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:45.434 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:46.448 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:47.462 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:48.476 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:49.490 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:50.504 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:51.518 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:52.532 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:53.546 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:54.560 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:55.574 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:56.588 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:57.602 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:58.616 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:12:59.630 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:00.645 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:01.659 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:02.673 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:03.687 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:04.701 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:05.715 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:06.730 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:07.744 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:08.758 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:09.772 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:10.786 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:11.800 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:12.814 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:13.828 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:14.842 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:15.856 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:16.870 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:17.884 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:18.898 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:19.912 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:20.926 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:21.940 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:22.954 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:23.968 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:24.982 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:25.996 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:27.010 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:28.024 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:29.038 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:30.052 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:31.066 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:32.080 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:33.094 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:34.108 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:35.122 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:36.136 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:37.150 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:38.164 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:39.178 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:40.193 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:41.207 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:42.221 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:43.235 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:44.249 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:45.263 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:46.277 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:47.291 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:48.305 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:49.319 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:50.333 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:51.347 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:52.361 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:53.375 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:54.389 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:55.403 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:56.417 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:57.431 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:58.445 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:13:59.459 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:00.473 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:01.487 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:02.501 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:03.515 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:04.529 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:05.543 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:06.557 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:07.571 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:08.585 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:09.599 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:10.613 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:11.628 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:12.642 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:13.658 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:14.672 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:15.686 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:16.700 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:17.714 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:18.728 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:19.742 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:20.756 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:21.770 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:22.784 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:23.798 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:24.812 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:25.826 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:26.840 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:27.854 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:28.868 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:29.882 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:30.896 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:31.910 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:32.924 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:33.938 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:34.952 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:35.966 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:36.980 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:37.994 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:39.008 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:40.022 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:41.036 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:42.050 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:43.064 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:44.078 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:45.092 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:46.106 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:47.122 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:48.136 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:49.150 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:50.164 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:51.178 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:52.192 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:53.206 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:54.220 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:55.234 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:56.248 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:57.262 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:58.276 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:14:59.290 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:00.304 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:01.318 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:02.332 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:03.346 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:04.360 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:05.374 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:06.388 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:07.402 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:08.416 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:09.430 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:10.444 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:11.458 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:12.472 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:13.486 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:14.500 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:15.514 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:16.528 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:17.542 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:18.556 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:19.570 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:20.586 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:21.600 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:22.614 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:23.628 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:24.642 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:25.656 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:26.670 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:27.684 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:28.698 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:29.712 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:30.726 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:31.740 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:32.754 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:33.768 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:34.782 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:35.796 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:37.527 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:15:37.980 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:15:39.399 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:39.852 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:40.866 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:41.880 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:42.894 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:43.908 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:44.922 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:45.936 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:46.950 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:47.964 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:48.354 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2017/01/02 11:15:48.978 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:49.992 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:51.006 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:15:52.987 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:15:53.439 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:15:55.453 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:56.077 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:57.091 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:58.105 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:15:59.119 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:00.133 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:01.147 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:02.161 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:03.175 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:04.189 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:04.657 - MENSAJE: Error_MoverTarjeta_FRONT_TO_RF
+2017/01/02 11:16:05.203 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:06.217 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:07.231 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:08.245 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:09.259 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:10.273 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:11.287 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:12.301 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:13.315 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:14.329 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:15.343 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:16.357 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:17.371 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:18.385 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:19.399 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:20.413 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:21.427 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:22.441 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:23.455 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:16:24.235 - MENSAJE: Error_Escribir_Tarjeta
+2017/01/02 11:16:25.857 - MENSAJE: Tarjeta_Alistada
+2017/01/02 11:16:27.448 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:27.511 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:28.510 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:29.524 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:30.538 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:31.552 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:32.566 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:16:33.580 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:17:14.782 - INICIO REGISTRO
+2017/01/02 11:17:14.782 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/01/02 11:17:14.829 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/01/02 11:17:15.063 - MENSAJE: Conexion_Exitosa_Dispensador
+2017/01/02 11:17:15.874 - MENSAJE: Tarjeta_Alistada
+2017/01/02 11:17:16.545 - MENSAJE: Tarjeta_Borrada
+2017/01/02 11:17:16.545 - MENSAJE: CRT --> Conexion Exitosa CREATOR CRT-603 (CZ1) CCR RF 0
+2017/01/02 11:17:16.889 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:17:17.856 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:17:18.870 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:17:19.884 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:17:20.898 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:17:21.912 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:17:22.926 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:17:23.940 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:17:26.062 - MENSAJE: Tarjeta_Escrita
+2017/01/02 11:17:26.498 - MENSAJE: Tarjeta_Movida_RF_TO_FRONT
+2017/01/02 11:17:28.480 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:17:29.010 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:17:30.024 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:17:31.038 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:17:32.053 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:17:33.067 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:17:34.081 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:17:35.095 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:17:35.095 - MENSAJE: Sin_Tarjeta
+2017/01/02 11:17:42.835 - MENSAJE: Tarjeta_Alistada
+2017/01/02 11:17:43.474 - MENSAJE: Tarjeta_Borrada
+2017/01/02 11:17:57.436 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:17:58.419 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:17:59.433 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:00.447 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:01.461 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:02.475 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:03.489 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:04.503 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:05.517 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:06.531 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:07.545 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:08.559 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:09.574 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:10.588 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:11.602 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:12.616 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:13.630 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:14.644 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:15.658 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:16.672 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:17.686 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:18.700 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:19.714 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:20.728 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:21.742 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:22.756 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:23.770 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:24.784 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:25.798 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:26.812 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:27.826 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:28.840 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:29.854 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:30.868 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:31.882 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:32.896 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:33.910 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:34.924 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:35.938 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:36.952 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:37.966 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:38.980 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:39.994 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:41.008 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:42.022 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:43.036 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:44.051 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:45.065 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:46.079 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:47.093 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:48.107 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:49.121 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:50.135 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:51.149 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:52.163 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:53.177 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:54.191 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:55.205 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:56.219 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:57.233 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:58.247 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:18:59.261 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:00.275 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:01.289 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:02.303 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:03.317 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:04.331 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:05.345 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:06.359 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:07.373 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:08.387 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:09.401 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:10.415 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:11.429 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:12.443 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:13.457 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:14.471 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:15.485 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:16.499 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:17.515 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:18.529 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:19.543 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:20.557 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:21.571 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:22.585 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:23.599 - MENSAJE: Estado_Dispensador_OK
+2017/01/02 11:19:24.613 - MENSAJE: Estado_Dispensador_OK

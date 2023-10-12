@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d911f65c-025a-45c1-9eed-dbdacf6a6004" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MC_SalidaService.xsd" MetadataType="Schema" ID="d7f8f933-56c0-4b4a-9a27-7a72b58f3427" SourceId="1" SourceUrl="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?xsd=xsd3" />
+    <MetadataFile FileName="MC_SalidaService1.xsd" MetadataType="Schema" ID="beb75b51-c86c-47cb-a4e9-d179465eafc2" SourceId="1" SourceUrl="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?xsd=xsd2" />
+    <MetadataFile FileName="SalidaService.wsdl" MetadataType="Wsdl" ID="2b148caf-ab90-486b-98fa-5ac1105e18d2" SourceId="1" SourceUrl="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?wsdl" />
+    <MetadataFile FileName="MC_SalidaService2.xsd" MetadataType="Schema" ID="133f2924-475a-440a-b9a3-bb37ffba4020" SourceId="1" SourceUrl="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MC_SalidaService.disco" MetadataType="Disco" ID="11d55e1d-9846-48a4-ace1-c933f06c22b0" SourceId="1" SourceUrl="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?disco" />
+    <MetadataFile FileName="MC_SalidaService3.xsd" MetadataType="Schema" ID="17896afe-8211-405b-bf8d-02fae3ff705b" SourceId="1" SourceUrl="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

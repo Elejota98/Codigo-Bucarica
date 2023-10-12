@@ -1,0 +1,198 @@
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+D:\Proyectos\Desarrollo_ParkingColombia\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\PARQUEARSE\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll.config
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csproj.AssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csproj.CopyComplete

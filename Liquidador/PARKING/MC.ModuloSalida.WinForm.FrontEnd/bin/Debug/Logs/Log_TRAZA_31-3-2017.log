@@ -1,0 +1,51 @@
+2017/03/31 05:31:48.771 - INICIO REGISTRO
+2017/03/31 05:31:48.781 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/31 05:31:48.875 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/31 05:31:56.049 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/31 05:31:56.236 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/31 05:31:56.418 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/31 05:32:13.727 - MENSAJE: Error (Presenter Liquidacion): 
+2017/03/31 05:32:14.175 - MENSAJE: TestReceptor_ERROR
+2017/03/31 05:32:14.787 - MENSAJE: Error_Conexion_Receptor
+2017/03/31 05:32:14.798 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/31 05:32:15.780 - MENSAJE: Error_Conexion_Receptor
+2017/03/31 05:32:15.790 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/31 05:32:16.777 - MENSAJE: Error_Conexion_Receptor
+2017/03/31 05:32:16.780 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/31 05:32:42.414 - INICIO REGISTRO
+2017/03/31 05:32:42.422 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/31 05:32:42.517 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/31 05:32:43.449 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/31 05:32:44.225 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/31 05:32:44.370 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/31 05:32:45.385 - MENSAJE: Error (Presenter Liquidacion): 
+2017/03/31 05:32:45.491 - MENSAJE: TestReceptor_ERROR
+2017/03/31 05:32:46.422 - MENSAJE: Error_Conexion_Receptor
+2017/03/31 05:32:46.425 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/31 05:32:47.417 - MENSAJE: Error_Conexion_Receptor
+2017/03/31 05:32:47.423 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/31 05:33:07.867 - INICIO REGISTRO
+2017/03/31 05:33:07.878 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/31 05:33:07.969 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/31 05:33:08.686 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/31 05:33:08.832 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/31 05:33:08.975 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/31 05:33:10.398 - MENSAJE: Error (Presenter Liquidacion): 
+2017/03/31 05:33:10.489 - MENSAJE: TestReceptor_ERROR
+2017/03/31 05:33:10.881 - MENSAJE: Error_Conexion_Receptor
+2017/03/31 05:33:10.893 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/31 05:33:11.873 - MENSAJE: Error_Conexion_Receptor
+2017/03/31 05:33:11.885 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/31 05:33:15.414 - INICIO REGISTRO
+2017/03/31 05:33:15.424 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/31 05:33:15.532 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/31 05:33:16.275 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/31 05:33:16.420 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/31 05:33:16.564 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/31 05:33:41.034 - INICIO REGISTRO
+2017/03/31 05:33:41.044 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/31 05:33:41.160 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/31 05:33:41.887 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/31 05:33:42.036 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/31 05:33:42.176 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/31 05:35:18.566 - MENSAJE: Error (Presenter Liquidacion): 

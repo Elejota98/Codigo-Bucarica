@@ -1,0 +1,631 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Fondo_Principal.jpg
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_Principal.swf
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_PublicidadSecundaria.swf
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_RetirarTarjeta.swf
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Modbus.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Sistema_Suspendido.jpg
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\kyt_5xxx.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_Visita.jpg
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Vehiculo_Entrando.jpg
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\kyt_5xxx.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_Visita.jpg
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Fondo_Principal.jpg
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Sistema_Suspendido.jpg
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Vehiculo_Entrando.jpg
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_Principal.swf
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_PublicidadSecundaria.swf
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_RetirarTarjeta.swf
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Modbus.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.Apdu.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\kyt_5xxx.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_Visita.jpg
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Fondo_Principal.jpg
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Sistema_Suspendido.jpg
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Vehiculo_Entrando.jpg
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_Principal.swf
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_PublicidadSecundaria.swf
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_RetirarTarjeta.swf
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Modbus.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.Apdu.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.HexLibrary.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\kyt_5xxx.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_Visita.jpg
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Fondo_Principal.jpg
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Sistema_Suspendido.jpg
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Vehiculo_Entrando.jpg
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_Principal.swf
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_PublicidadSecundaria.swf
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_RetirarTarjeta.swf
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Modbus.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.Apdu.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Tarjeta_Invalida.jpg
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_VisitaAutorizado.jpg
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_TarjetaSinRegistroSalida.jpg
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\kyt_5xxx.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\log4net.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_AutorizaicionVencida.jpg
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_Visita.jpg
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_VisitaAutorizado.jpg
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Fondo_Principal.jpg
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_SinTarjetas.jpg
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Sistema_Suspendido.jpg
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_TarjetaSinRegistroSalida.jpg
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Tarjeta_Invalida.jpg
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Vehiculo_Entrando.jpg
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_Principal.swf
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_PublicidadSecundaria.swf
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_RetirarTarjeta.swf
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_AutoVencida.wav
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_Bienvenido.wav
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SintarjetasDispensador.wav
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SsistemaSuspendido.wav
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaInvalida.wav
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaSinRegistroSalida.wav
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_VehiculoEntrando.wav
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Unme.Common.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CustomButton.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Modbus.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.Apdu.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\kyt_5xxx.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\log4net.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_AutorizaicionVencida.jpg
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_Visita.jpg
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_VisitaAutorizado.jpg
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Fondo_Principal.jpg
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_SinTarjetas.jpg
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Sistema_Suspendido.jpg
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_TarjetaSinRegistroSalida.jpg
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Tarjeta_Invalida.jpg
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Vehiculo_Entrando.jpg
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_Principal.swf
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_PublicidadSecundaria.swf
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_RetirarTarjeta.swf
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_AutoVencida.wav
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_Bienvenido.wav
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SintarjetasDispensador.wav
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SsistemaSuspendido.wav
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaInvalida.wav
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaSinRegistroSalida.wav
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_VehiculoEntrando.wav
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Unme.Common.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CustomButton.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Modbus.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.Apdu.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.HexLibrary.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CRT_602U.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CRT_602U.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\kyt_5xxx.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\log4net.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_AutorizaicionVencida.jpg
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_Visita.jpg
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_VisitaAutorizado.jpg
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Fondo_Principal.jpg
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_SinTarjetas.jpg
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Sistema_Suspendido.jpg
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_TarjetaSinRegistroSalida.jpg
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Tarjeta_Invalida.jpg
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Vehiculo_Entrando.jpg
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_Principal.swf
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_PublicidadSecundaria.swf
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_RetirarTarjeta.swf
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_AutoVencida.wav
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_Bienvenido.wav
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SintarjetasDispensador.wav
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SsistemaSuspendido.wav
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaInvalida.wav
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaSinRegistroSalida.wav
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_VehiculoEntrando.wav
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Unme.Common.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CustomButton.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Modbus.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CRT_602U.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\kyt_5xxx.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\log4net.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_AutorizaicionVencida.jpg
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_Visita.jpg
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_VisitaAutorizado.jpg
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Fondo_Principal.jpg
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_SinTarjetas.jpg
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Sistema_Suspendido.jpg
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_TarjetaSinRegistroSalida.jpg
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Tarjeta_Invalida.jpg
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Vehiculo_Entrando.jpg
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_Principal.swf
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_PublicidadSecundaria.swf
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_RetirarTarjeta.swf
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_AutoVencida.wav
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_Bienvenido.wav
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SintarjetasDispensador.wav
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SsistemaSuspendido.wav
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaInvalida.wav
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaSinRegistroSalida.wav
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_VehiculoEntrando.wav
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Unme.Common.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CustomButton.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Modbus.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
+C:\Users\Administrador\Documents\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CRT_602U.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\kyt_5xxx.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\log4net.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_AutorizaicionVencida.jpg
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_Visita.jpg
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_VisitaAutorizado.jpg
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Fondo_Principal.jpg
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_SinTarjetas.jpg
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Sistema_Suspendido.jpg
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_TarjetaSinRegistroSalida.jpg
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Tarjeta_Invalida.jpg
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Vehiculo_Entrando.jpg
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_Principal.swf
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_PublicidadSecundaria.swf
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_RetirarTarjeta.swf
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_AutoVencida.wav
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_Bienvenido.wav
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SintarjetasDispensador.wav
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SsistemaSuspendido.wav
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaInvalida.wav
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaSinRegistroSalida.wav
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_VehiculoEntrando.wav
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Unme.Common.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CustomButton.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Modbus.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache
+C:\Proyectos\PARQUEARSE\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Proyectos\PARQUEARSE\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Proyectos\PARQUEARSE\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Proyectos\PARQUEARSE\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Proyectos\PARQUEARSE\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Proyectos\PARQUEARSE\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CRT_602U.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\kyt_5xxx.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\log4net.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_AutorizaicionVencida.jpg
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_Visita.jpg
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Disfrute_VisitaAutorizado.jpg
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Fondo_Principal.jpg
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_SinTarjetas.jpg
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Sistema_Suspendido.jpg
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_TarjetaSinRegistroSalida.jpg
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Tarjeta_Invalida.jpg
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Jpg\Imagen_Vehiculo_Entrando.jpg
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_Principal.swf
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_PublicidadSecundaria.swf
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Swf\Animacion_RetirarTarjeta.swf
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_AutoVencida.wav
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_Bienvenido.wav
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SintarjetasDispensador.wav
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_SsistemaSuspendido.wav
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaInvalida.wav
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_TarjetaSinRegistroSalida.wav
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Medios\Wav\Sonido_VehiculoEntrando.wav
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Unme.Common.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\CustomButton.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Modbus.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.Presenter.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache

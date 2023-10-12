@@ -1,0 +1,42 @@
+2018/12/20 08:51:02.583 - INICIO REGISTRO
+2018/12/20 08:51:02.607 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:51:02.868 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:51:08.309 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2018/12/20 08:52:25.011 - INICIO REGISTRO
+2018/12/20 08:52:25.033 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:52:25.289 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:52:27.157 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2018/12/20 08:52:41.896 - INICIO REGISTRO
+2018/12/20 08:52:41.909 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:52:42.103 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:52:43.619 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2018/12/20 08:52:52.837 - INICIO REGISTRO
+2018/12/20 08:52:52.855 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:52:53.066 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:55:58.988 - INICIO REGISTRO
+2018/12/20 08:55:59.003 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:55:59.184 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:56:02.375 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/12/20 08:56:02.454 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2018/12/20 08:56:02.481 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2018/12/20 08:56:19.167 - MENSAJE: Error Conexion PLC
+2018/12/20 08:56:20.135 - MENSAJE: Error_Conexion_Receptor
+2018/12/20 08:56:20.152 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2018/12/20 08:56:21.006 - MENSAJE: Error_Conexion_Receptor
+2018/12/20 08:56:21.024 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2018/12/20 08:56:22.010 - MENSAJE: Error_Conexion_Receptor
+2018/12/20 08:56:22.028 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2018/12/20 08:56:23.008 - MENSAJE: Error_Conexion_Receptor
+2018/12/20 08:56:23.026 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2018/12/20 08:56:24.004 - MENSAJE: Error_Conexion_Receptor
+2018/12/20 08:56:24.023 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2018/12/20 03:59:37.189 - INICIO REGISTRO
+2018/12/20 03:59:37.211 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 03:59:37.495 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 04:00:38.517 - INICIO REGISTRO
+2018/12/20 04:00:38.575 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 04:00:38.978 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 04:00:42.139 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/12/20 04:00:42.245 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2018/12/20 04:00:42.344 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2018/12/20 04:01:48.578 - MENSAJE: (Presenter Liquidacion) 

@@ -1,0 +1,244 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+myOPC
+</name>
+</assembly>
+<members>
+<member name="P:myOPC.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:myOPC.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:myOPC.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:myOPC.myOPC.OPCItemNames">
+	<summary>
+ Array of the names of the PLC tags that the OPC server will 
+ read/write data.  The array size is dictated by the property NumItems.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:myOPC.myOPC.OPCItemActive">
+	<summary>
+ Array of Bools indicating if the corresponding OPCItemNames() tags are 
+ active.  True being active. The array size is dictated by the property NumItems.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:myOPC.myOPC.OPCItemValues">
+	<summary>
+ Array of values from the PLC tags pointed to from OPCItemNames coming in 
+ from the OPC server.  The array size is dictated by the property NumItems.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:myOPC.myOPC.OPCItemQuality">
+	<summary>
+ Array of quality indicating strings specifying how the communication is between 
+ the OPC server and the PLC tags. The array size is dictated by the property NumItems.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:myOPC.myOPC.OPCItemTimeStamp">
+	<summary>
+ Array of time stamps indicating when the data was collected.  The array size is dictated 
+ by the property NumItems.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.NumItems">
+	<summary>
+ Number of OPC items to be created.  
+ Because changing this value effects the array size 
+ they are re-dimensioned.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.TopicName">
+	<summary>
+ The topic name as created in RSLinx.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.ChannelName">
+	<summary>
+ The channel name as created in Kepware.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.DeviceName">
+	<summary>
+ The device name as created in Kepware.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.CameraName">
+	<summary>
+ The Cognex camera name
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.GroupName">
+	<summary>
+ The OPC group name that will house the OPC items.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.DeadBand">
+	<summary>
+ The OPC Dead Band determines how much in percent the item 
+ value has to change before it gets updated.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.UpdateRate">
+	<summary>
+ The OPC data item value read rate.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.SilentMode">
+	<summary>
+ In silent mode the message boxes are inhibited.  
+ Set to TRUE to silence message boxes
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.OPCServerType">
+	<summary>
+ Determines if Kepware or RSLinx is the OPC server to be used.  
+ 1 = RSLinx 2 = Kepware  3 = Cognex
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.AsynchMode">
+	<summary>
+ If set to true the group will be placed in asynchronous updates via the DataChange event. 
+ Otherwise a synchronous read will be required to read data.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:myOPC.myOPC.ServerState">
+	<summary>
+ Returns the OPCServerState
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:myOPC.myOPC.#ctor">
+	<summary>
+ Default constructor.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:myOPC.myOPC.StartOPC">
+	<summary>
+ Creates the OPC connection, Groups, Items then activates and reads item values 
+ as long as no errors occur along the way.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:myOPC.myOPC.OPCquality(OPCAutomation.OPCQuality)">
+	<summary>
+ Check the Qualities for each item returned here.  The actual contents of the
+ quality field can contain bit field data which can provide specific
+ error conditions.  Normally if everything is OK then the quality will
+ contain the 0xC0
+ </summary>
+	<param name="Quality"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:myOPC.myOPC.OPCwrite(System.Object,System.Int32)">
+	<summary>
+ Writes Data to the PLC tag pointed to by the parameters.  
+ Returns TRUE if the write process worked.
+ </summary>
+	<param name="NewItemValue"></param>
+	<param name="ItemClientHandle"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:myOPC.myOPC.OPCwrite(System.Object,System.String)">
+	<summary>
+ Writes Data to the PLC tag pointed to by the parameters.  
+ Returns TRUE if the write process worked.
+ </summary>
+	<param name="NewItemValue"></param>
+	<param name="ItemName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:myOPC.myOPC.OPCsynchRead(System.Int32)">
+	<summary>
+ Synchronously read data from the PLC tag pointed to by the parameters.  
+ Returns True if the read process worked.
+ </summary>
+	<param name="ItemClientHandle"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:myOPC.myOPC.OPCsynchRead(System.String)">
+	<summary>
+ Synchronously read data from the PLC tag pointed to by the parameters.  
+ Returns True if the read process worked.
+ </summary>
+	<param name="ItemName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:myOPC.myOPC.OPCsynchReadGroup">
+	<summary>
+ Synchronously reads all the data in the group from the PLC tag pointed to by the parameters.  
+ Returns True if the read process worked.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:myOPC.myOPC.Close">
+	<summary>
+ Allows for the OPC connection to be safely disconnected.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:myOPC.myOPC">
+	<summary>
+ Name:        myOPC
+ Company:     SwaimWare
+ Author:      Kurt Swaim
+ Description: 
+ 
+ myOPC.dll allows the user of this object to create an OPC connection 
+ to either KepServerEX V5, Cognex, or RSLinx OPC server.  Initial properties 
+ must be setup before starting the OPC connection.  Specifically the 
+ properties NumItems, TopicName (RSLinx), ChannelName (Kepware), 
+ DeviceName (Kepware), CameraName (Cognex) GroupName, DeadBand, UpdateRate, 
+ OPCServerType, ServerType, SilentMode.  Along with 
+ these properties one public field item array OPCItemNames() has to 
+ be filled with the tags in the PLC to be read/wrote to.  Note that 
+ the size of the array is dictated by the property NumItems.  In addition 
+ two properties are defaulted.  The property SilentMode if set to true will 
+ inhibit message boxes with fault descriptions, the default is false indicating 
+ the message boxes will appear during errors.  When the setup values 
+ are set use the StartOPC function to get the OPCItemValues() to start holding 
+ data pointed at.  If a TRUE is returned with StartOPC means no errors occurred.  
+ If a FALSE is returned then either the initial data had noting in it or was 
+ invalid or the physical connection is bad.  The public field item OPCItemActive() 
+ will indicate if the OPCItemName() was found and will be true if all went 
+ well and the tag is active.  The public field item is OPCItemQuality() will be 
+ updated at every read interval with "Good" "Uncertain" or "Bad" indicating the link 
+ quality.  The OPCwrite function allows for individual OPCItemNames() tags on the 
+ PLC to written to with a new value.  If the function returns true the value was 
+ written to successfully.  Lastly be a good programmer and call the Close method 
+ when done with the application.  Enjoy.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

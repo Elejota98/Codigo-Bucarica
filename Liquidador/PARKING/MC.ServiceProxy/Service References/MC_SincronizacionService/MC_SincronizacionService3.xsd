@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://www.MillensCorp.com/types/" elementFormDefault="qualified" targetNamespace="http://www.MillensCorp.com/types/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:86/MC_Block_Pass/MC_SincronizacionService.svc?xsd=xsd3" namespace="http://www.mc.com.co/types/" />
+  <xs:complexType name="Sincronizacion_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://www.mc.com.co/types/" base="q1:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="lIdEstacionamiento" type="xs:long" />
+          <xs:element minOccurs="0" name="oArqueos" nillable="true" type="tns:ServiceArqueos" />
+          <xs:element minOccurs="0" name="oAutorizado" nillable="true" type="tns:ServiceAutorizado" />
+          <xs:element minOccurs="0" name="oConsignacion" nillable="true" type="tns:ServiceConsignacion" />
+          <xs:element minOccurs="0" name="oConvenios" nillable="true" type="tns:ServiceConvenios" />
+          <xs:element minOccurs="0" name="oCortesias" nillable="true" type="tns:ServiceCortesias" />
+          <xs:element minOccurs="0" name="oFacturasManuales" nillable="true" type="tns:ServiceFacturasManuales" />
+          <xs:element minOccurs="0" name="oMovimientos" nillable="true" type="tns:ServiceMovimientos" />
+          <xs:element minOccurs="0" name="oPago" nillable="true" type="tns:ServicePago" />
+          <xs:element minOccurs="0" name="oTalanquera" nillable="true" type="tns:ServiceTalanquera" />
+          <xs:element minOccurs="0" name="oTransaccion" nillable="true" type="tns:ServiceTransaccion" />
+          <xs:element minOccurs="0" name="oUsuarios" nillable="true" type="tns:ServiceUsuarios" />
+          <xs:element minOccurs="0" name="sConexion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="sDocumento" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Sincronizacion_Request" nillable="true" type="tns:Sincronizacion_Request" />
+  <xs:complexType name="ServiceArqueos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CantTransacciones" type="xs:int" />
+      <xs:element minOccurs="0" name="Conteo" type="xs:double" />
+      <xs:element minOccurs="0" name="FechaFin" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaInicio" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdArqueo" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdUsuario" type="xs:long" />
+      <xs:element minOccurs="0" name="Producido" type="xs:double" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Tipo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Valor" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceArqueos" nillable="true" type="tns:ServiceArqueos" />
+  <xs:complexType name="ServiceAutorizado">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Documento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DocumentoCreador" type="xs:long" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="EstadoAutorizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FechaCreacion" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaFinal" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaInicial" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdAutorizacion" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTarjeta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTipo" type="xs:int" />
+      <xs:element minOccurs="0" name="NombreAutorizacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombresAutorizado" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Placa1" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Placa2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Regla" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Telefono" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceAutorizado" nillable="true" type="tns:ServiceAutorizado" />
+  <xs:complexType name="ServiceConsignacion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DocumentoUsuario" type="xs:long" />
+      <xs:element minOccurs="0" name="FechaConsignacion" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdConsignacion" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="Referencia" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Valor" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceConsignacion" nillable="true" type="tns:ServiceConsignacion" />
+  <xs:complexType name="ServiceConvenios">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FechaFinal" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaInicial" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdConvenio" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceConvenios" nillable="true" type="tns:ServiceConvenios" />
+  <xs:complexType name="ServiceCortesias">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DocumentoUsuario" type="xs:long" />
+      <xs:element minOccurs="0" name="FechaCortesia" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdMotivo" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTransaccion" type="xs:long" />
+      <xs:element minOccurs="0" name="Observacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceCortesias" nillable="true" type="tns:ServiceCortesias" />
+  <xs:complexType name="ServiceFacturasManuales">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DocumentoUsuario" type="xs:long" />
+      <xs:element minOccurs="0" name="FechaPago" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTipoVehiculo" type="xs:int" />
+      <xs:element minOccurs="0" name="Iva" type="xs:double" />
+      <xs:element minOccurs="0" name="NumeroFactura" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Prefijo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Subtotal" type="xs:double" />
+      <xs:element minOccurs="0" name="Total" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceFacturasManuales" nillable="true" type="tns:ServiceFacturasManuales" />
+  <xs:complexType name="ServiceMovimientos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Accion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cantidad" type="xs:int" />
+      <xs:element minOccurs="0" name="Denominacion" type="xs:double" />
+      <xs:element minOccurs="0" name="FechaMovimiento" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdArqueo" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="IdCancelacion" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="IdCarga" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdMovimiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTransaccion" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="Parte" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Valor" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceMovimientos" nillable="true" type="tns:ServiceMovimientos" />
+  <xs:complexType name="ServicePago">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Anulada" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FechaPago" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdAutorizado" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdFacturacion" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdPago" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTipoPago" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTransaccion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Iva" type="xs:double" />
+      <xs:element minOccurs="0" name="NumeroFactura" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PagoMensual" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Subtotal" type="xs:double" />
+      <xs:element minOccurs="0" name="Total" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServicePago" nillable="true" type="tns:ServicePago" />
+  <xs:complexType name="ServiceTalanquera">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FechaHora" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEventoDispositivo" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Observacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Usuario" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceTalanquera" nillable="true" type="tns:ServiceTalanquera" />
+  <xs:complexType name="ServiceTransaccion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cambio" type="xs:double" />
+      <xs:element minOccurs="0" name="CarrilEntrada" type="xs:int" />
+      <xs:element minOccurs="0" name="CarrilSalida" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Convenio1" type="xs:long" />
+      <xs:element minOccurs="0" name="Convenio2" type="xs:long" />
+      <xs:element minOccurs="0" name="Convenio3" type="xs:long" />
+      <xs:element minOccurs="0" name="Cortesia" type="xs:long" />
+      <xs:element minOccurs="0" name="FechaEntrada" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaSalida" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdAutorizado" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTarjeta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTipoVehiculo" type="xs:int" />
+      <xs:element minOccurs="0" name="IdTransaccion" type="xs:long" />
+      <xs:element minOccurs="0" name="ModuloEntrada" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ModuloSalida" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlacaEntrada" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlacaSalida" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="SincronizacionPago" type="xs:boolean" />
+      <xs:element minOccurs="0" name="SincronizacionSalida" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ValorRecibido" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceTransaccion" nillable="true" type="tns:ServiceTransaccion" />
+  <xs:complexType name="ServiceUsuarios">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Apellidos" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cargo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Contraseña" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Documento" type="xs:long" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FechaCreacion" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdTarjeta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Nombres" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Usuario" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UsuarioCreador" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceUsuarios" nillable="true" type="tns:ServiceUsuarios" />
+  <xs:complexType name="Sincronizacion_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://www.mc.com.co/types/" base="q2:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oDtoArqueos" nillable="true" type="tns:ServiceDtoArqueos" />
+          <xs:element minOccurs="0" name="oDtoConvenios" nillable="true" type="tns:ServiceDtoConvenios" />
+          <xs:element minOccurs="0" name="oDtoCortesias" nillable="true" type="tns:ServiceDtoCortesias" />
+          <xs:element minOccurs="0" name="oDtoMovimientos" nillable="true" type="tns:ServiceDtoMovimientos" />
+          <xs:element minOccurs="0" name="oDtoPago" nillable="true" type="tns:ServiceDtoPago" />
+          <xs:element minOccurs="0" name="oDtoTalanquera" nillable="true" type="tns:ServiceDtoTalanquera" />
+          <xs:element minOccurs="0" name="oDtoTransaccion" nillable="true" type="tns:ServiceDtoTransaccion" />
+          <xs:element minOccurs="0" name="sResult" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Sincronizacion_Response" nillable="true" type="tns:Sincronizacion_Response" />
+  <xs:complexType name="ServiceDtoArqueos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CantTransacciones" type="xs:int" />
+      <xs:element minOccurs="0" name="Conteo" type="xs:double" />
+      <xs:element minOccurs="0" name="FechaFin" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaInicio" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdArqueo" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdUsuario" type="xs:long" />
+      <xs:element minOccurs="0" name="Producido" type="xs:double" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Tipo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Valor" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoArqueos" nillable="true" type="tns:ServiceDtoArqueos" />
+  <xs:complexType name="ServiceDtoConvenios">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FechaFinal" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaInicial" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdConvenio" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoConvenios" nillable="true" type="tns:ServiceDtoConvenios" />
+  <xs:complexType name="ServiceDtoCortesias">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DocumentoUsuario" type="xs:long" />
+      <xs:element minOccurs="0" name="FechaCortesia" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdMotivo" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTransaccion" type="xs:long" />
+      <xs:element minOccurs="0" name="Observacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoCortesias" nillable="true" type="tns:ServiceDtoCortesias" />
+  <xs:complexType name="ServiceDtoMovimientos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Accion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cantidad" type="xs:int" />
+      <xs:element minOccurs="0" name="Denominacion" type="xs:double" />
+      <xs:element minOccurs="0" name="FechaMovimiento" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdArqueo" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="IdCancelacion" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="IdCarga" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdMovimiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTransaccion" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="Parte" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Valor" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoMovimientos" nillable="true" type="tns:ServiceDtoMovimientos" />
+  <xs:complexType name="ServiceDtoPago">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Anulada" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FechaPago" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdAutorizado" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdFacturacion" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdPago" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTipoPago" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTransaccion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Iva" type="xs:double" />
+      <xs:element minOccurs="0" name="NumeroFactura" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PagoMensual" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Subtotal" type="xs:double" />
+      <xs:element minOccurs="0" name="Total" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoPago" nillable="true" type="tns:ServiceDtoPago" />
+  <xs:complexType name="ServiceDtoTalanquera">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FechaHora" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEventoDispositivo" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Observacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Usuario" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoTalanquera" nillable="true" type="tns:ServiceDtoTalanquera" />
+  <xs:complexType name="ServiceDtoTransaccion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cambio" type="xs:double" />
+      <xs:element minOccurs="0" name="CarrilEntrada" type="xs:int" />
+      <xs:element minOccurs="0" name="CarrilSalida" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Convenio1" type="xs:long" />
+      <xs:element minOccurs="0" name="Convenio2" type="xs:long" />
+      <xs:element minOccurs="0" name="Convenio3" type="xs:long" />
+      <xs:element minOccurs="0" name="Cortesia" type="xs:long" />
+      <xs:element minOccurs="0" name="FechaEntrada" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaSalida" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdAutorizado" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTarjeta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTipoVehiculo" type="xs:int" />
+      <xs:element minOccurs="0" name="IdTransaccion" type="xs:long" />
+      <xs:element minOccurs="0" name="ModuloEntrada" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ModuloSalida" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlacaEntrada" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlacaSalida" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="SincronizacionPago" type="xs:boolean" />
+      <xs:element minOccurs="0" name="SincronizacionSalida" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ValorRecibido" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoTransaccion" nillable="true" type="tns:ServiceDtoTransaccion" />
+</xs:schema>

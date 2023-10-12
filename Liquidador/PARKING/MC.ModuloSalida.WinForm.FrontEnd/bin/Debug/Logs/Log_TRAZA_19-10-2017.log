@@ -1,0 +1,27 @@
+2017/10/19 04:58:33.149 - MENSAJE: Error (Presenter Liquidacion): 
+2017/10/19 04:58:33.238 - INICIO REGISTRO
+2017/10/19 04:58:33.251 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/10/19 04:58:33.335 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/10/19 05:01:27.857 - MENSAJE: Error (Presenter Liquidacion): 
+2017/10/19 05:01:28.346 - INICIO REGISTRO
+2017/10/19 05:01:28.359 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/10/19 05:02:53.241 - INICIO REGISTRO
+2017/10/19 05:02:53.668 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/10/19 05:02:54.376 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/10/19 05:02:58.195 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/10/19 05:02:58.465 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/10/19 05:02:58.628 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/10/19 05:03:01.860 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\PLCDevice.cs:línea 173
+2017/10/19 05:03:11.641 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\PLCDevice.cs:línea 173
+2017/10/19 06:08:03.931 - MENSAJE: Error (Presenter Liquidacion): 
+2017/10/19 06:08:03.932 - INICIO REGISTRO
+2017/10/19 06:08:03.941 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/10/19 06:08:16.774 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK

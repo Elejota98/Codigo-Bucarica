@@ -1,0 +1,142 @@
+2017/03/22 01:07:12.325 - INICIO REGISTRO
+2017/03/22 01:07:12.411 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/22 01:07:12.738 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/22 01:07:19.137 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/22 01:07:19.389 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/22 01:07:19.611 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/22 01:10:21.724 - INICIO REGISTRO
+2017/03/22 01:10:21.756 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/22 01:10:22.086 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/22 01:10:23.080 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/22 01:10:23.263 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/22 01:10:23.456 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/22 01:11:07.139 - MENSAJE: Error (Presenter Liquidacion): 
+2017/03/22 01:11:07.332 - MENSAJE: TestReceptor_ERROR
+2017/03/22 01:11:07.643 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:11:07.650 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:11:07.862 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:11:07.872 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:11:08.745 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:11:08.755 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:11:09.746 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:11:09.755 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:11:37.488 - INICIO REGISTRO
+2017/03/22 01:11:37.497 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/22 01:11:37.599 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/22 01:11:38.471 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/22 01:11:38.649 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/22 01:11:38.838 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/22 01:13:30.969 - MENSAJE: Error (Presenter Liquidacion): 
+2017/03/22 01:13:31.066 - MENSAJE: TestReceptor_ERROR
+2017/03/22 01:13:31.276 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:31.282 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:31.500 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:31.511 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:32.498 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:32.508 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:33.496 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:33.506 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:34.502 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:34.512 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:35.495 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:35.506 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:36.496 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:36.506 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:37.498 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:37.510 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:38.495 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:38.506 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:39.495 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:39.505 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:40.500 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:40.512 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:13:41.497 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 01:13:41.508 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 01:14:19.479 - INICIO REGISTRO
+2017/03/22 01:14:19.490 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/22 01:14:19.597 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/22 01:14:20.471 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/22 01:14:20.654 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/22 01:14:20.840 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/22 01:19:46.198 - INICIO REGISTRO
+2017/03/22 01:19:46.209 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/22 01:19:46.313 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/22 01:19:48.938 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/22 01:19:49.142 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/22 01:19:49.344 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/22 01:20:04.569 - MENSAJE: (Presenter Liquidacion) 
+2017/03/22 04:53:10.381 - INICIO REGISTRO
+2017/03/22 04:53:10.391 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/22 04:53:10.478 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/22 04:53:13.477 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/22 04:53:13.665 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/22 04:53:13.838 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/22 04:53:14.301 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\PLCDevice.cs:línea 173
+2017/03/22 04:53:14.375 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:53:14.379 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:53:14.565 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:53:14.573 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:53:15.386 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:53:15.398 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:53:16.391 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:53:16.398 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:53:17.385 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:53:17.393 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:53:31.317 - INICIO REGISTRO
+2017/03/22 04:53:32.134 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/22 04:53:32.856 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/22 04:53:35.559 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/22 04:53:35.719 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/22 04:53:35.892 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/22 04:53:38.012 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\PLCDevice.cs:línea 173
+2017/03/22 04:53:47.844 - INICIO REGISTRO
+2017/03/22 04:53:50.669 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/22 04:53:50.787 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/22 04:53:51.524 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/22 04:53:51.732 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/22 04:53:51.933 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/22 04:56:02.034 - MENSAJE: Error (Presenter Liquidacion): 
+2017/03/22 04:56:38.033 - MENSAJE: TestReceptor_ERROR
+2017/03/22 04:56:40.077 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:56:40.081 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:56:40.669 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:56:40.673 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:56:41.673 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:56:41.685 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:56:42.666 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:56:42.678 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:56:43.672 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:56:43.681 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:56:44.675 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:56:44.687 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:56:45.666 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:56:45.673 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:57:03.108 - INICIO REGISTRO
+2017/03/22 04:57:03.118 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/22 04:57:03.206 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/22 04:57:03.831 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/22 04:57:03.993 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/22 04:57:04.131 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/22 04:57:09.515 - MENSAJE: Error (Presenter Liquidacion): ObtenerInformacionModulo() error request.RequestId != response.CorrelationId
+2017/03/22 04:57:57.020 - INICIO REGISTRO
+2017/03/22 04:57:57.029 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/22 04:57:57.121 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/22 04:57:57.804 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/22 04:57:57.968 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/22 04:57:58.124 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/22 04:58:25.111 - MENSAJE: (Presenter Liquidacion) 
+2017/03/22 04:58:43.934 - MENSAJE: TestReceptor_ERROR
+2017/03/22 04:58:44.117 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:58:44.121 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:58:45.030 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:58:45.037 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/03/22 04:58:46.027 - MENSAJE: Error_Conexion_Receptor
+2017/03/22 04:58:46.040 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...

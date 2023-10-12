@@ -1,0 +1,63 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Global\obj\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Global\obj\Debug\MC.Global.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Global.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Global.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Global\obj\Debug\MC.Global.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Global\obj\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.Global\obj\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.Global\obj\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Global\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Global\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Global\obj\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Global\obj\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Global\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Global\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.Global\obj\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Global\obj\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Global\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Global\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Global\obj\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Global\obj\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Global\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Global\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Global\obj\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.Global\obj\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Global\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Global\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Global\obj\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.Global\obj\Debug\MC.Global.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Global\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Global\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Global\obj\Debug\MC.Global.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.Global\obj\Debug\MC.Global.pdb

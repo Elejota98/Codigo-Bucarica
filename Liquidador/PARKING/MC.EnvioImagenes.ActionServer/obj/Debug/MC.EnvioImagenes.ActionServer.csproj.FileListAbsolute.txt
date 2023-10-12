@@ -1,0 +1,90 @@
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.DataService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.DataService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.DataService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.DataService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenes.ActionServer.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.DataService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.EnvioImagenesService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.DataService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\bin\MC.Utilidades.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenes.ActionServer\obj\Debug\MC.EnvioImagenes.ActionServer.pdb

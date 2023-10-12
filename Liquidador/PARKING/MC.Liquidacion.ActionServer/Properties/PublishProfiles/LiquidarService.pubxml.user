@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MC.BaseService.dll">
+      <publishTime>05/25/2023 15:30:52</publishTime>
+    </File>
+    <File Include="bin/MC.BaseService.pdb">
+      <publishTime>05/25/2023 15:30:52</publishTime>
+    </File>
+    <File Include="bin/MC.BusinessService.dll">
+      <publishTime>05/25/2023 15:30:52</publishTime>
+    </File>
+    <File Include="bin/MC.BusinessService.pdb">
+      <publishTime>05/25/2023 15:30:52</publishTime>
+    </File>
+    <File Include="bin/MC.DataService.dll">
+      <publishTime>05/25/2023 15:30:53</publishTime>
+    </File>
+    <File Include="bin/MC.DataService.pdb">
+      <publishTime>05/25/2023 15:30:53</publishTime>
+    </File>
+    <File Include="bin/MC.Liquidacion.ActionServer.dll">
+      <publishTime>05/25/2023 15:30:55</publishTime>
+    </File>
+    <File Include="bin/MC.Liquidacion.ActionServer.pdb">
+      <publishTime>05/25/2023 15:30:55</publishTime>
+    </File>
+    <File Include="bin/MC.LiquidacionService.dll">
+      <publishTime>05/25/2023 15:30:54</publishTime>
+    </File>
+    <File Include="bin/MC.LiquidacionService.pdb">
+      <publishTime>05/25/2023 15:30:54</publishTime>
+    </File>
+    <File Include="MC_LiquidacionService.svc">
+      <publishTime>08/28/2020 08:10:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/25/2023 15:34:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

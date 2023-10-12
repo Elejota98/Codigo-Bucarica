@@ -1,0 +1,33 @@
+2019/09/25 03:36:16.648 - INICIO REGISTRO
+2019/09/25 03:36:28.576 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/09/25 03:36:29.453 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/09/25 03:37:07.301 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2019/09/25 03:37:22.211 - INICIO REGISTRO
+2019/09/25 03:37:23.891 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/09/25 03:37:23.979 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/09/25 03:37:40.493 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/09/25 03:37:42.918 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/09/25 03:37:43.895 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/09/25 03:38:16.220 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2019/09/25 03:40:49.858 - INICIO REGISTRO
+2019/09/25 03:41:06.189 - INICIO REGISTRO
+2019/09/25 03:41:08.446 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/09/25 03:41:08.901 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/09/25 03:41:13.541 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/09/25 03:41:14.343 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/09/25 03:41:14.781 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/09/25 03:41:34.730 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2019/09/25 03:41:35.754 - MENSAJE: (FrontEnd CapturaPlaca) 
+2019/09/25 03:43:22.055 - INICIO REGISTRO
+2019/09/25 03:43:23.893 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/09/25 03:43:25.353 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/09/25 03:43:31.546 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/09/25 03:43:32.584 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/09/25 03:43:32.908 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/09/25 03:43:48.081 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2019/09/25 03:43:50.667 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2019/09/25 03:43:56.636 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 192.168.0.13:27001
+   en System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlaca() en c:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 1045
+2019/09/25 03:44:03.153 - MENSAJE: (FrontEnd CapturaPlaca) 
+2019/09/25 03:44:14.037 - MENSAJE: Error Conexion PLC

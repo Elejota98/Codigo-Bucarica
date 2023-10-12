@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:86/MC_Block_Pass/MC_SincronizacionService.svc?xsd=xsd2" namespace="http://www.MillensCorp.com/types/" />
+  <xs:element name="getDatosSincronizacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q1:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosSincronizacionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosSincronizacionResult" nillable="true" type="q2:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosSincronizacionPago">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q3:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosSincronizacionPagoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosSincronizacionPagoResult" nillable="true" type="q4:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosSincronizacionSalida">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q5:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosSincronizacionSalidaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosSincronizacionSalidaResult" nillable="true" type="q6:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosPago">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q7:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosPagoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosPagoResult" nillable="true" type="q8:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosMovimientos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q9:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosMovimientosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosMovimientosResult" nillable="true" type="q10:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosArqueos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q11:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosArqueosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosArqueosResult" nillable="true" type="q12:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosAutorizaciones">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q13="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q13:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosAutorizacionesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q14="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosAutorizacionesResult" nillable="true" type="q14:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosPersonasAutorizadas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q15="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q15:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosPersonasAutorizadasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q16="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosPersonasAutorizadasResult" nillable="true" type="q16:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosConsignacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q17="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q17:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosConsignacionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q18="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosConsignacionResult" nillable="true" type="q18:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosFacturasManuales">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q19="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q19:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosFacturasManualesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q20="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosFacturasManualesResult" nillable="true" type="q20:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidacionRed">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q21="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q21:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidacionRedResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q22="http://www.MillensCorp.com/types/" minOccurs="0" name="getValidacionRedResult" nillable="true" type="q22:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosCortesias">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q23="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q23:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosCortesiasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q24="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosCortesiasResult" nillable="true" type="q24:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosConvenios">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q25="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q25:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosConveniosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q26="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosConveniosResult" nillable="true" type="q26:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosTalanqueras">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q27="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q27:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosTalanquerasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q28="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosTalanquerasResult" nillable="true" type="q28:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosUsuarios">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q29="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q29:Sincronizacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosUsuariosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q30="http://www.MillensCorp.com/types/" minOccurs="0" name="getDatosUsuariosResult" nillable="true" type="q30:Sincronizacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

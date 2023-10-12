@@ -1,0 +1,950 @@
+2020/09/29 08:53:33.568 - INICIO REGISTRO
+2020/09/29 08:53:33.593 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 08:53:33.756 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 08:53:37.592 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 08:53:37.860 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 08:53:37.932 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 08:53:38.235 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 08:53:38.390 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 08:53:38.660 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 08:53:39.453 - MENSAJE: Tarjeta_Alistada
+2020/09/29 08:53:39.616 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 08:53:40.280 - MENSAJE: Tarjeta_Borrada
+2020/09/29 08:53:40.494 - MENSAJE: CRT Error -->MC.CRT603Device.WinSCardException: Cannot find a smart card reader!
+   en MC.CRT603Device.WinSCard.ListReaders() en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\WinSCard_Methods.cs:línea 126
+   en MC.CRT603Device.PCSCReader.Connect(String szReader, SCARD_SCOPE dwScope) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 89
+2020/09/29 08:53:40.625 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 08:53:41.024 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:41.663 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:42.693 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:43.703 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:44.705 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:45.703 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:46.696 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:47.705 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:48.709 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:49.704 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:50.718 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:51.730 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:52.742 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:53.754 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:54.749 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:55.759 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:56.778 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:57.793 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:53:58.816 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:54:14.112 - INICIO REGISTRO
+2020/09/29 08:54:14.133 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 08:54:14.305 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 08:54:16.163 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 08:54:16.232 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 08:54:16.358 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 08:54:16.587 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 08:54:16.741 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 08:54:17.011 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 08:54:17.773 - MENSAJE: Tarjeta_Alistada
+2020/09/29 08:54:17.831 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 08:54:18.473 - MENSAJE: Tarjeta_Borrada
+2020/09/29 08:55:44.442 - INICIO REGISTRO
+2020/09/29 08:55:44.464 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 08:55:44.644 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 08:55:46.497 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 08:55:46.557 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 08:55:46.607 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 08:55:46.819 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 08:55:46.971 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 08:55:47.253 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 08:55:48.053 - MENSAJE: Tarjeta_Alistada
+2020/09/29 08:55:48.118 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 08:55:48.772 - MENSAJE: Tarjeta_Borrada
+2020/09/29 08:56:21.484 - INICIO REGISTRO
+2020/09/29 08:56:21.503 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 08:56:21.672 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 08:56:23.612 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 08:56:23.671 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 08:56:23.721 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 08:56:23.921 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 08:56:24.122 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 08:56:24.393 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 08:56:25.188 - MENSAJE: Tarjeta_Alistada
+2020/09/29 08:56:25.239 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 08:56:25.890 - MENSAJE: Tarjeta_Borrada
+2020/09/29 08:56:38.269 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 08:56:38.601 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:38.849 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:39.673 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:40.696 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:41.694 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:42.707 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:43.725 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:44.715 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:45.728 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:46.756 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:47.750 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:48.759 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:48.808 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:56:49.572 - MENSAJE: Tarjeta_Alistada
+2020/09/29 08:56:49.589 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 08:56:50.243 - MENSAJE: Tarjeta_Borrada
+2020/09/29 08:56:50.270 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 08:56:50.279 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 08:56:50.287 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/29 08:56:50.301 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 08:56:50.293 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 08:56:50.313 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 08:56:50.346 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 08:56:51.058 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 08:56:51.575 - MENSAJE: Tarjeta_Escrita
+2020/09/29 08:56:51.593 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 08:56:52.084 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 08:56:53.586 - MENSAJE: Sin_Tarjeta
+2020/09/29 08:56:53.625 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:56:53.751 - MENSAJE: Sin_Tarjeta
+2020/09/29 08:56:53.795 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:56:54.760 - MENSAJE: Sin_Tarjeta
+2020/09/29 08:56:55.196 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 08:56:55.259 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 08:56:55.792 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:56:55.838 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:56:56.610 - MENSAJE: Tarjeta_Alistada
+2020/09/29 08:56:56.635 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 08:56:57.297 - MENSAJE: Tarjeta_Borrada
+2020/09/29 08:56:57.309 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 08:56:57.316 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 08:56:57.341 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2020/09/29 08:56:57.346 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 08:56:57.354 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 08:56:57.365 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 08:56:57.391 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 08:56:58.100 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 08:56:58.602 - MENSAJE: Tarjeta_Escrita
+2020/09/29 08:56:58.621 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 08:56:59.093 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 08:56:59.250 - MENSAJE: Sin_Tarjeta
+2020/09/29 08:56:59.296 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:56:59.782 - MENSAJE: Sin_Tarjeta
+2020/09/29 08:57:00.234 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 08:57:00.343 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 08:57:00.809 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 08:57:00.856 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:01.620 - MENSAJE: Tarjeta_Alistada
+2020/09/29 08:57:01.640 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 08:57:02.291 - MENSAJE: Tarjeta_Borrada
+2020/09/29 08:57:02.304 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 08:57:02.307 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 08:57:02.319 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2020/09/29 08:57:02.324 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 08:57:02.334 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 08:57:02.369 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 08:57:02.354 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 08:57:03.016 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 08:57:03.587 - MENSAJE: Tarjeta_Escrita
+2020/09/29 08:57:03.597 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 08:57:04.074 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 08:57:04.216 - MENSAJE: Sin_Tarjeta
+2020/09/29 08:57:04.263 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:04.788 - MENSAJE: Sin_Tarjeta
+2020/09/29 08:57:04.835 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:05.917 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\CRTDevice.cs:línea 75
+2020/09/29 08:57:05.960 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:06.863 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\CRTDevice.cs:línea 75
+2020/09/29 08:57:06.912 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:07.820 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:07.881 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:08.866 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:08.932 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:09.811 - MENSAJE: Sin_Tarjeta
+2020/09/29 08:57:09.858 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:10.884 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\CRTDevice.cs:línea 75
+2020/09/29 08:57:10.931 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:11.603 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 08:57:11.614 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 08:57:11.630 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 08:57:11.907 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\CRTDevice.cs:línea 75
+2020/09/29 08:57:11.959 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:12.917 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.CRT603Device\CRTDevice.cs:línea 75
+2020/09/29 08:57:12.969 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:13.848 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:13.912 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:14.929 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:14.997 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:15.909 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:15.977 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:16.915 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:16.972 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:17.888 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:17.952 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:18.514 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 08:57:18.526 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 08:57:18.542 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 08:57:18.897 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:18.948 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:19.925 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:19.974 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:20.953 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:21.004 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:21.967 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:22.017 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:22.946 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:23.002 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:23.956 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:23.999 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:24.945 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:24.995 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:25.999 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:26.051 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:26.985 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:27.031 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:28.007 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:28.057 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:28.984 - MENSAJE: ID Tarjeta OK
+2020/09/29 08:57:29.032 - MENSAJE: Vehiculo En Mueble
+2020/09/29 08:57:36.476 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 08:57:37.813 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 08:57:37.982 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 08:57:38.236 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 08:57:45.651 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 08:57:56.430 - MENSAJE: ID Tarjeta OK
+2020/09/29 09:00:00.377 - INICIO REGISTRO
+2020/09/29 09:00:00.397 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 09:00:00.578 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 09:00:02.429 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 09:00:02.489 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 09:00:02.538 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 09:00:02.749 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 09:00:02.937 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:00:03.223 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 09:00:04.449 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:00:04.506 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:00:05.174 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:00:09.929 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:00:10.275 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:10.554 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:11.563 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:12.572 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:13.592 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:14.602 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:15.581 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:16.593 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:17.573 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:18.597 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:19.580 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:20.588 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:21.570 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:22.572 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:23.576 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:00:23.624 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:00:24.427 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:00:24.458 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:00:25.104 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:00:25.130 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:00:25.140 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:00:25.165 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:00:25.151 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/29 09:00:25.160 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:00:25.203 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:00:25.229 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:00:25.979 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:00:26.455 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:00:26.465 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:00:26.943 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:00:43.275 - MENSAJE: ID Tarjeta OK
+2020/09/29 09:00:51.036 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:00:51.047 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:00:51.060 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:00:51.356 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:01:42.971 - INICIO REGISTRO
+2020/09/29 09:01:42.993 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 09:01:43.165 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 09:01:44.959 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 09:01:45.022 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 09:01:45.072 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 09:01:45.291 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 09:01:45.478 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:01:45.764 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 09:01:46.570 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:01:46.624 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:01:47.276 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:01:47.369 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:01:47.641 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:48.105 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:49.115 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:50.110 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:51.119 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:52.130 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:53.139 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:54.163 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:55.170 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:56.149 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:57.171 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:58.198 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:01:59.191 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:00.183 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:01.193 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:02.199 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:03.207 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:04.199 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:05.210 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:06.196 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:07.211 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:08.218 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:09.210 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:10.217 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:11.211 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:12.249 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:13.255 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:14.254 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:15.276 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:16.288 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:02:16.334 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:02:17.124 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:02:17.144 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:02:17.808 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:02:17.834 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:02:17.843 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:02:17.852 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/29 09:02:17.857 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:02:17.865 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:02:17.881 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:02:17.897 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:02:18.593 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:02:19.123 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:02:19.133 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:02:19.609 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:02:25.058 - MENSAJE: ID Tarjeta OK
+2020/09/29 09:02:28.294 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:02:31.531 - MENSAJE: oAutorizado.IdTarjeta : E3E69679
+2020/09/29 09:03:11.153 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:03:15.035 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:03:15.709 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:07:35.102 - INICIO REGISTRO
+2020/09/29 09:07:35.124 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 09:07:35.293 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 09:07:37.118 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 09:07:37.180 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 09:07:37.230 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 09:07:37.440 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 09:07:37.596 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:07:37.865 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 09:07:38.653 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:07:38.704 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:07:39.375 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:07:39.472 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:07:39.788 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:40.207 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:41.204 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:42.204 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:43.197 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:44.210 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:45.254 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:46.251 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:47.248 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:48.247 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:49.244 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:50.272 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:51.271 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:52.283 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:53.281 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:54.275 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:55.291 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:56.289 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:57.304 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:58.318 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:07:59.303 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:08:00.295 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:08:01.294 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:08:02.304 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:08:03.336 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:08:03.381 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:08:04.134 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:08:04.151 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:08:04.814 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:08:04.841 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:08:04.852 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:08:04.867 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/29 09:08:04.869 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:08:04.885 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:08:04.902 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:08:04.919 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:08:06.172 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:08:06.185 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:08:06.194 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:08:06.669 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:08:10.078 - MENSAJE: ID Tarjeta OK
+2020/09/29 09:08:13.559 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:08:15.457 - MENSAJE: oAutorizado.IdTarjeta : E3E69679
+2020/09/29 09:08:27.966 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:08:27.986 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:08:28.002 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:08:28.346 - MENSAJE: Error (Presenter EnviarImagenesServidor): 
+2020/09/29 09:09:24.435 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:09:34.087 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:09:34.107 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:09:34.174 - MENSAJE: Talanquera Abierta
+2020/09/29 09:09:34.252 - MENSAJE: Vehiculo En Talanquera
+2020/09/29 09:09:34.598 - MENSAJE: Vehiculo Salio Talanquera
+2020/09/29 09:09:34.664 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:09:34.726 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:09:35.658 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:36.671 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:37.668 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:38.691 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:39.673 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:40.701 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:41.693 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:42.708 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:43.703 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:44.695 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:45.695 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:46.707 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:47.703 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:48.703 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:49.698 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:50.710 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:51.707 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:52.705 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:09:52.754 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:09:53.519 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:09:53.537 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:09:54.191 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:09:54.201 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:09:54.205 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:09:54.216 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2020/09/29 09:09:54.220 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:09:54.248 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:09:54.234 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:09:54.266 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:09:54.942 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:09:55.244 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:09:55.254 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:09:55.264 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:09:55.484 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:09:55.502 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:09:55.978 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:09:58.232 - MENSAJE: ID Tarjeta OK
+2020/09/29 09:10:02.529 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:10:03.884 - MENSAJE: oAutorizado.IdTarjeta : E3E69679
+2020/09/29 09:10:10.733 - MENSAJE: Error (Presenter EnviarImagenesServidor): 
+2020/09/29 09:14:47.987 - INICIO REGISTRO
+2020/09/29 09:14:48.011 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 09:14:48.201 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 09:14:50.038 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 09:14:50.097 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 09:14:50.149 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 09:14:50.377 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 09:14:50.535 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:14:50.809 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 09:14:51.583 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:14:51.647 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:14:52.305 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:14:52.399 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:14:52.746 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:14:53.120 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:14:54.172 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:14:55.144 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:14:56.145 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:14:57.165 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:14:57.226 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:14:57.992 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:14:58.019 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:14:58.680 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:14:58.704 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:14:58.713 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:14:58.720 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/29 09:14:58.727 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:14:58.736 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:14:58.749 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:14:58.760 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:14:59.637 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:14:59.984 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:14:59.994 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:15:00.474 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:15:06.626 - MENSAJE: ID Tarjeta OK
+2020/09/29 09:15:09.605 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:15:10.415 - MENSAJE: oAutorizado.IdTarjeta : E3E69679
+2020/09/29 09:15:21.268 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:15:22.790 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:15:22.813 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:15:23.126 - MENSAJE: Error (Presenter EnviarImagenesServidor): 
+2020/09/29 09:15:50.992 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:41:37.497 - INICIO REGISTRO
+2020/09/29 09:41:37.520 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 09:41:37.695 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 09:41:39.651 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 09:41:39.711 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 09:41:39.769 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 09:41:40.002 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 09:41:40.155 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:41:40.441 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 09:41:41.216 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:41:41.268 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:41:41.931 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:41:42.024 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:41:42.303 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:41:42.443 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:41:43.208 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:41:43.235 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:41:43.890 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:41:43.933 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:41:43.943 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:41:43.959 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/29 09:41:43.965 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:41:43.972 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:41:43.992 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:41:44.005 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:41:45.075 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:41:45.251 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:41:45.270 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:41:45.761 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:41:48.024 - MENSAJE: ID Tarjeta OK
+2020/09/29 09:41:51.214 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:41:52.107 - MENSAJE: oAutorizado.IdTarjeta : E3E69679
+2020/09/29 09:42:12.759 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:42:13.731 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:42:13.755 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:42:37.257 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:45:27.730 - INICIO REGISTRO
+2020/09/29 09:45:27.756 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 09:45:27.976 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 09:45:29.894 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 09:45:29.955 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 09:45:30.008 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 09:45:30.231 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 09:45:30.430 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:45:30.717 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 09:45:31.509 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:45:31.560 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:45:32.217 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:45:32.328 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:45:32.609 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:45:32.716 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:45:33.485 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:45:33.515 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:45:34.179 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:45:34.217 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:45:34.226 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:45:34.235 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/29 09:45:34.241 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:45:34.248 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:45:34.261 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:45:34.276 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:45:34.838 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:45:35.528 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:45:35.538 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:45:36.014 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:45:40.830 - MENSAJE: ID Tarjeta OK
+2020/09/29 09:45:43.592 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:45:44.750 - MENSAJE: oAutorizado.IdTarjeta : E3E69679
+2020/09/29 09:46:00.149 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:46:00.170 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:46:00.186 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:46:13.244 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:46:13.866 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:13.929 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:46:14.703 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:46:14.721 - MENSAJE: Tarjeta Enconrada: 43E39679
+2020/09/29 09:46:15.375 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:46:15.396 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:46:15.400 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:46:15.422 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2020/09/29 09:46:15.426 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:46:15.441 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:46:15.452 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:46:15.467 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:46:16.652 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:46:16.691 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:46:16.700 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:46:17.175 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:46:24.224 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:46:24.281 - MENSAJE: ID Tarjeta OK
+2020/09/29 09:46:24.695 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:46:24.712 - MENSAJE: oAutorizado.IdTarjeta : E3E69679
+2020/09/29 09:46:35.941 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:46:36.604 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:46:36.614 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:46:36.625 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:46:36.959 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:37.942 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:38.955 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:39.947 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:40.953 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:41.963 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:42.989 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:43.987 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:44.997 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:46.010 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:47.034 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:48.017 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:49.049 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:50.047 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:51.061 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:52.040 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:53.039 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:54.040 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:55.051 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:56.066 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:57.078 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:57.774 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:46:58.074 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:46:59.071 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:00.070 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:01.097 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:02.120 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:03.132 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:04.177 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:05.145 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:06.157 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:07.146 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:08.160 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:09.171 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:10.168 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:11.176 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:12.172 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:13.164 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:14.177 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:15.179 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:16.176 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:17.188 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:18.163 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:19.171 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:20.198 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:21.192 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:22.201 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:23.211 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:24.202 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:25.204 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:26.238 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:27.213 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:28.218 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:29.242 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:30.247 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:31.262 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:32.290 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:33.297 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:34.292 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:35.290 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:36.318 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:37.317 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:38.319 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:47:39.341 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:51:30.599 - INICIO REGISTRO
+2020/09/29 09:51:30.622 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 09:51:30.796 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 09:51:32.645 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 09:51:32.705 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 09:51:32.754 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 09:51:32.956 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 09:51:33.111 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:51:33.394 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 09:51:36.570 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:51:39.922 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:52:23.604 - INICIO REGISTRO
+2020/09/29 09:52:23.625 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 09:52:23.793 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 09:52:25.580 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 09:52:25.642 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 09:52:25.691 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 09:52:25.917 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 09:52:26.108 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:52:26.394 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 09:52:28.032 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:52:28.084 - MENSAJE: Tarjeta Enconrada: E6DB2A27
+2020/09/29 09:52:28.737 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:52:28.847 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:52:29.180 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:52:29.319 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:52:30.101 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:52:30.131 - MENSAJE: Tarjeta Enconrada: E6DB2A27
+2020/09/29 09:52:30.793 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:52:30.817 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:52:30.826 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:52:30.836 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/29 09:52:30.842 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:52:30.849 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:52:30.861 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:52:30.875 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:52:31.856 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:52:32.094 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:52:32.104 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:52:32.587 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:52:32.896 - MENSAJE: ID Tarjeta OK
+2020/09/29 09:52:33.305 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:52:33.324 - MENSAJE: oAutorizado.IdTarjeta : 43E39679
+2020/09/29 09:52:39.152 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:52:39.708 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:52:39.756 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:52:40.526 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:52:40.547 - MENSAJE: Tarjeta Enconrada: E6DB2A27
+2020/09/29 09:52:41.200 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:52:41.211 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:52:41.215 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:52:41.226 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2020/09/29 09:52:41.230 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:52:41.240 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:52:41.250 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:52:41.264 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:52:41.919 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:52:42.465 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:52:42.476 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:52:42.950 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:52:43.850 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:52:44.323 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:52:44.399 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:52:44.742 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:52:45.735 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:52:46.745 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:52:47.736 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:52:48.749 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:52:48.796 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:52:49.586 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:52:49.608 - MENSAJE: Tarjeta Enconrada: E6DB2A27
+2020/09/29 09:52:50.258 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:52:50.279 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:52:50.285 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:52:50.299 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2020/09/29 09:52:50.303 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:52:50.314 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:52:50.327 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:52:50.343 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:52:51.138 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:52:51.544 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:52:51.559 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:52:52.046 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:52:52.047 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:52:52.064 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:52:52.088 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:52:52.750 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:52:52.797 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:52:53.752 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:52:53.798 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:52:54.746 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:52:54.757 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:52:54.795 - MENSAJE: Talanquera Abierta
+2020/09/29 09:52:54.811 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:52:54.824 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:52:55.745 - MENSAJE: Vehiculo En Talanquera
+2020/09/29 09:52:56.772 - MENSAJE: Vehiculo Salio Talanquera
+2020/09/29 09:52:56.849 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:52:56.926 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:52:57.818 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:52:58.827 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:52:58.876 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:00.480 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:53:00.505 - MENSAJE: Tarjeta Enconrada: 7E73C7CB
+2020/09/29 09:53:01.183 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:53:01.194 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:53:01.199 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:01.216 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2020/09/29 09:53:01.220 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:53:01.231 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:53:01.246 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:53:01.261 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:53:02.232 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:53:02.393 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:53:02.404 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:02.414 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:53:02.464 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:53:02.474 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:53:02.936 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:53:03.534 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:53:03.596 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:03.830 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:53:04.267 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:53:04.329 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:53:04.859 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:05.873 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:06.890 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:06.952 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:07.716 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:53:07.734 - MENSAJE: Tarjeta Enconrada: 7E73C7CB
+2020/09/29 09:53:08.389 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:53:08.400 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:53:08.405 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:08.416 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2020/09/29 09:53:08.421 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:53:08.431 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:53:08.448 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:53:08.467 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:53:09.436 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:53:09.671 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:53:09.681 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:53:10.144 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:53:10.487 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:53:10.533 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:10.877 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:53:10.935 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:11.872 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:53:11.885 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:53:11.918 - MENSAJE: Talanquera Abierta
+2020/09/29 09:53:11.936 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:11.953 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:53:12.878 - MENSAJE: Vehiculo En Talanquera
+2020/09/29 09:53:13.244 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:53:13.269 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:13.284 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:53:13.286 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:53:13.875 - MENSAJE: Vehiculo Salio Talanquera
+2020/09/29 09:53:13.951 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:53:14.029 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:53:14.922 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:15.915 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:15.964 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:17.565 - MENSAJE: Tarjeta_Alistada
+2020/09/29 09:53:17.583 - MENSAJE: Tarjeta Enconrada: 63739679
+2020/09/29 09:53:18.249 - MENSAJE: Tarjeta_Borrada
+2020/09/29 09:53:18.261 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/29 09:53:18.265 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:18.276 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2020/09/29 09:53:18.280 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.19
+2020/09/29 09:53:18.298 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:53:18.309 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/29 09:53:18.330 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/29 09:53:19.030 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/29 09:53:19.554 - MENSAJE: Tarjeta_Escrita
+2020/09/29 09:53:19.564 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/29 09:53:20.044 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/29 09:53:20.523 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:53:20.569 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:20.894 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:53:20.908 - MENSAJE: Sin_Tarjeta
+2020/09/29 09:53:20.942 - MENSAJE: Talanquera Abierta
+2020/09/29 09:53:20.958 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:20.972 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.18/Streaming/channels/101/picture
+2020/09/29 09:53:21.910 - MENSAJE: Vehiculo En Talanquera
+2020/09/29 09:53:22.905 - MENSAJE: Vehiculo Salio Talanquera
+2020/09/29 09:53:22.982 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:53:23.060 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:53:23.504 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:53:23.522 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:23.554 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:53:23.574 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:53:23.954 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:24.980 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:25.993 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:26.041 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:29.191 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:53:29.236 - MENSAJE: Error_Borrar_Tarjeta
+2020/09/29 09:53:29.343 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:29.408 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:32.568 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:53:32.626 - MENSAJE: Error_Borrar_Tarjeta
+2020/09/29 09:53:32.747 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:32.794 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:34.300 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:53:34.311 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:34.322 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:53:34.440 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:53:35.901 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:53:35.945 - MENSAJE: Error_Borrar_Tarjeta
+2020/09/29 09:53:36.072 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:36.131 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:39.241 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:53:39.288 - MENSAJE: Error_Borrar_Tarjeta
+2020/09/29 09:53:39.408 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:40.035 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:41.015 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:42.056 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:43.037 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:44.066 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:44.631 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:53:44.665 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:44.691 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:53:44.720 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:53:45.077 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:46.070 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:47.081 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:48.078 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:49.078 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:49.142 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:52.260 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:53:52.307 - MENSAJE: Error_Borrar_Tarjeta
+2020/09/29 09:53:52.413 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:52.460 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:55.399 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:53:55.414 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:53:55.426 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:53:55.538 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:53:55.556 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:53:55.606 - MENSAJE: Error_Borrar_Tarjeta
+2020/09/29 09:53:55.716 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:55.763 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:53:58.887 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:53:58.966 - MENSAJE: Error_Borrar_Tarjeta
+2020/09/29 09:53:59.089 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:53:59.138 - MENSAJE: Vehiculo En Mueble
+2020/09/29 09:54:02.234 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:54:02.279 - MENSAJE: Error_Borrar_Tarjeta
+2020/09/29 09:54:02.401 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:54:03.163 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:54:04.159 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:54:46.332 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:54:47.551 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:54:49.946 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:54:49.946 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/29 09:54:49.997 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:55:08.446 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/29 09:55:08.452 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:55:03.920 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:55:08.479 - MENSAJE: (Presenter CapturaFoto) COMANDO http://147.120.15.27/Streaming/channels/101/picture
+2020/09/29 09:55:23.332 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:55:25.738 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:55:28.195 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:55:30.112 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:55:32.310 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:55:32.352 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:55:35.849 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2020/09/29 09:55:38.009 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:55:40.410 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:55:42.370 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:56:43.405 - MENSAJE: Estado_StackerNivelBajo
+2020/09/29 09:56:59.962 - INICIO REGISTRO
+2020/09/29 09:56:59.988 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/29 09:57:00.196 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/29 09:57:02.053 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/29 09:57:02.115 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/29 09:57:02.167 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/29 09:57:02.386 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/29 09:57:02.542 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/29 09:57:02.794 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/29 09:57:05.904 - MENSAJE: Error_AlistarTarjeta
+2020/09/29 09:57:09.210 - MENSAJE: Error_AlistarTarjeta

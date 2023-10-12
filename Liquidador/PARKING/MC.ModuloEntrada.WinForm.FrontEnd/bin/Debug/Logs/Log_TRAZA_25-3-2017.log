@@ -1,0 +1,87 @@
+2017/03/25 02:26:04.504 - INICIO REGISTRO
+2017/03/25 02:26:04.515 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 02:26:04.592 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 02:26:07.339 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2017/03/25 02:26:43.158 - INICIO REGISTRO
+2017/03/25 02:26:43.170 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 02:26:43.248 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 02:26:45.731 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2017/03/25 02:26:52.904 - INICIO REGISTRO
+2017/03/25 02:26:52.913 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 02:26:52.984 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 02:26:57.140 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2017/03/25 02:27:46.429 - INICIO REGISTRO
+2017/03/25 02:27:46.440 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 02:27:46.528 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 02:27:51.470 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 02:27:56.158 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 02:27:56.309 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 02:28:27.397 - MENSAJE: MC.CRT603Device.WinSCardException
+   en MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) en c:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\WinSCard_Methods.cs:línea 341
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\PCSC_Reader.cs:línea 410
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) en c:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\PCSC_Reader.cs:línea 366
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\PCSC_Reader.cs:línea 317
+   en MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) en c:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\PCSC_Reader.cs:línea 292
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) en c:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\PCSC_Reader.cs:línea 245
+   en MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) en c:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\PCSC_Reader.cs:línea 234
+   en MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() en c:\Proyectos\MC\Desarrollo MillensPark\MC.CRT603Device\CRTDevice.cs:línea 75
+2017/03/25 02:29:09.241 - INICIO REGISTRO
+2017/03/25 02:29:09.251 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 02:29:09.326 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 02:29:10.013 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 02:29:10.152 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 02:29:10.288 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 02:29:32.990 - INICIO REGISTRO
+2017/03/25 02:29:33.000 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 02:29:33.076 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 02:29:33.767 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 02:29:33.894 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 02:29:34.014 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 02:30:02.912 - INICIO REGISTRO
+2017/03/25 02:30:02.923 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 02:30:03.002 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 02:30:03.708 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 02:30:03.816 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 02:30:03.922 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 02:30:34.891 - MENSAJE: ID Tarjeta OK
+2017/03/25 02:30:59.190 - MENSAJE: LoadKeyCRT_ok
+2017/03/25 02:31:00.623 - MENSAJE: CheckKeyCRT_ok
+2017/03/25 02:31:02.211 - MENSAJE: Tarjeta leida Correctamente
+2017/03/25 02:31:17.313 - MENSAJE: ID Tarjeta OK
+2017/03/25 02:31:30.202 - MENSAJE: LoadKeyCRT_ok
+2017/03/25 02:31:30.219 - MENSAJE: CheckKeyCRT_ok
+2017/03/25 02:31:30.233 - MENSAJE: Tarjeta leida Correctamente
+2017/03/25 02:49:16.919 - INICIO REGISTRO
+2017/03/25 02:49:16.930 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 02:49:17.008 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 02:49:18.647 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 02:49:18.766 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 02:49:18.879 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 02:49:42.976 - MENSAJE: ID Tarjeta OK
+2017/03/25 02:53:12.290 - MENSAJE: ID Tarjeta OK
+2017/03/25 02:57:34.614 - INICIO REGISTRO
+2017/03/25 02:57:34.624 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 02:57:34.699 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 02:57:36.365 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 02:57:36.522 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 02:57:36.673 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 02:57:56.360 - MENSAJE: ID Tarjeta OK
+2017/03/25 02:58:43.478 - MENSAJE: LoadKeyCRT_ok
+2017/03/25 02:58:43.492 - MENSAJE: CheckKeyCRT_ok
+2017/03/25 02:58:43.500 - MENSAJE: Tarjeta leida Correctamente
+2017/03/25 03:38:09.524 - INICIO REGISTRO
+2017/03/25 03:38:09.535 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 03:38:09.614 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 03:38:13.509 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 03:38:13.629 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 03:38:13.746 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 03:38:24.539 - INICIO REGISTRO
+2017/03/25 03:38:24.549 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 03:38:24.626 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 03:38:25.333 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 03:38:25.465 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 03:38:25.580 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 03:38:46.538 - MENSAJE: ID Tarjeta OK
+2017/03/25 03:39:17.305 - MENSAJE: LoadKeyCRT_ok
+2017/03/25 03:39:17.323 - MENSAJE: CheckKeyCRT_ok
+2017/03/25 03:39:17.339 - MENSAJE: Tarjeta leida Correctamente

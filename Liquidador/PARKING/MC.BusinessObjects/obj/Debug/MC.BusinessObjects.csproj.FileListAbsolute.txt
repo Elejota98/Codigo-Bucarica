@@ -1,0 +1,60 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Proyecto\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessObjects\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessObjects\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessObjects\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.BusinessObjects\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BusinessObjects\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BusinessObjects\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb

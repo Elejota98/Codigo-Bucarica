@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Proyectos\ServiceModuloSalida</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MC.BaseService.dll">
+      <publishTime>07/18/2020 11:05:09</publishTime>
+    </File>
+    <File Include="bin/MC.BaseService.pdb">
+      <publishTime>07/18/2020 11:05:09</publishTime>
+    </File>
+    <File Include="bin/MC.BusinessService.dll">
+      <publishTime>07/18/2020 11:05:09</publishTime>
+    </File>
+    <File Include="bin/MC.BusinessService.pdb">
+      <publishTime>07/18/2020 11:05:09</publishTime>
+    </File>
+    <File Include="bin/MC.DataService.dll">
+      <publishTime>07/18/2020 11:05:12</publishTime>
+    </File>
+    <File Include="bin/MC.DataService.pdb">
+      <publishTime>07/18/2020 11:05:11</publishTime>
+    </File>
+    <File Include="bin/MC.HostSalida.ActionServer.dll">
+      <publishTime>07/18/2020 11:05:15</publishTime>
+    </File>
+    <File Include="bin/MC.HostSalida.ActionServer.pdb">
+      <publishTime>07/18/2020 11:05:15</publishTime>
+    </File>
+    <File Include="bin/MC.SalidaService.dll">
+      <publishTime>07/18/2020 11:05:13</publishTime>
+    </File>
+    <File Include="bin/MC.SalidaService.pdb">
+      <publishTime>07/18/2020 11:05:13</publishTime>
+    </File>
+    <File Include="MC_SalidaService.svc">
+      <publishTime>11/08/2018 09:30:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/18/2020 11:06:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

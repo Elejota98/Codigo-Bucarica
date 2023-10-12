@@ -1,0 +1,84 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\obj\Debug\MC.BaseService.pdb
+D:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\bin\Debug\MC.BaseService.dll
+D:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\bin\Debug\MC.BaseService.pdb
+D:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+D:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\obj\Debug\MC.BaseService.dll
+D:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\PARKING REGIMEN SIMPLIFICADO\PARKING\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\Liq_Bucarica\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\PARQUEARSE\BUCARICA\Liq_Bucarica\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\Liq_Bucarica\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\LA 19\LiquidadorLa19\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\LiquidadorLa19\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.BaseService\bin\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.BaseService\bin\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.BaseService\obj\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.BaseService\obj\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.BaseService\obj\Debug\MC.BaseService.csproj.AssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\BUCARICA\Liquidador\PARKING\MC.BaseService\obj\Debug\MC.BaseService.csproj.CoreCompileInputs.cache

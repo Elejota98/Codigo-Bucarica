@@ -1,0 +1,156 @@
+2019/11/06 10:09:20.502 - MENSAJE: Error (Presenter Liquidacion): MC.Exception.ServiceException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.7985332. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.7985332. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: La solicitud HTTP a 'http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc' superó el tiempo de espera asignado de 00:00:59.8360000. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.Net.WebException: Se excedió el tiempo de espera de la operación
+   en System.Net.HttpWebRequest.GetResponse()
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en MC.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en MC.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1155
+   en MC.ServiceProxy.ProxyService.<>c__DisplayClass32.<ObtenerDatosLiquidacion>b__30(LiquidacionServiceClient client) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 39
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 53
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 60
+   en MC.ServiceProxy.ProxyService.ObtenerDatosLiquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 38
+2019/11/06 10:09:20.511 - INICIO REGISTRO
+2019/11/06 10:09:20.527 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/06 10:09:21.802 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/06 10:25:50.209 - MENSAJE: Error (Presenter Liquidacion): MC.Exception.ServiceException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.7416930. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.7416930. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: La solicitud HTTP a 'http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc' superó el tiempo de espera asignado de 00:00:59.8870000. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.Net.WebException: Se excedió el tiempo de espera de la operación
+   en System.Net.HttpWebRequest.GetResponse()
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en MC.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en MC.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1155
+   en MC.ServiceProxy.ProxyService.<>c__DisplayClass32.<ObtenerDatosLiquidacion>b__30(LiquidacionServiceClient client) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 39
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 53
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 60
+   en MC.ServiceProxy.ProxyService.ObtenerDatosLiquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 38
+2019/11/06 10:25:50.225 - INICIO REGISTRO
+2019/11/06 10:25:50.256 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/06 10:26:03.741 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/06 11:03:19.408 - MENSAJE: (Presenter Liquidacion) 
+2019/11/06 05:39:12.994 - MENSAJE: (Presenter Liquidacion) 
+2019/11/06 05:39:13.004 - INICIO REGISTRO
+2019/11/06 05:39:13.023 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/06 05:39:15.527 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/06 05:39:52.560 - MENSAJE: (Presenter Liquidacion) 
+2019/11/06 05:39:52.566 - INICIO REGISTRO
+2019/11/06 05:39:52.577 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/06 05:39:54.564 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/06 05:43:49.166 - MENSAJE: Error (Presenter Liquidacion): MC.Exception.ServiceException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.8065688. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.8065688. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: La solicitud HTTP a 'http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc' superó el tiempo de espera asignado de 00:00:59.9700000. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.Net.WebException: Se excedió el tiempo de espera de la operación
+   en System.Net.HttpWebRequest.GetResponse()
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en MC.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en MC.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1171
+   en MC.ServiceProxy.ProxyService.<>c__DisplayClass32.<ObtenerDatosLiquidacion>b__30(LiquidacionServiceClient client) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 39
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 53
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 60
+   en MC.ServiceProxy.ProxyService.ObtenerDatosLiquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 38
+2019/11/06 05:43:49.193 - INICIO REGISTRO
+2019/11/06 05:43:49.903 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/06 05:48:05.141 - MENSAJE: Error (Presenter Liquidacion): MC.Exception.ServiceException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.8411914. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.8411914. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: La solicitud HTTP a 'http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc' superó el tiempo de espera asignado de 00:00:59.9530000. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.Net.WebException: Se excedió el tiempo de espera de la operación
+   en System.Net.HttpWebRequest.GetResponse()
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en MC.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en MC.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1171
+   en MC.ServiceProxy.ProxyService.<>c__DisplayClass32.<ObtenerDatosLiquidacion>b__30(LiquidacionServiceClient client) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 39
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 53
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 60
+   en MC.ServiceProxy.ProxyService.ObtenerDatosLiquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 38
+2019/11/06 05:48:05.165 - INICIO REGISTRO
+2019/11/06 05:48:05.993 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/06 11:06:52.998 - MENSAJE: Error (Presenter Liquidacion): MC.Exception.ServiceException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.7358533. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.7358533. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: La solicitud HTTP a 'http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc' superó el tiempo de espera asignado de 00:00:59.8900000. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.Net.WebException: Se excedió el tiempo de espera de la operación
+   en System.Net.HttpWebRequest.GetResponse()
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en MC.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en MC.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1171
+   en MC.ServiceProxy.ProxyService.<>c__DisplayClass32.<ObtenerDatosLiquidacion>b__30(LiquidacionServiceClient client) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 39
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 53
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 60
+   en MC.ServiceProxy.ProxyService.ObtenerDatosLiquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 38
+2019/11/06 11:06:53.024 - INICIO REGISTRO
+2019/11/06 11:06:53.090 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="79c6b957-51cf-4b66-b312-40d98ca052b8" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:84/MC_Block_Pass/MC_EnvioImagenesService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MC_EnvioImagenesService.xsd" MetadataType="Schema" ID="eb6c2eb9-e1fe-44a3-be6b-16f114ad1d0c" SourceId="1" SourceUrl="http://localhost:84/MC_Block_Pass/MC_EnvioImagenesService.svc?xsd=xsd3" />
+    <MetadataFile FileName="EnvioImagenesService.wsdl" MetadataType="Wsdl" ID="87058a2a-23ba-4f20-96aa-9274d7da6c32" SourceId="1" SourceUrl="http://localhost:84/MC_Block_Pass/MC_EnvioImagenesService.svc?wsdl" />
+    <MetadataFile FileName="MC_EnvioImagenesService1.xsd" MetadataType="Schema" ID="8204c3d1-317f-4855-b0cb-f1afea93452f" SourceId="1" SourceUrl="http://localhost:84/MC_Block_Pass/MC_EnvioImagenesService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MC_EnvioImagenesService2.xsd" MetadataType="Schema" ID="e81e5ea4-0365-4b59-b65c-aab9de715af1" SourceId="1" SourceUrl="http://localhost:84/MC_Block_Pass/MC_EnvioImagenesService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MC_EnvioImagenesService3.xsd" MetadataType="Schema" ID="b653773b-a3a9-4771-8dc6-5ee462ab04bd" SourceId="1" SourceUrl="http://localhost:84/MC_Block_Pass/MC_EnvioImagenesService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MC_EnvioImagenesService4.xsd" MetadataType="Schema" ID="aa60357b-a335-46eb-a067-c59db2a4c036" SourceId="1" SourceUrl="http://localhost:84/MC_Block_Pass/MC_EnvioImagenesService.svc?xsd=xsd5" />
+    <MetadataFile FileName="MC_EnvioImagenesService.disco" MetadataType="Disco" ID="b964c4ac-4694-411d-be32-7063518b4dd4" SourceId="1" SourceUrl="http://localhost:84/MC_Block_Pass/MC_EnvioImagenesService.svc?disco" />
+    <MetadataFile FileName="MC_EnvioImagenesService5.xsd" MetadataType="Schema" ID="4ff25fca-2d16-498a-877f-292d6c7941c4" SourceId="1" SourceUrl="http://localhost:84/MC_Block_Pass/MC_EnvioImagenesService.svc?xsd=xsd4" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

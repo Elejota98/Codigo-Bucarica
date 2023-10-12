@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://www.MillensCorp.com/types/" elementFormDefault="qualified" targetNamespace="http://www.MillensCorp.com/types/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc?xsd=xsd3" namespace="http://www.mc.com.co/types/" />
+  <xs:complexType name="Liquidacion_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://www.mc.com.co/types/" base="q1:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="bMensualidad" type="xs:boolean" />
+          <xs:element minOccurs="0" name="bReposicion" type="xs:boolean" />
+          <xs:element minOccurs="0" name="iTipoVehiculo" type="xs:int" />
+          <xs:element minOccurs="0" name="sConvenios" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="sIdtarjeta" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="sSecuencia" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Liquidacion_Request" nillable="true" type="tns:Liquidacion_Request" />
+  <xs:complexType name="Liquidacion_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://www.mc.com.co/types/" base="q2:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oDtoLiquidacion" nillable="true" type="tns:ServiceDtoLiquidacion" />
+          <xs:element minOccurs="0" name="oDtoLiquidacionCasco" nillable="true" type="tns:ServiceDtoLiquidacion" />
+          <xs:element minOccurs="0" name="oDtoTransaccion" nillable="true" type="tns:ServiceDtoTransaccion" />
+          <xs:element minOccurs="0" name="olstDtoLiquidacion" nillable="true" type="tns:ArrayOfServiceDtoDatosLiquidacion" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Liquidacion_Response" nillable="true" type="tns:Liquidacion_Response" />
+  <xs:complexType name="ServiceDtoLiquidacion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Estacionamiento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IdAutorizacion" type="xs:long" />
+      <xs:element minOccurs="0" name="IdConvenio" type="xs:long" />
+      <xs:element minOccurs="0" name="IdConvenio2" type="xs:long" />
+      <xs:element minOccurs="0" name="IdConvenio3" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEvento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTarifa" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTipoPago" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTipoVehiculo" type="xs:long" />
+      <xs:element minOccurs="0" name="TipoCobro" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoPago" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoVehiculo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Valor" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoLiquidacion" nillable="true" type="tns:ServiceDtoLiquidacion" />
+  <xs:complexType name="ServiceDtoTransaccion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cambio" type="xs:double" />
+      <xs:element minOccurs="0" name="CarrilEntrada" type="xs:int" />
+      <xs:element minOccurs="0" name="CarrilSalida" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Convenio1" type="xs:long" />
+      <xs:element minOccurs="0" name="Convenio2" type="xs:long" />
+      <xs:element minOccurs="0" name="Convenio3" type="xs:long" />
+      <xs:element minOccurs="0" name="Cortesia" type="xs:long" />
+      <xs:element minOccurs="0" name="FechaEntrada" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaSalida" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdAutorizado" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTarjeta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTipoVehiculo" type="xs:int" />
+      <xs:element minOccurs="0" name="IdTransaccion" type="xs:long" />
+      <xs:element minOccurs="0" name="ModuloEntrada" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ModuloSalida" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlacaEntrada" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlacaSalida" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="SincronizacionPago" type="xs:boolean" />
+      <xs:element minOccurs="0" name="SincronizacionSalida" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ValorRecibido" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoTransaccion" nillable="true" type="tns:ServiceDtoTransaccion" />
+  <xs:complexType name="ArrayOfServiceDtoDatosLiquidacion">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ServiceDtoDatosLiquidacion" nillable="true" type="tns:ServiceDtoDatosLiquidacion" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfServiceDtoDatosLiquidacion" nillable="true" type="tns:ArrayOfServiceDtoDatosLiquidacion" />
+  <xs:complexType name="ServiceDtoDatosLiquidacion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Iva" type="xs:double" />
+      <xs:element minOccurs="0" name="SubTotal" type="xs:double" />
+      <xs:element minOccurs="0" name="Tipo" type="xs:int" />
+      <xs:element minOccurs="0" name="Total" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoDatosLiquidacion" nillable="true" type="tns:ServiceDtoDatosLiquidacion" />
+</xs:schema>

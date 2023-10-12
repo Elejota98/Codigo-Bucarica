@@ -1,0 +1,47 @@
+2018/05/09 11:01:30.451 - INICIO REGISTRO
+2018/05/09 11:01:31.131 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/05/09 11:01:32.051 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/05/09 11:01:41.507 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2018/05/09 11:02:13.396 - INICIO REGISTRO
+2018/05/09 11:02:14.026 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/05/09 11:02:14.527 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/05/09 11:02:17.726 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/05/09 11:02:17.756 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2018/05/09 11:02:17.786 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2018/05/09 11:03:39.875 - INICIO REGISTRO
+2018/05/09 11:03:39.885 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/05/09 11:03:39.945 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/05/09 11:03:40.784 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/05/09 11:03:40.814 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2018/05/09 11:03:40.834 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2018/05/09 11:03:42.563 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\PLCDevice.cs:línea 173
+2018/05/09 11:33:13.143 - INICIO REGISTRO
+2018/05/09 11:33:13.168 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/05/09 11:33:13.313 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/05/09 11:33:15.093 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/05/09 11:33:15.133 - MENSAJE: (Presenter ObtenerInfoPartes) Sistema Suspendido - Info Partes Error
+2018/05/09 11:33:15.434 - MENSAJE: Error_AlistarTarjeta
+2018/05/09 11:33:16.243 - MENSAJE: Error_AlistarTarjeta
+2018/05/09 11:33:17.219 - MENSAJE: Error_AlistarTarjeta
+2018/05/09 11:33:23.389 - INICIO REGISTRO
+2018/05/09 11:33:23.599 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/05/09 11:33:24.354 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/05/09 11:33:27.044 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/05/09 11:33:27.054 - MENSAJE: (Presenter ObtenerInfoPartes) Sistema Suspendido - Info Partes Error
+2018/05/09 11:34:27.134 - INICIO REGISTRO
+2018/05/09 11:34:34.350 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/05/09 11:34:34.530 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/05/09 11:35:20.810 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/05/09 11:35:24.155 - MENSAJE: (Presenter ObtenerInfoPartes) Sistema Suspendido - Info Partes Error
+2018/05/09 11:36:24.422 - INICIO REGISTRO
+2018/05/09 11:36:24.442 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/05/09 11:36:24.562 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/05/09 11:36:31.075 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/05/09 11:36:31.105 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2018/05/09 11:36:31.135 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2018/05/09 11:36:42.511 - MENSAJE: (Presenter CapturaFoto) admin admin12345
+2018/05/09 11:36:42.511 - MENSAJE: (Presenter CapturaFoto) COMANDO http://172.16.10.30/Streaming/channels/101/picture

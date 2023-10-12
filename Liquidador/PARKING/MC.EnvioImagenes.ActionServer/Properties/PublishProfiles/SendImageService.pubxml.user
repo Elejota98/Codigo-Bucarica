@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MC.BaseService.dll">
+      <publishTime>05/05/2018 12:53:19</publishTime>
+    </File>
+    <File Include="bin/MC.BaseService.pdb">
+      <publishTime>05/05/2018 12:53:19</publishTime>
+    </File>
+    <File Include="bin/MC.BusinessService.dll">
+      <publishTime>05/05/2018 12:53:19</publishTime>
+    </File>
+    <File Include="bin/MC.BusinessService.pdb">
+      <publishTime>05/05/2018 12:53:19</publishTime>
+    </File>
+    <File Include="bin/MC.DataService.dll">
+      <publishTime>05/05/2018 12:53:20</publishTime>
+    </File>
+    <File Include="bin/MC.DataService.pdb">
+      <publishTime>05/05/2018 12:53:20</publishTime>
+    </File>
+    <File Include="bin/MC.EnvioImagenes.ActionServer.dll">
+      <publishTime>05/05/2018 12:53:20</publishTime>
+    </File>
+    <File Include="bin/MC.EnvioImagenes.ActionServer.pdb">
+      <publishTime>05/05/2018 12:53:20</publishTime>
+    </File>
+    <File Include="bin/MC.EnvioImagenesService.dll">
+      <publishTime>05/05/2018 12:53:20</publishTime>
+    </File>
+    <File Include="bin/MC.EnvioImagenesService.pdb">
+      <publishTime>05/05/2018 12:53:20</publishTime>
+    </File>
+    <File Include="bin/MC.Utilidades.dll">
+      <publishTime>05/05/2018 12:53:19</publishTime>
+    </File>
+    <File Include="bin/MC.Utilidades.pdb">
+      <publishTime>05/05/2018 12:53:19</publishTime>
+    </File>
+    <File Include="MC_EnvioImagenesService.svc">
+      <publishTime>03/10/2017 17:16:26</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/05/2018 12:53:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

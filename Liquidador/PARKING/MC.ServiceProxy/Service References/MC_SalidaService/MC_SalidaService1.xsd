@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://www.MillensCorp.com/types/" elementFormDefault="qualified" targetNamespace="http://www.MillensCorp.com/types/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?xsd=xsd3" namespace="http://www.mc.com.co/types/" />
+  <xs:complexType name="getPartesModulo_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://www.mc.com.co/types/" base="q1:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oModulo" nillable="true" type="tns:ServiceModulo" />
+          <xs:element minOccurs="0" name="oTipo" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getPartesModulo_Request" nillable="true" type="tns:getPartesModulo_Request" />
+  <xs:complexType name="ServiceModulo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Carril" type="xs:int" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Extension" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IP" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTipoModulo" type="xs:long" />
+      <xs:element minOccurs="0" name="Partes" nillable="true" type="tns:ArrayOfServiceParteModulo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceModulo" nillable="true" type="tns:ServiceModulo" />
+  <xs:complexType name="ArrayOfServiceParteModulo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ServiceParteModulo" nillable="true" type="tns:ServiceParteModulo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfServiceParteModulo" nillable="true" type="tns:ArrayOfServiceParteModulo" />
+  <xs:complexType name="ServiceParteModulo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CantidadActual" type="xs:int" />
+      <xs:element minOccurs="0" name="CantidadAlarma" type="xs:double" />
+      <xs:element minOccurs="0" name="CantidadMax" type="xs:double" />
+      <xs:element minOccurs="0" name="CantidadMin" type="xs:double" />
+      <xs:element minOccurs="0" name="Denominacion" type="xs:double" />
+      <xs:element minOccurs="0" name="DineroActual" type="xs:double" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IPDispositivo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombreParte" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Prioritario" type="xs:boolean" />
+      <xs:element minOccurs="0" name="TipoParte" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceParteModulo" nillable="true" type="tns:ServiceParteModulo" />
+  <xs:complexType name="getPartesModulo_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://www.mc.com.co/types/" base="q2:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="olstDtoParteModulo" nillable="true" type="tns:ArrayOfServiceDtoParteModulo" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getPartesModulo_Response" nillable="true" type="tns:getPartesModulo_Response" />
+  <xs:complexType name="ArrayOfServiceDtoParteModulo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ServiceDtoParteModulo" nillable="true" type="tns:ServiceDtoParteModulo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfServiceDtoParteModulo" nillable="true" type="tns:ArrayOfServiceDtoParteModulo" />
+  <xs:complexType name="ServiceDtoParteModulo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CantidadActual" type="xs:double" />
+      <xs:element minOccurs="0" name="CantidadAlarma" type="xs:double" />
+      <xs:element minOccurs="0" name="CantidadMax" type="xs:double" />
+      <xs:element minOccurs="0" name="CantidadMin" type="xs:double" />
+      <xs:element minOccurs="0" name="Denominacion" type="xs:double" />
+      <xs:element minOccurs="0" name="DineroActual" type="xs:double" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IPDispositivo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdParte" type="xs:long" />
+      <xs:element minOccurs="0" name="NombreParte" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Prioritario" type="xs:boolean" />
+      <xs:element minOccurs="0" name="TipoParte" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoParteModulo" nillable="true" type="tns:ServiceDtoParteModulo" />
+  <xs:complexType name="setRegistrarTransaccion_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q3="http://www.mc.com.co/types/" base="q3:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oTransaccion" nillable="true" type="tns:ServiceTransaccion" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="setRegistrarTransaccion_Request" nillable="true" type="tns:setRegistrarTransaccion_Request" />
+  <xs:complexType name="ServiceTransaccion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cambio" type="xs:double" />
+      <xs:element minOccurs="0" name="CarrilEntrada" type="xs:int" />
+      <xs:element minOccurs="0" name="CarrilSalida" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Convenio1" type="xs:long" />
+      <xs:element minOccurs="0" name="Convenio2" type="xs:long" />
+      <xs:element minOccurs="0" name="Convenio3" type="xs:long" />
+      <xs:element minOccurs="0" name="Cortesia" type="xs:long" />
+      <xs:element minOccurs="0" name="FechaEntrada" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaSalida" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdAutorizado" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTarjeta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTipoVehiculo" type="xs:int" />
+      <xs:element minOccurs="0" name="IdTransaccion" type="xs:long" />
+      <xs:element minOccurs="0" name="ModuloEntrada" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ModuloSalida" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlacaEntrada" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PlacaSalida" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="SincronizacionPago" type="xs:boolean" />
+      <xs:element minOccurs="0" name="SincronizacionSalida" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ValorRecibido" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceTransaccion" nillable="true" type="tns:ServiceTransaccion" />
+  <xs:complexType name="setRegistrarTransaccion_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q4="http://www.mc.com.co/types/" base="q4:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="lIdTransaccion" type="xs:long" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="setRegistrarTransaccion_Response" nillable="true" type="tns:setRegistrarTransaccion_Response" />
+  <xs:complexType name="setRegistrarAlarma_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q5="http://www.mc.com.co/types/" base="q5:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oAlarma" nillable="true" type="tns:ServiceAlarma" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="setRegistrarAlarma_Request" nillable="true" type="tns:setRegistrarAlarma_Request" />
+  <xs:complexType name="ServiceAlarma">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NivelError" type="xs:int" />
+      <xs:element minOccurs="0" name="Parte" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoError" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceAlarma" nillable="true" type="tns:ServiceAlarma" />
+  <xs:complexType name="setRegistrarAlarma_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q6="http://www.mc.com.co/types/" base="q6:ResponseBase">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="setRegistrarAlarma_Response" nillable="true" type="tns:setRegistrarAlarma_Response" />
+  <xs:complexType name="getInformacionModulo_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q7="http://www.mc.com.co/types/" base="q7:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oModulo" nillable="true" type="tns:ServiceModulo" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getInformacionModulo_Request" nillable="true" type="tns:getInformacionModulo_Request" />
+  <xs:complexType name="getInformacionModulo_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q8="http://www.mc.com.co/types/" base="q8:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oDatosModulo" nillable="true" type="tns:ServiceDtoModulo" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getInformacionModulo_Response" nillable="true" type="tns:getInformacionModulo_Response" />
+  <xs:complexType name="ServiceDtoModulo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Carril" type="xs:int" />
+      <xs:element minOccurs="0" name="Ciudad" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="EstadoEstacionamiento" type="xs:boolean" />
+      <xs:element minOccurs="0" name="EstadoSede" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Extension" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IP" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdModulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTipoModulo" type="xs:long" />
+      <xs:element minOccurs="0" name="NombreEstacionamiento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombreSede" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Partes" nillable="true" type="tns:ArrayOfServiceDtoParteModulo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoModulo" nillable="true" type="tns:ServiceDtoModulo" />
+  <xs:complexType name="getParametros_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q9="http://www.mc.com.co/types/" base="q9:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getParametros_Request" nillable="true" type="tns:getParametros_Request" />
+  <xs:complexType name="getParametros_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q10="http://www.mc.com.co/types/" base="q10:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="olstDtoParametros" nillable="true" type="tns:ArrayOfServiceDtoParametros" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getParametros_Response" nillable="true" type="tns:getParametros_Response" />
+  <xs:complexType name="ArrayOfServiceDtoParametros">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ServiceDtoParametros" nillable="true" type="tns:ServiceDtoParametros" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfServiceDtoParametros" nillable="true" type="tns:ArrayOfServiceDtoParametros" />
+  <xs:complexType name="ServiceDtoParametros">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="Valor" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoParametros" nillable="true" type="tns:ServiceDtoParametros" />
+  <xs:complexType name="getInfoAutorizado_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q11="http://www.mc.com.co/types/" base="q11:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oAutorizado" nillable="true" type="tns:ServiceAutorizado" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getInfoAutorizado_Request" nillable="true" type="tns:getInfoAutorizado_Request" />
+  <xs:complexType name="ServiceAutorizado">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Documento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DocumentoCreador" type="xs:long" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="EstadoAutorizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FechaCreacion" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaFinal" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaInicial" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdAutorizacion" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTarjeta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTipo" type="xs:int" />
+      <xs:element minOccurs="0" name="NombreAutorizacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombresAutorizado" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Placa1" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Placa2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Regla" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Sincronizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Telefono" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceAutorizado" nillable="true" type="tns:ServiceAutorizado" />
+  <xs:complexType name="getInfoAutorizado_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q12="http://www.mc.com.co/types/" base="q12:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="olstDtoAutorizado" nillable="true" type="tns:ArrayOfServiceDtoAutorizado" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getInfoAutorizado_Response" nillable="true" type="tns:getInfoAutorizado_Response" />
+  <xs:complexType name="ArrayOfServiceDtoAutorizado">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ServiceDtoAutorizado" nillable="true" type="tns:ServiceDtoAutorizado" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfServiceDtoAutorizado" nillable="true" type="tns:ArrayOfServiceDtoAutorizado" />
+  <xs:complexType name="ServiceDtoAutorizado">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Documento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DocumentoCreador" type="xs:long" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="EstadoAutorizacion" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FechaCreacion" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaFinal" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FechaInicial" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdAutorizacion" type="xs:long" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTarjeta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTipo" type="xs:int" />
+      <xs:element minOccurs="0" name="NombreAutorizacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombresAutorizado" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Placa1" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Placa2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Telefono" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoAutorizado" nillable="true" type="tns:ServiceDtoAutorizado" />
+  <xs:complexType name="setSolucionarAlarmas_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q13="http://www.mc.com.co/types/" base="q13:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oModulo" nillable="true" type="tns:ServiceModulo" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="setSolucionarAlarmas_Request" nillable="true" type="tns:setSolucionarAlarmas_Request" />
+  <xs:complexType name="setSolucionarAlarmas_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q14="http://www.mc.com.co/types/" base="q14:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="sResult" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="setSolucionarAlarmas_Response" nillable="true" type="tns:setSolucionarAlarmas_Response" />
+  <xs:complexType name="getTarjetas_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q15="http://www.mc.com.co/types/" base="q15:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oModulo" nillable="true" type="tns:ServiceModulo" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getTarjetas_Request" nillable="true" type="tns:getTarjetas_Request" />
+  <xs:complexType name="getTarjetas_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q16="http://www.mc.com.co/types/" base="q16:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="olstDtoTarjetas" nillable="true" type="tns:ArrayOfServiceDtoTarjetas" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getTarjetas_Response" nillable="true" type="tns:getTarjetas_Response" />
+  <xs:complexType name="ArrayOfServiceDtoTarjetas">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ServiceDtoTarjetas" nillable="true" type="tns:ServiceDtoTarjetas" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfServiceDtoTarjetas" nillable="true" type="tns:ArrayOfServiceDtoTarjetas" />
+  <xs:complexType name="ServiceDtoTarjetas">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTarjeta" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoTarjetas" nillable="true" type="tns:ServiceDtoTarjetas" />
+  <xs:complexType name="getInfoEvento_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q17="http://www.mc.com.co/types/" base="q17:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="IdTransaccion" type="xs:long" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getInfoEvento_Request" nillable="true" type="tns:getInfoEvento_Request" />
+  <xs:complexType name="getInfoEvento_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q18="http://www.mc.com.co/types/" base="q18:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Horas" type="xs:long" />
+          <xs:element minOccurs="0" name="IdEvento" type="xs:long" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getInfoEvento_Response" nillable="true" type="tns:getInfoEvento_Response" />
+  <xs:complexType name="getEventosDispositivo_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q19="http://www.mc.com.co/types/" base="q19:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="oIdEvento" type="xs:long" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getEventosDispositivo_Request" nillable="true" type="tns:getEventosDispositivo_Request" />
+  <xs:complexType name="getEventosDispositivo_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q20="http://www.mc.com.co/types/" base="q20:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="bRegistro" type="xs:boolean" />
+          <xs:element minOccurs="0" name="oResult" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getEventosDispositivo_Response" nillable="true" type="tns:getEventosDispositivo_Response" />
+  <xs:complexType name="getValidarSalidaAutorizado_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q21="http://www.mc.com.co/types/" base="q21:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="sIdCard" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getValidarSalidaAutorizado_Request" nillable="true" type="tns:getValidarSalidaAutorizado_Request" />
+  <xs:complexType name="getValidarSalidaAutorizado_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q22="http://www.mc.com.co/types/" base="q22:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="bAutoIngreso" type="xs:boolean" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getValidarSalidaAutorizado_Response" nillable="true" type="tns:getValidarSalidaAutorizado_Response" />
+</xs:schema>

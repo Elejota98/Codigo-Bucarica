@@ -1,0 +1,99 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.WCFProxy.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.WCFProxy.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Exception.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Global.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Utilidades.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Exception.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Global.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\bin\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\bin\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb

@@ -1,0 +1,111 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EntradaService\obj\Debug\MC.EntradaService.pdb

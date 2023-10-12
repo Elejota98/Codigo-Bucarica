@@ -1,0 +1,39 @@
+2017/03/25 06:04:17.526 - INICIO REGISTRO
+2017/03/25 06:04:17.537 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 06:04:17.628 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 06:04:19.570 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 06:04:19.697 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 06:04:19.821 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 06:04:40.632 - MENSAJE: ID Tarjeta OK
+2017/03/25 06:04:48.370 - INICIO REGISTRO
+2017/03/25 06:04:48.379 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 06:04:48.473 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 06:04:49.200 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 06:04:49.344 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 06:04:49.492 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 06:08:17.316 - MENSAJE: ID Tarjeta OK
+2017/03/25 06:08:39.835 - MENSAJE: LoadKeyCRT_ok
+2017/03/25 06:08:39.862 - MENSAJE: CheckKeyCRT_ok
+2017/03/25 06:08:39.877 - MENSAJE: Tarjeta leida Correctamente
+2017/03/25 06:09:42.824 - MENSAJE: LoadKeyCRT_ok
+2017/03/25 06:09:44.545 - MENSAJE: CheckKeyCRT_ok
+2017/03/25 06:10:40.344 - MENSAJE: WriteCard_ok
+2017/03/25 06:27:39.067 - INICIO REGISTRO
+2017/03/25 06:27:39.099 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 06:27:39.189 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 06:27:40.470 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 06:27:40.593 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 06:27:40.710 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 06:28:01.756 - INICIO REGISTRO
+2017/03/25 06:28:01.766 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/25 06:28:01.872 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/25 06:28:02.530 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/25 06:28:02.689 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/25 06:28:02.804 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/25 06:28:14.026 - MENSAJE: ID Tarjeta OK
+2017/03/25 06:28:27.250 - MENSAJE: LoadKeyCRT_ok
+2017/03/25 06:28:28.052 - MENSAJE: CheckKeyCRT_ok
+2017/03/25 06:29:02.753 - MENSAJE: Tarjeta leida Correctamente
+2017/03/25 06:31:07.467 - MENSAJE: LoadKeyCRT_ok
+2017/03/25 06:31:07.478 - MENSAJE: CheckKeyCRT_ok
+2017/03/25 06:31:07.490 - MENSAJE: WriteCard_ok

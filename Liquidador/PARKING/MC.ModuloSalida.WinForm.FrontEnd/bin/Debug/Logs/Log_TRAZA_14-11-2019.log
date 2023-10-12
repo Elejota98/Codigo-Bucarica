@@ -1,0 +1,147 @@
+2019/11/14 04:42:21.577 - INICIO REGISTRO
+2019/11/14 04:42:21.658 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/14 04:42:23.815 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/14 04:42:39.177 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/11/14 04:42:39.354 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/11/14 04:42:39.482 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/11/14 04:42:39.866 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\PLCDevice.cs:línea 173
+2019/11/14 04:42:42.418 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 04:42:42.435 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 04:42:42.879 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 04:42:42.886 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 04:42:43.674 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 04:42:43.681 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 04:43:01.593 - INICIO REGISTRO
+2019/11/14 04:43:01.660 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/14 04:43:03.279 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/14 04:43:07.218 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/11/14 04:43:08.316 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/11/14 04:43:09.180 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/11/14 04:43:11.085 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\PLCDevice.cs:línea 173
+2019/11/14 04:43:12.721 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 04:43:12.728 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 04:43:13.672 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 04:43:13.679 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 05:21:50.168 - MENSAJE: ANTES DE OBTENER EVENTO
+2019/11/14 05:21:57.572 - MENSAJE: ERROR Presenter ObtenerEvento
+2019/11/14 05:21:58.759 - MENSAJE: DESPUES DE OBTENER EVENTO
+2019/11/14 05:24:29.576 - MENSAJE: ErrorSystem.ArgumentOutOfRangeException: El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosLiquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 71
+   en MC.ModuloSalida.WinForm.Model.Model.Liquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Model\Services\Model_EnvioImagenes.cs:línea 31
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.Liquidar(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 904
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion)
+2019/11/14 05:24:29.595 - INICIO REGISTRO
+2019/11/14 05:24:29.643 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/14 05:24:31.365 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/14 05:24:32.032 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/11/14 05:24:32.121 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/11/14 05:24:32.212 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/11/14 05:24:32.409 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\PLCDevice.cs:línea 173
+2019/11/14 05:24:32.934 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 05:24:32.943 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 05:24:33.955 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 05:24:33.977 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 05:24:34.665 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 05:24:34.674 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 05:24:35.649 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 05:24:35.677 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 05:25:11.205 - MENSAJE: 1/01/0001 12:00:00 a. m.
+2019/11/14 05:32:24.099 - MENSAJE: ErrorSystem.ArgumentOutOfRangeException: El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosLiquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 71
+   en MC.ModuloSalida.WinForm.Model.Model.Liquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Model\Services\Model_EnvioImagenes.cs:línea 31
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.Liquidar(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 904
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1196
+2019/11/14 05:32:24.113 - INICIO REGISTRO
+2019/11/14 05:32:24.138 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/14 05:32:25.557 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/14 05:32:27.761 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/11/14 05:32:27.892 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/11/14 05:32:27.985 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/11/14 05:32:28.188 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\PLCDevice.cs:línea 173
+2019/11/14 05:32:29.159 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 05:32:29.183 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 05:32:29.375 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 05:32:29.383 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 05:32:30.140 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 05:32:30.145 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 05:33:54.654 - MENSAJE: ErrorSystem.ArgumentOutOfRangeException: El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index
+   en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosLiquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 71
+   en MC.ModuloSalida.WinForm.Model.Model.Liquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Model\Services\Model_EnvioImagenes.cs:línea 31
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.Liquidar(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 904
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1196
+2019/11/14 05:40:22.467 - MENSAJE: (Presenter Liquidacion) 
+2019/11/14 06:24:14.828 - MENSAJE: Error (Presenter Liquidacion): MC.Exception.ServiceException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.9331477. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.9331477. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: La solicitud HTTP a 'http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc' superó el tiempo de espera asignado de 00:00:59.9720000. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.Net.WebException: Se excedió el tiempo de espera de la operación
+   en System.Net.HttpWebRequest.GetResponse()
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en MC.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en MC.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1171
+   en MC.ServiceProxy.ProxyService.<>c__DisplayClass36.<ObtenerDatosLiquidacion>b__34(LiquidacionServiceClient client) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 39
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 53
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 60
+   en MC.ServiceProxy.ProxyService.ObtenerDatosLiquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 38
+2019/11/14 06:24:14.834 - INICIO REGISTRO
+2019/11/14 06:24:14.849 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2019/11/14 06:24:16.058 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2019/11/14 06:24:18.326 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2019/11/14 06:24:18.402 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2019/11/14 06:24:18.488 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2019/11/14 06:24:18.638 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\PLCDevice.cs:línea 173
+2019/11/14 06:24:20.325 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 06:24:20.335 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 06:24:20.862 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 06:24:20.869 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 06:24:21.850 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 06:24:21.861 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 06:24:22.844 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 06:24:22.849 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 06:24:23.847 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 06:24:23.861 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2019/11/14 06:24:24.843 - MENSAJE: Error_Conexion_Receptor
+2019/11/14 06:24:24.851 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...

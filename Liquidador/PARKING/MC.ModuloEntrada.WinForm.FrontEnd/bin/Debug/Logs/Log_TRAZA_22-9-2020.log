@@ -1,0 +1,1135 @@
+2020/09/22 10:12:32.789 - INICIO REGISTRO
+2020/09/22 10:12:32.810 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:12:33.902 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:12:38.938 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2020/09/22 10:12:43.427 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:12:47.816 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:12:51.978 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:12:56.122 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:13:00.248 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:13:04.394 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:13:08.584 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:13:12.928 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:13:17.244 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:13:21.372 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:15:34.603 - INICIO REGISTRO
+2020/09/22 10:15:34.625 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:15:34.775 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:18:59.625 - INICIO REGISTRO
+2020/09/22 10:18:59.642 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:18:59.794 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:19:06.083 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:19:06.134 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:19:06.182 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:19:11.650 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:19:11.856 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:19:12.141 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:19:12.902 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:19:13.926 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:19:14.778 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:19:15.531 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:19:16.399 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:20:07.329 - INICIO REGISTRO
+2020/09/22 10:20:07.344 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:20:07.491 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:20:09.345 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:20:09.407 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:20:09.447 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:20:21.447 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:20:23.742 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:20:32.117 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:20:34.970 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:20:49.582 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:22:52.679 - INICIO REGISTRO
+2020/09/22 10:22:52.699 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:22:52.851 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:22:55.170 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:22:55.248 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:22:55.294 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:23:20.659 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:23:22.296 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:23:23.714 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:23:33.739 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:23:34.694 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:23:35.543 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:23:58.121 - INICIO REGISTRO
+2020/09/22 10:23:58.137 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:23:58.286 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:24:00.013 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:24:00.065 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:24:00.103 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:24:03.317 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:24:03.907 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:24:04.211 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:24:04.380 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:24:05.194 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:24:06.200 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:24:14.573 - INICIO REGISTRO
+2020/09/22 10:24:14.590 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:24:14.742 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:24:16.545 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:24:16.594 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:24:16.632 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:24:25.509 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:24:26.231 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:24:27.378 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:24:30.980 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:25:05.847 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:25:38.334 - INICIO REGISTRO
+2020/09/22 10:25:38.352 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:25:38.504 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:25:40.761 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:25:40.809 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:25:40.850 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:25:45.645 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:25:45.846 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:25:46.106 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:25:46.892 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:25:46.939 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:25:53.823 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:25:54.021 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:25:54.303 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:25:54.501 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2020/09/22 10:25:54.544 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2020/09/22 10:25:54.683 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:25:54.773 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2020/09/22 10:25:54.794 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2020/09/22 10:25:55.477 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:25:55.568 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2020/09/22 10:25:55.593 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2020/09/22 10:25:56.479 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:25:56.569 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2020/09/22 10:25:56.591 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2020/09/22 10:25:57.478 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:25:57.561 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2020/09/22 10:25:57.580 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2020/09/22 10:25:58.479 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:25:58.569 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2020/09/22 10:25:58.593 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2020/09/22 10:25:59.469 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:25:59.561 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2020/09/22 10:25:59.585 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2020/09/22 10:26:00.477 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:01.492 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:02.466 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:03.476 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:04.483 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:05.479 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:06.475 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:07.470 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:08.474 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:09.475 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:10.465 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:11.478 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:12.473 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:13.466 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:14.477 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:15.474 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:16.490 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:17.469 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:18.482 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:19.496 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:20.474 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:21.482 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:22.481 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:23.477 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:24.472 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:25.477 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:26.497 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:27.473 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:28.466 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:29.469 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:30.467 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:31.476 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:32.481 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:33.481 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:34.475 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:35.467 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:36.479 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:37.475 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:38.471 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:39.479 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:40.481 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:41.479 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:42.475 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:26:42.559 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:26:43.290 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:26:43.307 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:26:43.972 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:26:44.000 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:27:28.252 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.101.50
+2020/09/22 10:31:12.543 - INICIO REGISTRO
+2020/09/22 10:31:12.561 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:31:12.732 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:31:14.453 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:31:14.500 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:31:14.540 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:31:14.758 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:31:15.009 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:31:15.267 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:31:16.053 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:31:16.103 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:31:16.764 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:31:16.926 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:31:17.208 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:31:17.361 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:18.144 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:31:18.160 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:31:18.806 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:31:18.837 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:31:18.849 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:31:18.855 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.0
+2020/09/22 10:31:18.863 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:31:20.098 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:31:20.107 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:31:20.586 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:31:20.812 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:21.666 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:22.667 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:23.661 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:24.660 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:25.656 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:26.655 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:27.682 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:28.684 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:29.681 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:30.679 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:31.654 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:32.667 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:33.677 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:34.664 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:35.677 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:31:36.655 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:34:15.166 - INICIO REGISTRO
+2020/09/22 10:34:15.182 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:34:15.335 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:34:17.070 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:34:17.119 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:34:17.160 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:34:17.354 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:34:17.911 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:34:18.185 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:34:18.291 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:34:19.224 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:34:20.230 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:34:27.816 - INICIO REGISTRO
+2020/09/22 10:34:27.832 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:34:27.982 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:34:29.873 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:34:29.920 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:34:29.958 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:34:30.175 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:34:30.752 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:34:31.035 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:34:31.898 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:34:32.883 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:35:23.669 - INICIO REGISTRO
+2020/09/22 10:35:23.686 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:35:23.840 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:35:25.562 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:35:25.609 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:35:25.650 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:35:26.998 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:35:29.005 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:36:43.844 - INICIO REGISTRO
+2020/09/22 10:36:43.862 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:36:44.019 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:36:45.749 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:36:45.798 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:36:45.838 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:36:46.074 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:36:46.659 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:36:46.950 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:36:47.070 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:36:47.908 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:37:04.762 - INICIO REGISTRO
+2020/09/22 10:37:04.779 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:37:04.945 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:37:06.714 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:37:06.762 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:37:06.804 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:37:08.078 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:37:09.028 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:37:10.642 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:37:13.512 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:37:13.553 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:37:16.701 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:37:16.869 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:37:17.181 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:17.892 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:18.903 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:19.897 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:20.909 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:21.892 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:22.918 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:23.913 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:24.907 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:25.901 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:26.899 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:27.909 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:28.902 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:29.901 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:30.911 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:37:30.990 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:37:31.745 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:37:31.761 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:37:32.407 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:37:32.438 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:37:32.454 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:37:39.590 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:37:41.358 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:37:55.332 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:38:03.422 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/22 10:43:46.791 - INICIO REGISTRO
+2020/09/22 10:43:46.807 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:43:46.961 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:43:48.745 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:43:48.799 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:43:48.841 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:43:49.075 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:43:49.294 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:43:49.557 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:43:50.328 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:43:50.369 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:43:51.039 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:43:51.586 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:43:51.892 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:43:52.173 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:43:52.920 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:43:53.926 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:43:54.931 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:43:55.925 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:43:56.930 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:43:57.926 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:43:58.931 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:43:59.020 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:43:59.796 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:43:59.812 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:44:00.470 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:44:00.491 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:44:00.509 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:44:00.510 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:44:00.521 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:44:00.535 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:44:01.764 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:44:01.773 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:44:01.780 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/22 10:44:02.254 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:44:03.180 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:44:03.908 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:44:04.916 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:44:05.910 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:44:35.321 - INICIO REGISTRO
+2020/09/22 10:44:35.337 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:44:35.500 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:44:37.630 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:44:37.677 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:44:37.716 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:44:37.944 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:44:38.523 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:44:38.886 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:44:39.386 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:44:40.378 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:44:41.387 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:44:42.382 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:44:58.003 - INICIO REGISTRO
+2020/09/22 10:44:58.020 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:44:58.168 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:45:00.306 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:45:00.353 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:45:00.392 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:45:03.939 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:45:05.389 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:46:55.504 - INICIO REGISTRO
+2020/09/22 10:46:55.528 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:46:55.687 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:46:58.068 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:46:58.117 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:46:58.156 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:46:59.465 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:47:00.652 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:47:02.488 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:47:03.733 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:47:03.773 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:47:04.441 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:47:04.965 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:47:05.221 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:47:05.645 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:47:06.655 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:47:07.659 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:47:08.655 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:47:09.665 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:47:10.661 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:47:11.650 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:47:11.724 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:12.501 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:47:12.518 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:47:13.180 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:47:13.201 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:47:13.218 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:47:13.220 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:47:13.232 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:47:13.246 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:47:14.469 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:47:14.484 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:47:14.987 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:47:15.250 - MENSAJE: (FrontEnd CapturaPlaca) Placa: ?H?200
+2020/09/22 10:47:15.764 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:16.636 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:17.635 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:18.629 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:20.051 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:47:20.452 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:47:20.660 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:47:20.745 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:21.509 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:47:21.525 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:47:22.187 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:47:22.196 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:47:22.211 - MENSAJE: (FrontEnd CapturaPlaca) ?H?200
+2020/09/22 10:47:22.214 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:47:22.221 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:47:22.232 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:47:23.449 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:47:23.458 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:47:23.952 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:47:24.147 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:24.223 - MENSAJE: (FrontEnd CapturaPlaca) Placa: ?S?001
+2020/09/22 10:47:24.650 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:25.644 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:26.637 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:27.633 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:28.642 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:29.641 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:30.649 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:31.638 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:47:32.627 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:48:01.914 - INICIO REGISTRO
+2020/09/22 10:48:01.933 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:48:02.088 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:48:03.829 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:48:03.877 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:48:03.918 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:48:07.184 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:48:08.424 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:48:10.211 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:48:11.472 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:48:11.510 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:48:12.185 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:48:12.349 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:48:12.597 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:48:12.722 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:48:13.506 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:48:13.530 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:48:14.200 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:48:14.222 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:48:14.240 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:48:14.242 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:48:14.254 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:48:14.268 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:48:15.493 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:48:15.502 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:48:15.983 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:48:16.159 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:48:16.364 - MENSAJE: (FrontEnd CapturaPlaca) Placa: A1001
+2020/09/22 10:48:17.030 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:48:18.020 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:48:19.024 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:48:20.018 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:48:41.869 - INICIO REGISTRO
+2020/09/22 10:48:41.888 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:48:42.043 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:48:43.871 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:48:43.918 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:48:43.956 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:48:47.396 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:48:48.006 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:48:48.354 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:48:48.424 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:48:48.944 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:48:49.948 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:49:04.601 - INICIO REGISTRO
+2020/09/22 10:49:04.619 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:49:04.772 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:49:07.020 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:49:07.068 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:49:07.107 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:49:08.699 - MENSAJE: System.IO.IOException: El puerto 'COM4' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Users\Administrador\Documents\CODIGO\PARKING\MC.PLCDevice\PLCDevice.cs:línea 173
+2020/09/22 10:49:33.513 - INICIO REGISTRO
+2020/09/22 10:49:33.531 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:49:33.684 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:49:35.411 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:49:35.459 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:49:35.500 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:49:43.033 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:49:44.387 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:50:13.485 - INICIO REGISTRO
+2020/09/22 10:50:13.504 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:50:13.665 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:50:15.539 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:50:15.588 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:50:15.628 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:50:20.971 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:50:22.079 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:51:03.227 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:51:04.471 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:51:04.514 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:51:05.184 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:51:05.377 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:51:05.661 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:06.610 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:07.617 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:08.621 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:09.601 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:10.608 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:11.621 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:12.610 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:13.615 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:14.610 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:15.610 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:16.637 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:17.613 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:18.610 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:51:18.690 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:51:19.459 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:51:19.475 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:51:20.138 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:51:20.169 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:51:20.186 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:51:20.188 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:51:20.197 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:51:20.209 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:51:21.434 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:51:21.444 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:51:21.924 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:51:21.955 - MENSAJE: (FrontEnd CapturaPlaca) Placa: H?200?
+2020/09/22 10:51:23.461 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:51:23.618 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:51:24.609 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:51:25.594 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:51:26.618 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:51:54.173 - INICIO REGISTRO
+2020/09/22 10:51:54.191 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:51:54.343 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:51:56.125 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:51:56.173 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:51:56.214 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:51:58.086 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:51:59.153 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:52:00.905 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:52:02.154 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:52:02.192 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:52:02.850 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:52:03.013 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:52:03.248 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:03.393 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:52:04.180 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:52:04.204 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:52:04.858 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:52:04.880 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:52:04.895 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:52:04.898 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:52:04.907 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:52:04.922 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:52:06.138 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:52:06.147 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:52:06.627 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:52:06.814 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:52:06.926 - MENSAJE: (FrontEnd CapturaPlaca) Placa: OS200?
+2020/09/22 10:52:07.293 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:52:08.295 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:52:09.293 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:52:30.137 - INICIO REGISTRO
+2020/09/22 10:52:30.154 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:52:30.305 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:52:32.447 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:52:32.494 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:52:32.533 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:52:35.928 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:52:36.121 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:52:36.390 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:52:37.600 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:52:37.647 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:52:38.293 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:52:38.456 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:52:38.705 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:38.844 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:52:39.631 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:52:39.655 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:52:40.323 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:52:40.345 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:52:40.363 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:52:40.366 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:52:40.374 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:52:40.386 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:52:41.607 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:52:41.617 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:52:42.116 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:52:42.233 - MENSAJE: (FrontEnd CapturaPlaca) Placa: ?W200?
+2020/09/22 10:52:42.717 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:52:43.244 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:52:43.366 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:44.278 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:45.281 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:46.275 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:47.267 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:48.279 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:49.271 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:50.276 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:51.269 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:52.261 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:53.267 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:54.279 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:55.281 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:56.277 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:57.276 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:58.270 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:52:59.276 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:00.265 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:01.279 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:02.272 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:03.282 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:04.280 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:05.275 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:06.268 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:07.278 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:08.272 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:09.264 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:10.273 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:11.269 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:12.277 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:13.276 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:14.268 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:15.276 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:16.269 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:17.279 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:18.273 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:19.274 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:20.272 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:21.283 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:22.509 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:23.270 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:24.278 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:25.270 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:26.266 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:27.279 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:28.271 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:29.266 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:30.282 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:31.278 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:32.271 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:53:32.354 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:53:33.134 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:53:33.150 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:53:33.816 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:53:33.825 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:53:33.837 - MENSAJE: (FrontEnd CapturaPlaca) ?W200?
+2020/09/22 10:53:33.851 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:53:33.840 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:53:33.880 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:53:35.078 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:53:35.093 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:53:35.569 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:53:35.617 - MENSAJE: (FrontEnd CapturaPlaca) Placa: W200?
+2020/09/22 10:53:36.232 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:53:36.388 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:53:37.255 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:53:38.261 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:01.983 - INICIO REGISTRO
+2020/09/22 10:54:02.000 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:54:02.153 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:54:03.949 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:54:03.997 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:54:04.036 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:54:06.545 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:54:06.780 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:54:07.059 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:54:08.290 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:54:08.329 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:54:09.002 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:54:09.176 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:54:09.436 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:10.128 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:11.111 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:12.117 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:13.121 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:13.203 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:13.985 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:54:14.002 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:54:14.647 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:54:14.669 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:54:14.684 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:54:14.688 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:54:14.698 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:54:14.723 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:54:15.924 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:54:15.934 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:54:16.412 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:54:16.603 - MENSAJE: (FrontEnd CapturaPlaca) Placa: S200?
+2020/09/22 10:54:16.941 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:17.096 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:18.104 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:32.784 - INICIO REGISTRO
+2020/09/22 10:54:32.802 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:54:32.968 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:54:35.092 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:54:35.140 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:54:35.180 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:54:37.836 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:54:38.069 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:54:38.331 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:54:39.577 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:54:39.615 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:54:40.286 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:54:40.810 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:54:40.968 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:41.332 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:41.917 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:42.912 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:43.911 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:44.917 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:45.915 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:54:45.996 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:46.763 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:54:46.780 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:54:47.427 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:54:47.450 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:54:47.468 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:54:47.472 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:54:47.479 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:54:47.491 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:54:48.725 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:54:48.735 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:54:49.216 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:54:49.342 - MENSAJE: (FrontEnd CapturaPlaca) Placa: W2001?
+2020/09/22 10:54:49.804 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:49.946 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:50.898 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:51.889 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:52.899 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:53.902 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:54.902 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:55.895 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:54:56.904 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:55:13.269 - INICIO REGISTRO
+2020/09/22 10:55:13.285 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:55:13.438 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:55:15.547 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:55:15.595 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:55:15.635 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:55:18.719 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:55:18.940 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:55:19.203 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:55:20.432 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:55:20.482 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:55:21.122 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:55:21.637 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:55:21.850 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:55:22.402 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:55:23.403 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:55:24.398 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:55:25.402 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:55:26.398 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:55:27.407 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:55:28.405 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:55:28.481 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:55:29.248 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:55:29.264 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:55:29.932 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:55:29.953 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:55:29.970 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:55:29.971 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:55:29.982 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:55:29.997 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:55:31.208 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:55:31.217 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:55:31.699 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:55:32.201 - MENSAJE: (FrontEnd CapturaPlaca) Placa: NW2001
+2020/09/22 10:55:32.460 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:55:33.388 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:55:34.389 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:55:35.387 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:55:36.396 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:55:37.389 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:55:52.202 - INICIO REGISTRO
+2020/09/22 10:55:52.219 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:55:52.374 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:55:54.507 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:55:54.555 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:55:54.596 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:55:58.516 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:55:58.723 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:55:58.984 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:56:00.229 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:56:00.266 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:56:00.921 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:56:01.083 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:56:01.353 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:01.493 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:56:02.243 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:56:02.267 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:56:02.933 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:56:02.957 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:56:02.975 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:56:02.983 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:56:02.994 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:56:03.006 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:56:04.225 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:56:04.235 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:56:04.716 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:56:04.896 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MW200?
+2020/09/22 10:56:04.925 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:56:05.315 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:56:06.314 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:56:07.329 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:56:21.346 - INICIO REGISTRO
+2020/09/22 10:56:21.365 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:56:21.519 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:56:23.251 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:56:23.298 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:56:23.338 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:56:26.058 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:56:26.265 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:56:26.549 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:56:27.783 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:56:27.821 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:56:28.493 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:56:29.028 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:56:29.171 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:29.300 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:56:30.081 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:56:30.107 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:56:30.775 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:56:30.798 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:56:30.822 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:56:30.825 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:56:30.833 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:56:30.846 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:56:32.067 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:56:32.077 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:56:32.559 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:56:32.696 - MENSAJE: (FrontEnd CapturaPlaca) Placa: CASC0A
+2020/09/22 10:56:33.251 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:56:33.382 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:56:33.538 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:34.484 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:35.480 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:36.498 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:37.475 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:38.483 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:39.499 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:40.476 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:41.489 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:42.484 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:43.480 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:44.478 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:45.491 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:46.487 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:47.477 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:48.485 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:49.482 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:50.481 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:51.480 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:52.475 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:53.483 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:54.491 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:55.496 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:56.479 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:57.468 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:58.493 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:56:59.474 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:00.489 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:01.470 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:02.479 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:03.473 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:03.565 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:57:04.352 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:57:04.368 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:57:05.048 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:57:05.058 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:57:05.070 - MENSAJE: (FrontEnd CapturaPlaca) CASC0A
+2020/09/22 10:57:05.074 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:57:05.084 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:57:05.095 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:57:06.292 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:57:06.301 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:57:06.750 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/22 10:57:06.783 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:57:07.527 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:57:08.464 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:57:09.472 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:57:10.477 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:57:37.849 - INICIO REGISTRO
+2020/09/22 10:57:37.868 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:57:38.025 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:57:39.756 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:57:39.804 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:57:39.843 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:57:44.129 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:57:44.344 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:57:44.601 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:57:45.830 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:57:45.867 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:57:46.537 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:57:46.699 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:57:46.933 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:47.231 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:47.977 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:48.973 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:49.985 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:50.984 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:51.994 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:52.974 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:53.988 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:54.984 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:55.991 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:57:56.063 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:57:56.838 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:57:56.855 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:57:57.502 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:57:57.523 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:57:57.541 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:57:57.552 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:57:57.558 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:57:57.571 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:57:58.774 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:57:58.788 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:57:59.261 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:57:59.289 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/22 10:58:00.254 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:00.974 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:01.964 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:02.961 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:03.996 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:18.110 - INICIO REGISTRO
+2020/09/22 10:58:18.127 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:58:18.282 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:58:20.050 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:58:20.098 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:58:20.137 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:58:22.505 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:58:22.703 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:58:22.980 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:58:24.195 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:58:24.235 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:58:24.903 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:58:25.437 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:58:25.587 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:58:25.852 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:58:26.247 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:58:27.244 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:58:28.235 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:58:28.331 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:29.114 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:58:29.133 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:58:29.806 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:58:29.829 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:58:29.845 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:58:29.846 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:58:29.856 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:58:29.870 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:58:31.086 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:58:31.096 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:58:31.575 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:58:31.742 - MENSAJE: (FrontEnd CapturaPlaca) Placa: S2001
+2020/09/22 10:58:31.943 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:32.238 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:33.231 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:34.238 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:35.247 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:58:36.223 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:59:07.629 - INICIO REGISTRO
+2020/09/22 10:59:07.646 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:59:07.802 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:59:09.544 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:59:09.591 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:59:09.630 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:59:14.023 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:59:14.594 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:59:14.809 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:59:14.959 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:59:15.700 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:59:16.694 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 10:59:36.093 - INICIO REGISTRO
+2020/09/22 10:59:36.113 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 10:59:36.268 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 10:59:38.064 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 10:59:38.111 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 10:59:38.150 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 10:59:41.069 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 10:59:42.209 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 10:59:44.033 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 10:59:45.282 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:59:45.322 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:59:45.992 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:59:46.512 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 10:59:46.763 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:59:47.217 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:59:48.248 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 10:59:48.331 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:59:49.106 - MENSAJE: Tarjeta_Alistada
+2020/09/22 10:59:49.123 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 10:59:49.786 - MENSAJE: Tarjeta_Borrada
+2020/09/22 10:59:49.809 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 10:59:49.828 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 10:59:49.838 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 10:59:49.841 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 10:59:49.856 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 10:59:51.076 - MENSAJE: Tarjeta_Escrita
+2020/09/22 10:59:51.086 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 10:59:51.502 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2020/09/22 10:59:51.565 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 10:59:51.886 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:59:52.224 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:59:53.213 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:59:54.212 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:59:55.207 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:59:56.199 - MENSAJE: Vehiculo En Mueble
+2020/09/22 10:59:57.223 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:12.240 - INICIO REGISTRO
+2020/09/22 11:00:12.257 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 11:00:12.410 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 11:00:14.557 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 11:00:14.605 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 11:00:14.646 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 11:00:16.907 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 11:00:17.151 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 11:00:17.413 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 11:00:18.628 - MENSAJE: Tarjeta_Alistada
+2020/09/22 11:00:18.669 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 11:00:19.336 - MENSAJE: Tarjeta_Borrada
+2020/09/22 11:00:19.864 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 11:00:20.096 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:00:20.396 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:00:21.360 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:00:22.378 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:00:22.458 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:23.206 - MENSAJE: Tarjeta_Alistada
+2020/09/22 11:00:23.223 - MENSAJE: Tarjeta Enconrada: 7145C45F
+2020/09/22 11:00:23.884 - MENSAJE: Tarjeta_Borrada
+2020/09/22 11:00:23.918 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 11:00:23.949 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 11:00:23.950 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 11:00:23.961 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 11:00:23.986 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 11:00:25.193 - MENSAJE: Tarjeta_Escrita
+2020/09/22 11:00:25.203 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 11:00:25.565 - MENSAJE: (FrontEnd CapturaPlaca) Placa: S2001
+2020/09/22 11:00:25.684 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 11:00:26.048 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:26.362 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:27.374 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:28.354 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:29.349 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:30.354 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:31.361 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:32.346 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:33.345 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:34.342 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:35.354 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:36.342 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:00:37.358 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:09:12.410 - INICIO REGISTRO
+2020/09/22 11:09:12.429 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 11:09:12.583 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 11:09:14.307 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 11:09:14.355 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 11:09:14.396 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 11:10:24.978 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 11:10:25.532 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2020/09/22 11:10:25.793 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 11:10:25.866 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 11:10:26.479 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 11:10:27.478 - MENSAJE: Error_AlistarTarjeta
+2020/09/22 11:10:35.990 - INICIO REGISTRO
+2020/09/22 11:10:36.010 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 11:10:36.179 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 11:10:52.770 - INICIO REGISTRO
+2020/09/22 11:10:52.786 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 11:10:52.939 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 11:10:55.065 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 11:10:55.113 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 11:10:55.154 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 11:10:57.005 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 11:10:58.139 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 11:10:59.674 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 11:11:01.333 - MENSAJE: Tarjeta_Alistada
+2020/09/22 11:11:01.374 - MENSAJE: Tarjeta Enconrada: 21786A4F
+2020/09/22 11:11:02.041 - MENSAJE: Tarjeta_Borrada
+2020/09/22 11:11:02.201 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 11:11:02.439 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:02.899 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:03.895 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:04.913 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:05.901 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:06.907 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:07.915 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:08.913 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:09.890 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:10.899 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:11.911 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:12.905 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:13.915 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:14.891 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:15.911 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:16.910 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:17.915 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:18.907 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:19.903 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:20.913 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:21.907 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:22.899 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:23.915 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:24.912 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:25.905 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:26.897 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:27.912 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:28.904 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:11:28.984 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:11:54.602 - MENSAJE: Tarjeta_Alistada
+2020/09/22 11:11:54.628 - MENSAJE: Tarjeta Enconrada: 21786A4F
+2020/09/22 11:12:11.377 - MENSAJE: Tarjeta_Borrada
+2020/09/22 11:12:29.325 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 11:12:29.362 - MENSAJE: (FrontEnd CapturaPlaca) 
+2020/09/22 11:12:29.363 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/22 11:12:32.221 - MENSAJE: (Presenter CapturaFoto) COMANDO http://172.16.13.131/Streaming/channels/101/picture
+2020/09/22 11:12:29.364 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 11:12:34.370 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2020/09/22 11:12:36.870 - MENSAJE: (FrontEnd CapturaPlaca) Placa: S2001
+2020/09/22 11:12:37.958 - MENSAJE: (FrontEnd Antes de escribir)
+2020/09/22 11:13:01.984 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2020/09/22 11:13:01.986 - MENSAJE: Tarjeta_Escrita
+2020/09/22 11:13:02.000 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/22 11:13:03.281 - MENSAJE: (Presenter CapturaFoto) COMANDO http://172.16.13.130/Streaming/channels/101/picture
+2020/09/22 11:13:06.350 - MENSAJE: (FrontEnd Tarjeta Escrita)
+2020/09/22 11:13:08.717 - MENSAJE: Tarjeta_Movida_FRONT_TO_RF
+2020/09/22 11:19:30.785 - INICIO REGISTRO
+2020/09/22 11:19:30.803 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/22 11:19:30.956 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/22 11:19:32.755 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/22 11:19:32.803 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/22 11:19:32.846 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/22 11:19:54.923 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2020/09/22 11:19:57.562 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 11:19:59.015 - MENSAJE: Conexion_Exitosa_Dispensador
+2020/09/22 11:20:00.674 - MENSAJE: Tarjeta_Alistada
+2020/09/22 11:20:00.715 - MENSAJE: Tarjeta Enconrada: A10DC85F
+2020/09/22 11:20:01.382 - MENSAJE: Tarjeta_Borrada
+2020/09/22 11:20:01.557 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2020/09/22 11:20:01.826 - MENSAJE: Estado_StackerNivelBajo
+2020/09/22 11:20:01.976 - MENSAJE: Vehiculo En Mueble
+2020/09/22 11:20:13.450 - MENSAJE: Tarjeta_Alistada
+2020/09/22 11:20:13.475 - MENSAJE: Tarjeta Enconrada: A10DC85F
+2020/09/22 11:20:15.153 - MENSAJE: Tarjeta_Borrada
+2020/09/22 11:30:51.234 - MENSAJE: Tarjeta_Alistada
+2020/09/22 11:30:52.040 - MENSAJE: Tarjeta Enconrada: A10DC85F
+2020/09/22 11:33:02.309 - MENSAJE: Tarjeta_Borrada
+2020/09/22 11:33:18.307 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2020/09/22 11:33:18.320 - MENSAJE: (Presenter CapturaFoto) admin PARQUEARSE123
+2020/09/22 11:33:18.337 - MENSAJE: (Presenter CapturaFoto) COMANDO http://172.16.13.131/Streaming/channels/101/picture
+2020/09/22 11:33:18.335 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 147.120.15.15
+2020/09/22 11:33:18.334 - MENSAJE: (FrontEnd CapturaPlaca) 

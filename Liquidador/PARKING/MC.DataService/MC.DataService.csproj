@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AD90C6CC-8275-4185-BD6E-0398657AD2CB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MC.DataService</RootNamespace>
+    <AssemblyName>MC.DataService</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\DataService.cs" />
+    <Compile Include="Base\IDataService.cs" />
+    <Compile Include="DataSetEnvioImagenes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetEnvioImagenes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetLiquidacion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetLiquidacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetSincronizacion.cs">
+      <DependentUpon>DataSetSincronizacion.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSetSincronizacion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetSincronizacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetTransacciones.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTransacciones.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Liquidacion\DataService.cs" />
+    <Compile Include="Liquidacion\IDataService.cs" />
+    <Compile Include="Sincronizacion\DataService.cs" />
+    <Compile Include="Sincronizacion\IDataService.cs" />
+    <Compile Include="Transacciones\DataService.cs" />
+    <Compile Include="Transacciones\IDataService.cs" />
+    <Compile Include="EnvioImagenes\DataService.cs" />
+    <Compile Include="EnvioImagenes\IDataService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSetEnvioImagenes.xsc">
+      <DependentUpon>DataSetEnvioImagenes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetEnvioImagenes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetEnvioImagenes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetEnvioImagenes.xss">
+      <DependentUpon>DataSetEnvioImagenes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLiquidacion.xsc">
+      <DependentUpon>DataSetLiquidacion.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetLiquidacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetLiquidacion.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetLiquidacion.xss">
+      <DependentUpon>DataSetLiquidacion.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSincronizacion.xsc">
+      <DependentUpon>DataSetSincronizacion.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetSincronizacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetSincronizacion.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetSincronizacion.xss">
+      <DependentUpon>DataSetSincronizacion.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTransacciones.xsc">
+      <DependentUpon>DataSetTransacciones.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTransacciones.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTransacciones.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetTransacciones.xss">
+      <DependentUpon>DataSetTransacciones.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\MC.BusinessService\MC.BusinessService.csproj">
+      <Project>{1c74bff2-1a08-4f8a-ae7c-2959e6a56b06}</Project>
+      <Name>MC.BusinessService</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

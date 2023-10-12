@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0230A750-AE91-4353-8E8F-AB71AD0CE2D5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MC.ModuloSalida.WinForm.Presenter</RootNamespace>
+    <AssemblyName>MC.ModuloSalida.WinForm.Presenter</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EGlobalT.Device.SmartCard, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MC.Library\EGlobalT.Device.SmartCard.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\Presenter.cs" />
+    <Compile Include="frmPrincipal_Presenter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MC.BusinessObjects\MC.BusinessObjects.csproj">
+      <Project>{5104b5cb-e665-4851-89a7-6e3ccd8b399b}</Project>
+      <Name>MC.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.CRT603Device\MC.CRT603Device.csproj">
+      <Project>{ad7011f1-de65-4b9e-9716-c277fdabc969}</Project>
+      <Name>MC.CRT603Device</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.KytsDevice\MC.KytsDevice.csproj">
+      <Project>{d7e3c6f6-1b39-424c-87f9-a5d706a96ee7}</Project>
+      <Name>MC.KytsDevice</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.ModuloSalida.WinForm.Model\MC.ModuloSalida.WinForm.Model.csproj">
+      <Project>{36f66278-0f52-4bff-ae20-945131c3f3b0}</Project>
+      <Name>MC.ModuloSalida.WinForm.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.ModuloSalida.WinForm.View\MC.ModuloSalida.WinForm.View.csproj">
+      <Project>{0c7eb9f4-6fab-4a3f-bc9f-2b7b8cad8999}</Project>
+      <Name>MC.ModuloSalida.WinForm.View</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.PLCDevice\MC.PLCDevice.csproj">
+      <Project>{de9c5c84-4b00-4fba-9831-54a23db0651f}</Project>
+      <Name>MC.PLCDevice</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MC.Utilidades\MC.Utilidades.csproj">
+      <Project>{92337c15-a11e-4456-a77e-0b29bb31ead4}</Project>
+      <Name>MC.Utilidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

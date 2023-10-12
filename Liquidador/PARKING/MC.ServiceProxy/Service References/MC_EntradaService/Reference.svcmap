@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ae282fd6-253b-473f-a254-4d04e69db3a2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:83/MC_Block_Pass/MC_EntradaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="EntradaService.wsdl" MetadataType="Wsdl" ID="d7d5d98e-e023-422b-b8a6-493206b8fccf" SourceId="1" SourceUrl="http://localhost:83/MC_Block_Pass/MC_EntradaService.svc?wsdl" />
+    <MetadataFile FileName="MC_EntradaService.disco" MetadataType="Disco" ID="168a9ad6-6467-457e-a5c4-6f43beee1bce" SourceId="1" SourceUrl="http://localhost:83/MC_Block_Pass/MC_EntradaService.svc?disco" />
+    <MetadataFile FileName="MC_EntradaService.xsd" MetadataType="Schema" ID="238c1ba9-3b90-405e-9da5-da73873a351f" SourceId="1" SourceUrl="http://localhost:83/MC_Block_Pass/MC_EntradaService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MC_EntradaService1.xsd" MetadataType="Schema" ID="c61f412d-e54c-4f51-9537-714e5dbec998" SourceId="1" SourceUrl="http://localhost:83/MC_Block_Pass/MC_EntradaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MC_EntradaService2.xsd" MetadataType="Schema" ID="7dbb7a2a-cf27-4a72-abc9-66d7449f6163" SourceId="1" SourceUrl="http://localhost:83/MC_Block_Pass/MC_EntradaService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MC_EntradaService3.xsd" MetadataType="Schema" ID="19065c6b-f756-4499-a0e6-b908a5befcc3" SourceId="1" SourceUrl="http://localhost:83/MC_Block_Pass/MC_EntradaService.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

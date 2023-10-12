@@ -1,0 +1,85 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MC.BusinessObjects.DataTransferObject
+{
+    public class DtoLiquidacion
+    {
+        private long _IdTarifa;
+        private long _IdEstacionamiento;
+        private string _Estacionamiento;
+        private long _IdTipoPago;
+        private string _TipoPago;
+        private long _IdTipoVehiculo;
+        private string _TipoVehiculo;
+        private double _Valor;
+        private string _TipoCobro;
+        private bool _Estado;
+
+
+        public long IdTarifa
+        {
+            get { return _IdTarifa; }
+            set { _IdTarifa = value; }
+        }
+
+        public long IdEstacionamiento
+        {
+            get { return _IdEstacionamiento; }
+            set { _IdEstacionamiento = value; }
+        }
+
+        public string Estacionamiento
+        {
+            get { return _Estacionamiento; }
+            set { _Estacionamiento = value; }
+        }
+
+        public long IdTipoPago
+        {
+            get { return _IdTipoPago; }
+            set { _IdTipoPago = value; }
+        }
+
+        public string TipoPago
+        {
+            get { return _TipoPago; }
+            set { _TipoPago = value; }
+        }
+
+        public long IdTipoVehiculo
+        {
+            get { return _IdTipoVehiculo; }
+            set { _IdTipoVehiculo = value; }
+        }
+
+        public string TipoVehiculo
+        {
+            get { return _TipoVehiculo; }
+            set { _TipoVehiculo = value; }
+        }
+
+        public double Valor
+        {
+            get { return _Valor; }
+            set { _Valor = value; }
+        }
+
+        public string TipoCobro
+        {
+            get { return _TipoCobro; }
+            set { _TipoCobro = value; }
+        }
+
+        public bool Estado
+        {
+            get { return _Estado; }
+            set { _Estado = value; }
+        }
+
+
+    }
+}

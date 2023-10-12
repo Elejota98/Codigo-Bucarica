@@ -1,0 +1,91 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb

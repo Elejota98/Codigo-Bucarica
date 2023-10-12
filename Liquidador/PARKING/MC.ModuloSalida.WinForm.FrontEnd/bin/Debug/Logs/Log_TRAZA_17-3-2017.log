@@ -1,0 +1,42 @@
+2017/03/17 05:54:31.873 - INICIO REGISTRO
+2017/03/17 05:54:31.886 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/17 05:54:31.970 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/17 05:56:19.147 - INICIO REGISTRO
+2017/03/17 05:56:19.158 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/17 05:56:19.245 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/17 05:56:25.037 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2017/03/17 05:58:07.252 - INICIO REGISTRO
+2017/03/17 05:58:07.262 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/17 05:58:07.353 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/17 05:58:17.597 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/17 05:58:21.392 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/17 05:58:21.824 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/17 05:58:22.305 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\PLCDevice.cs:línea 173
+2017/03/17 05:58:22.436 - MENSAJE: TestReceptor_ERROR
+2017/03/17 05:58:23.289 - MENSAJE: TestReceptor_ERROR
+2017/03/17 05:58:24.284 - MENSAJE: TestReceptor_ERROR
+2017/03/17 05:58:25.265 - MENSAJE: TestReceptor_ERROR
+2017/03/17 05:58:26.282 - MENSAJE: TestReceptor_ERROR
+2017/03/17 05:58:27.284 - MENSAJE: TestReceptor_ERROR
+2017/03/17 05:58:28.284 - MENSAJE: TestReceptor_ERROR
+2017/03/17 06:03:00.677 - INICIO REGISTRO
+2017/03/17 06:03:00.687 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/17 06:03:00.770 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/17 06:03:05.587 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/17 06:03:07.417 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/17 06:03:07.685 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/17 08:01:41.138 - INICIO REGISTRO
+2017/03/17 08:01:41.148 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/17 08:01:41.251 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/17 08:01:48.273 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/17 08:01:50.910 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/17 08:01:53.220 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/17 08:02:02.280 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\PLCDevice.cs:línea 173

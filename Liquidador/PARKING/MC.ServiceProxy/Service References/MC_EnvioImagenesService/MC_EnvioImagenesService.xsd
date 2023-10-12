@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:84/MC_Block_Pass/MC_EnvioImagenesService.svc?xsd=xsd4" namespace="http://www.MillensCorp.com/types/" />
+  <xs:element name="setAlmacenaImagenesServidor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q1:setAlmacenaImagenesServidor_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setAlmacenaImagenesServidorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://www.MillensCorp.com/types/" minOccurs="0" name="setAlmacenaImagenesServidorResult" nillable="true" type="q2:setAlmacenaImagenesServidor_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setAlmacenaImagenesServidorCloud">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q3:setAlmacenaImagenesServidorCloud_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setAlmacenaImagenesServidorCloudResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://www.MillensCorp.com/types/" minOccurs="0" name="setAlmacenaImagenesServidorCloudResult" nillable="true" type="q4:setAlmacenaImagenesServidorCloud_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

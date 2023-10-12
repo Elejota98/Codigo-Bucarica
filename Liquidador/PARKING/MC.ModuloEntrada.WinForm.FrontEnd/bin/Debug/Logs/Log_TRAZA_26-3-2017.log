@@ -1,0 +1,32 @@
+2017/03/26 11:25:58.202 - INICIO REGISTRO
+2017/03/26 11:25:58.239 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/26 11:25:58.546 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/26 11:26:01.129 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/26 11:26:01.288 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/26 11:26:01.449 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/26 11:26:20.747 - MENSAJE: ID Tarjeta OK
+2017/03/26 11:26:53.967 - MENSAJE: LoadKeyCRT_ok
+2017/03/26 11:26:54.955 - MENSAJE: CheckKeyCRT_ok
+2017/03/26 11:33:38.449 - INICIO REGISTRO
+2017/03/26 11:33:38.461 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/26 11:33:38.547 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/26 11:33:40.303 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/26 11:33:40.485 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/26 11:33:40.677 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/26 11:34:07.437 - MENSAJE: ID Tarjeta OK
+2017/03/26 11:34:11.295 - MENSAJE: Error_MoverTarjeta_FRONT_TO_RF
+2017/03/26 11:34:25.915 - MENSAJE: LoadKeyCRT_ok
+2017/03/26 11:34:27.180 - MENSAJE: CheckKeyCRT_ok
+2017/03/26 11:37:34.704 - INICIO REGISTRO
+2017/03/26 11:37:34.715 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/26 11:37:34.818 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/03/26 11:37:35.770 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/03/26 11:37:35.897 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/03/26 11:37:36.019 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/03/26 11:37:51.988 - MENSAJE: ID Tarjeta OK
+2017/03/26 11:38:12.714 - MENSAJE: LoadKeyCRT_ok
+2017/03/26 11:38:12.743 - MENSAJE: CheckKeyCRT_ok
+2017/03/26 11:38:14.746 - MENSAJE: Tarjeta leida Correctamente
+2017/03/26 12:17:55.521 - INICIO REGISTRO
+2017/03/26 12:17:55.532 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/03/26 12:17:55.621 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK

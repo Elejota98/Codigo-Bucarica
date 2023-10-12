@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SincronizacionService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:86/MC_Block_Pass/MC_SincronizacionService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:86/MC_Block_Pass/MC_SincronizacionService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:86/MC_Block_Pass/MC_SincronizacionService.svc?xsd=xsd2" namespace="http://www.MillensCorp.com/types/" />
+      <xsd:import schemaLocation="http://localhost:86/MC_Block_Pass/MC_SincronizacionService.svc?xsd=xsd3" namespace="http://www.mc.com.co/types/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ISincronizacionService_getDatosSincronizacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosSincronizacion" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosSincronizacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosSincronizacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosSincronizacionPago_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosSincronizacionPago" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosSincronizacionPago_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosSincronizacionPagoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosSincronizacionSalida_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosSincronizacionSalida" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosSincronizacionSalida_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosSincronizacionSalidaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosPago_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosPago" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosPago_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosPagoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosMovimientos_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosMovimientos" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosMovimientos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosMovimientosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosArqueos_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosArqueos" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosArqueos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosArqueosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosAutorizaciones_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosAutorizaciones" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosAutorizaciones_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosAutorizacionesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosPersonasAutorizadas_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosPersonasAutorizadas" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosPersonasAutorizadas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosPersonasAutorizadasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosConsignacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosConsignacion" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosConsignacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosConsignacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosFacturasManuales_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosFacturasManuales" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosFacturasManuales_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosFacturasManualesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getValidacionRed_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidacionRed" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getValidacionRed_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidacionRedResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosCortesias_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosCortesias" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosCortesias_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosCortesiasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosConvenios_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosConvenios" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosConvenios_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosConveniosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosTalanqueras_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosTalanqueras" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosTalanqueras_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosTalanquerasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosUsuarios_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosUsuarios" />
+  </wsdl:message>
+  <wsdl:message name="ISincronizacionService_getDatosUsuarios_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosUsuariosResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ISincronizacionService">
+    <wsdl:operation name="getDatosSincronizacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosSincronizacion" message="tns:ISincronizacionService_getDatosSincronizacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosSincronizacionResponse" message="tns:ISincronizacionService_getDatosSincronizacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosSincronizacionPago">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosSincronizacionPago" message="tns:ISincronizacionService_getDatosSincronizacionPago_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosSincronizacionPagoResponse" message="tns:ISincronizacionService_getDatosSincronizacionPago_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosSincronizacionSalida">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosSincronizacionSalida" message="tns:ISincronizacionService_getDatosSincronizacionSalida_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosSincronizacionSalidaResponse" message="tns:ISincronizacionService_getDatosSincronizacionSalida_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosPago">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosPago" message="tns:ISincronizacionService_getDatosPago_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosPagoResponse" message="tns:ISincronizacionService_getDatosPago_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosMovimientos">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosMovimientos" message="tns:ISincronizacionService_getDatosMovimientos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosMovimientosResponse" message="tns:ISincronizacionService_getDatosMovimientos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosArqueos">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosArqueos" message="tns:ISincronizacionService_getDatosArqueos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosArqueosResponse" message="tns:ISincronizacionService_getDatosArqueos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosAutorizaciones">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosAutorizaciones" message="tns:ISincronizacionService_getDatosAutorizaciones_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosAutorizacionesResponse" message="tns:ISincronizacionService_getDatosAutorizaciones_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosPersonasAutorizadas">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosPersonasAutorizadas" message="tns:ISincronizacionService_getDatosPersonasAutorizadas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosPersonasAutorizadasResponse" message="tns:ISincronizacionService_getDatosPersonasAutorizadas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosConsignacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosConsignacion" message="tns:ISincronizacionService_getDatosConsignacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosConsignacionResponse" message="tns:ISincronizacionService_getDatosConsignacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosFacturasManuales">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosFacturasManuales" message="tns:ISincronizacionService_getDatosFacturasManuales_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosFacturasManualesResponse" message="tns:ISincronizacionService_getDatosFacturasManuales_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidacionRed">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getValidacionRed" message="tns:ISincronizacionService_getValidacionRed_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getValidacionRedResponse" message="tns:ISincronizacionService_getValidacionRed_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosCortesias">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosCortesias" message="tns:ISincronizacionService_getDatosCortesias_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosCortesiasResponse" message="tns:ISincronizacionService_getDatosCortesias_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosConvenios">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosConvenios" message="tns:ISincronizacionService_getDatosConvenios_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosConveniosResponse" message="tns:ISincronizacionService_getDatosConvenios_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosTalanqueras">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosTalanqueras" message="tns:ISincronizacionService_getDatosTalanqueras_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosTalanquerasResponse" message="tns:ISincronizacionService_getDatosTalanqueras_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosUsuarios">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosUsuarios" message="tns:ISincronizacionService_getDatosUsuarios_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISincronizacionService/getDatosUsuariosResponse" message="tns:ISincronizacionService_getDatosUsuarios_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="basicHttpBinding_SincronizacionService" type="tns:ISincronizacionService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getDatosSincronizacion">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosSincronizacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosSincronizacionPago">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosSincronizacionPago" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosSincronizacionSalida">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosSincronizacionSalida" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosPago">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosPago" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosMovimientos">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosMovimientos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosArqueos">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosArqueos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosAutorizaciones">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosAutorizaciones" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosPersonasAutorizadas">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosPersonasAutorizadas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosConsignacion">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosConsignacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosFacturasManuales">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosFacturasManuales" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidacionRed">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getValidacionRed" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosCortesias">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosCortesias" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosConvenios">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosConvenios" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosTalanqueras">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosTalanqueras" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosUsuarios">
+      <soap:operation soapAction="http://tempuri.org/ISincronizacionService/getDatosUsuarios" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SincronizacionService">
+    <wsdl:port name="basicHttpBinding_SincronizacionService" binding="tns:basicHttpBinding_SincronizacionService">
+      <soap:address location="http://localhost:86/MC_Block_Pass/MC_SincronizacionService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

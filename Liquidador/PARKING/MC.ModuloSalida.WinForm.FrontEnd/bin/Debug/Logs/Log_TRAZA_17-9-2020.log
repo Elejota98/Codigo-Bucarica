@@ -1,0 +1,39 @@
+2020/09/17 03:08:12.632 - INICIO REGISTRO
+2020/09/17 03:08:12.647 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/17 03:08:14.134 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/17 03:11:32.107 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2020/09/17 03:12:32.768 - INICIO REGISTRO
+2020/09/17 03:12:32.785 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/17 03:12:34.106 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/17 03:15:21.208 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2020/09/17 03:17:22.943 - INICIO REGISTRO
+2020/09/17 03:17:22.960 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/17 03:17:24.296 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/17 03:19:13.068 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2020/09/17 03:24:52.144 - INICIO REGISTRO
+2020/09/17 03:24:52.158 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/17 03:24:53.425 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/17 03:28:57.325 - INICIO REGISTRO
+2020/09/17 03:28:57.338 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2020/09/17 03:28:58.660 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2020/09/17 03:30:32.146 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2020/09/17 03:30:32.217 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2020/09/17 03:30:32.276 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2020/09/17 03:30:32.753 - MENSAJE: System.IO.IOException: Uno de los dispositivos conectados al sistema no funciona.
+
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.InternalResources.WinIOError()
+   en System.IO.Ports.SerialStream.InitializeDCB(Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Boolean discardNull)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Users\Administrador\Documents\CODIGO\PARKING\MC.PLCDevice\PLCDevice.cs:línea 173
+2020/09/17 03:30:33.349 - MENSAJE: Conexion_Exitosa_Receptor
+2020/09/17 03:30:33.759 - MENSAJE: Error Conexion PLC
+2020/09/17 03:30:34.036 - MENSAJE: Conexion_Exitosa_Receptor
+2020/09/17 03:30:34.355 - MENSAJE: Error Conexion PLC
+2020/09/17 03:30:34.563 - MENSAJE: Conexion_Exitosa_Receptor
+2020/09/17 03:30:34.882 - MENSAJE: Error Conexion PLC
+2020/09/17 03:30:35.554 - MENSAJE: Conexion_Exitosa_Receptor
+2020/09/17 03:30:35.873 - MENSAJE: Error Conexion PLC
+2020/09/17 03:30:36.544 - MENSAJE: Conexion_Exitosa_Receptor
+2020/09/17 03:30:36.856 - MENSAJE: Error Conexion PLC

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SalidaService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?xsd=xsd2" namespace="http://www.MillensCorp.com/types/" />
+      <xsd:import schemaLocation="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc?xsd=xsd3" namespace="http://www.mc.com.co/types/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ISalidaService_getPartesModulo_InputMessage">
+    <wsdl:part name="parameters" element="tns:getPartesModulo" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getPartesModulo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getPartesModuloResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_setRegistrarTransaccion_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarTransaccion" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_setRegistrarTransaccion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarTransaccionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_setRegistrarAlarma_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarAlarma" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_setRegistrarAlarma_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarAlarmaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getInformacionModulo_InputMessage">
+    <wsdl:part name="parameters" element="tns:getInformacionModulo" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getInformacionModulo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getInformacionModuloResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getParametros_InputMessage">
+    <wsdl:part name="parameters" element="tns:getParametros" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getParametros_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getParametrosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getInfoAutorizado_InputMessage">
+    <wsdl:part name="parameters" element="tns:getInfoAutorizado" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getInfoAutorizado_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getInfoAutorizadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_setSolucionarAlarmas_InputMessage">
+    <wsdl:part name="parameters" element="tns:setSolucionarAlarmas" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_setSolucionarAlarmas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setSolucionarAlarmasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getTarjetas_InputMessage">
+    <wsdl:part name="parameters" element="tns:getTarjetas" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getTarjetas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getTarjetasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getInfoEvento_InputMessage">
+    <wsdl:part name="parameters" element="tns:getInfoEvento" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getInfoEvento_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getInfoEventoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getEventosDispositivo_InputMessage">
+    <wsdl:part name="parameters" element="tns:getEventosDispositivo" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getEventosDispositivo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getEventosDispositivoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_SetActualizarEventoDispositivo_InputMessage">
+    <wsdl:part name="parameters" element="tns:SetActualizarEventoDispositivo" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_SetActualizarEventoDispositivo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SetActualizarEventoDispositivoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getValidarSalidaAutorizado_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarSalidaAutorizado" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getValidarSalidaAutorizado_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarSalidaAutorizadoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ISalidaService">
+    <wsdl:operation name="getPartesModulo">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getPartesModulo" message="tns:ISalidaService_getPartesModulo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getPartesModuloResponse" message="tns:ISalidaService_getPartesModulo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarTransaccion">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/setRegistrarTransaccion" message="tns:ISalidaService_setRegistrarTransaccion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/setRegistrarTransaccionResponse" message="tns:ISalidaService_setRegistrarTransaccion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarAlarma">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/setRegistrarAlarma" message="tns:ISalidaService_setRegistrarAlarma_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/setRegistrarAlarmaResponse" message="tns:ISalidaService_setRegistrarAlarma_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getInformacionModulo">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getInformacionModulo" message="tns:ISalidaService_getInformacionModulo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getInformacionModuloResponse" message="tns:ISalidaService_getInformacionModulo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getParametros">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getParametros" message="tns:ISalidaService_getParametros_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getParametrosResponse" message="tns:ISalidaService_getParametros_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getInfoAutorizado">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getInfoAutorizado" message="tns:ISalidaService_getInfoAutorizado_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getInfoAutorizadoResponse" message="tns:ISalidaService_getInfoAutorizado_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setSolucionarAlarmas">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/setSolucionarAlarmas" message="tns:ISalidaService_setSolucionarAlarmas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/setSolucionarAlarmasResponse" message="tns:ISalidaService_setSolucionarAlarmas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getTarjetas">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getTarjetas" message="tns:ISalidaService_getTarjetas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getTarjetasResponse" message="tns:ISalidaService_getTarjetas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getInfoEvento">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getInfoEvento" message="tns:ISalidaService_getInfoEvento_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getInfoEventoResponse" message="tns:ISalidaService_getInfoEvento_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getEventosDispositivo">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getEventosDispositivo" message="tns:ISalidaService_getEventosDispositivo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getEventosDispositivoResponse" message="tns:ISalidaService_getEventosDispositivo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SetActualizarEventoDispositivo">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/SetActualizarEventoDispositivo" message="tns:ISalidaService_SetActualizarEventoDispositivo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/SetActualizarEventoDispositivoResponse" message="tns:ISalidaService_SetActualizarEventoDispositivo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidarSalidaAutorizado">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getValidarSalidaAutorizado" message="tns:ISalidaService_getValidarSalidaAutorizado_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getValidarSalidaAutorizadoResponse" message="tns:ISalidaService_getValidarSalidaAutorizado_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="basicHttpBinding_SalidaService" type="tns:ISalidaService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getPartesModulo">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getPartesModulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarTransaccion">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/setRegistrarTransaccion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarAlarma">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/setRegistrarAlarma" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getInformacionModulo">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getInformacionModulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getParametros">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getParametros" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getInfoAutorizado">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getInfoAutorizado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setSolucionarAlarmas">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/setSolucionarAlarmas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTarjetas">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getTarjetas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getInfoEvento">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getInfoEvento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getEventosDispositivo">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getEventosDispositivo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetActualizarEventoDispositivo">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/SetActualizarEventoDispositivo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidarSalidaAutorizado">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getValidarSalidaAutorizado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SalidaService">
+    <wsdl:port name="basicHttpBinding_SalidaService" binding="tns:basicHttpBinding_SalidaService">
+      <soap:address location="http://localhost:85/MC_Block_Pass/MC_SalidaService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

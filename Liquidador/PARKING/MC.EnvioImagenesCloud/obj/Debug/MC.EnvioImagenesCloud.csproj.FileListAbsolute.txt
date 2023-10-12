@@ -1,0 +1,66 @@
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.Properties.Resources.resources
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.csproj.GenerateResource.Cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.EnvioImagenesCloud.exe.config
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.EnvioImagenesCloud.exe
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.EnvioImagenesCloud.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\bin\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.exe
+C:\Proyectos\MC\Desarrollo MillensPark\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.EnvioImagenesCloud.exe.config
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.EnvioImagenesCloud.exe
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.EnvioImagenesCloud.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.Properties.Resources.resources
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.csproj.GenerateResource.Cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.exe
+C:\Proyectos\Desarrollo_ParkingColombia\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.EnvioImagenesCloud.exe.config
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.EnvioImagenesCloud.exe
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.EnvioImagenesCloud.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.Properties.Resources.resources
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.csproj.GenerateResource.Cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.exe
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.EnvioImagenesCloud\obj\Debug\MC.EnvioImagenesCloud.pdb

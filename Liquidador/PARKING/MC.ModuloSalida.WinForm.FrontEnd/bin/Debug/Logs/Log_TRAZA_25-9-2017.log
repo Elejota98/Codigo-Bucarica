@@ -1,0 +1,60 @@
+2017/09/25 10:53:38.784 - MENSAJE: Error (Presenter Liquidacion): 
+2017/09/25 10:53:38.785 - INICIO REGISTRO
+2017/09/25 10:53:39.070 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/09/25 10:53:43.310 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/09/25 11:02:22.728 - MENSAJE: Error (Presenter Liquidacion): 
+2017/09/25 11:02:22.729 - INICIO REGISTRO
+2017/09/25 11:02:23.053 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/09/25 11:04:42.375 - MENSAJE: Error (Presenter Liquidacion): 
+2017/09/25 11:04:42.376 - INICIO REGISTRO
+2017/09/25 11:04:42.589 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/09/25 04:22:30.338 - MENSAJE: Error (Presenter Liquidacion): 
+2017/09/25 04:22:30.339 - INICIO REGISTRO
+2017/09/25 04:22:30.345 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/09/25 04:22:30.412 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/09/25 04:22:31.680 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/09/25 04:22:31.747 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/09/25 04:22:32.404 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/09/25 04:22:32.826 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\PLCDevice.cs:línea 173
+2017/09/25 04:22:33.396 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:22:33.397 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:22:33.785 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:22:33.786 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:22:34.344 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:22:34.344 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:22:35.345 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:22:35.346 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:22:36.347 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:22:36.348 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:26:32.981 - MENSAJE: Error (Presenter Liquidacion): 
+2017/09/25 04:26:32.983 - INICIO REGISTRO
+2017/09/25 04:26:33.300 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2017/09/25 04:26:43.317 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2017/09/25 04:26:56.906 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2017/09/25 04:26:56.935 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2017/09/25 04:26:58.651 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2017/09/25 04:27:00.222 - MENSAJE: System.IO.IOException: El puerto 'COM1' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en MC.PLCDevice.PLCDeviceClass.Conectar(String sPuertoPLC) en c:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\PLCDevice.cs:línea 173
+2017/09/25 04:27:10.415 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:27:10.416 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:27:11.457 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:27:11.458 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:27:12.771 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:27:12.772 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:27:13.524 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:27:13.525 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:27:14.575 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:27:14.575 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:27:15.303 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:27:15.305 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:27:16.300 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:27:16.301 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2017/09/25 04:27:17.301 - MENSAJE: Error_Conexion_Receptor
+2017/09/25 04:27:17.303 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...

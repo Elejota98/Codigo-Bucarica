@@ -1,0 +1,163 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Administrador\Documents\CODIGO\PARKING\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Administrador\Documents\BackupEntrada\CODIGO\DesarrolloParking\PARKING\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Administrador\Pictures\Centro37-Karolnew\Codigo\PARKING\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb

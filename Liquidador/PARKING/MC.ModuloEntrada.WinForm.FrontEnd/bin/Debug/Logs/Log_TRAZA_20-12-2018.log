@@ -1,0 +1,53 @@
+2018/12/20 08:18:01.157 - INICIO REGISTRO
+2018/12/20 08:18:01.186 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:18:01.386 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:18:09.145 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2018/12/20 08:18:09.947 - MENSAJE: Error_AlistarTarjeta
+2018/12/20 08:18:10.447 - MENSAJE: Error_AlistarTarjeta
+2018/12/20 08:18:11.228 - MENSAJE: Error_AlistarTarjeta
+2018/12/20 08:18:12.211 - MENSAJE: Error_AlistarTarjeta
+2018/12/20 08:18:13.218 - MENSAJE: Error_AlistarTarjeta
+2018/12/20 08:18:14.226 - MENSAJE: Error_AlistarTarjeta
+2018/12/20 08:18:40.456 - INICIO REGISTRO
+2018/12/20 08:18:42.523 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:18:43.750 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:18:49.271 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2018/12/20 08:18:56.092 - INICIO REGISTRO
+2018/12/20 08:18:57.246 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:18:58.367 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:19:05.982 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2018/12/20 08:19:22.398 - INICIO REGISTRO
+2018/12/20 08:19:23.646 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:19:24.513 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:19:28.385 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2018/12/20 08:19:50.156 - INICIO REGISTRO
+2018/12/20 08:19:51.168 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:19:51.881 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:20:17.706 - INICIO REGISTRO
+2018/12/20 08:20:19.846 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:20:20.666 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:20:25.661 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/12/20 08:20:25.739 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2018/12/20 08:20:25.803 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2018/12/20 08:21:36.410 - INICIO REGISTRO
+2018/12/20 08:21:38.198 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:21:39.223 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:21:43.154 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/12/20 08:21:43.199 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2018/12/20 08:21:43.254 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2018/12/20 08:29:58.030 - INICIO REGISTRO
+2018/12/20 08:30:02.056 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:30:02.314 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:30:03.754 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/12/20 08:30:03.792 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2018/12/20 08:30:03.825 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2018/12/20 08:36:35.330 - INICIO REGISTRO
+2018/12/20 08:36:39.325 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2018/12/20 08:36:39.491 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2018/12/20 08:36:40.964 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2018/12/20 08:36:41.024 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2018/12/20 08:36:41.082 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2018/12/20 08:36:48.984 - MENSAJE: (Presenter CapturaFoto) admin admin12345
+2018/12/20 08:36:49.209 - MENSAJE: (Presenter CapturaFoto) COMANDO http://172.16.10.30/Streaming/channels/101/picture
+2018/12/20 08:37:03.029 - MENSAJE: (Presenter CapturaFoto) admin admin12345
+2018/12/20 08:37:03.049 - MENSAJE: (Presenter CapturaFoto) COMANDO http://172.16.10.21/Streaming/channels/101/picture

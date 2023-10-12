@@ -1,0 +1,29 @@
+2019/11/08 04:38:11.825 - MENSAJE: Error (Presenter Liquidacion): MC.Exception.ServiceException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.6060636. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.6060636. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: La solicitud HTTP a 'http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc' superó el tiempo de espera asignado de 00:00:59.8210000. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.Net.WebException: Se excedió el tiempo de espera de la operación
+   en System.Net.HttpWebRequest.GetResponse()
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en MC.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en MC.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1171
+   en MC.ServiceProxy.ProxyService.<>c__DisplayClass32.<ObtenerDatosLiquidacion>b__30(LiquidacionServiceClient client) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 39
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 53
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en MC.WCFProxy.SafeProxy.DoAction[T](T client, Action`1 action) en c:\Proyectos\Desarrollo_ParkingColombia\MC.WCFProxy\SafeProxy.cs:línea 60
+   en MC.ServiceProxy.ProxyService.ObtenerDatosLiquidacion(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Proyectos\Desarrollo_ParkingColombia\MC.ServiceProxy\Liquidacion\ProxyService_Liquidacion.cs:línea 38
+2019/11/08 04:38:12.158 - INICIO REGISTRO
+2019/11/08 04:38:12.395 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
